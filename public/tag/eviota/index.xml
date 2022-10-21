@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eviota | Reprex</title>
+    <link>https://reprex.nl/tag/eviota/</link>
+      <atom:link href="https://reprex.nl/tag/eviota/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eviota</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2022 08:13:55 +0200</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>Eviota</title>
+      <link>https://reprex.nl/tag/eviota/</link>
+    </image>
+    
+    <item>
+      <title>iotables: Integrate Data from Reliable Statistical Sources for Economic and Environmental Impact Analysis</title>
+      <link>https://reprex.nl/post/2022-09-24_iotables_release/</link>
+      <pubDate>Sat, 24 Sep 2022 08:13:55 +0200</pubDate>
+      <guid>https://reprex.nl/post/2022-09-24_iotables_release/</guid>
+      <description>&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-download-iotableshttpsiotablesdataobservatoryeu&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Download [iotables](https://iotables.dataobservatory.eu/)&#34; srcset=&#34;
+               /media/img/screenshots/iotables_16x9_20220924_hu4b2e6c38561a6427131d3d3870d829af_142818_6985e8c665c26941f85a6f35ad86086e.webp 400w,
+               /media/img/screenshots/iotables_16x9_20220924_hu4b2e6c38561a6427131d3d3870d829af_142818_d4ef3da6ab4fb4f7314ccecbc6dde91c.webp 760w,
+               /media/img/screenshots/iotables_16x9_20220924_hu4b2e6c38561a6427131d3d3870d829af_142818_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/screenshots/iotables_16x9_20220924_hu4b2e6c38561a6427131d3d3870d829af_142818_6985e8c665c26941f85a6f35ad86086e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Download &lt;a href=&#34;https://iotables.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iotables&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;The iotables R package is an open-source, scientifically validated package that collects and integrates data from reliable statistical sources and performs economic and environmental impact analysis. It is the backbone of our connected financial-sustainability reporting tool, Eviota, because it can analyze the value chains of 64 industries in every European country for free. It is your starting point to calculate employment, tax, or greenhouse gas multipliers for various policy actions in your country.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The 0.9.1 version of iotables was released today on CRAN. This new minor release contains a bug fix reported by a user and some documentation improvements. Check out our &lt;a href=&#34;https://iotables.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;product page&lt;/a&gt; and our &lt;a href=&#34;https://iotables.dataobservatory.eu/articles/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;examples&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;The iotables package works with the open-source R statistical environment. We programmed every example of the &lt;a href=&#34;https://ec.europa.eu/eurostat/documents/3859598/5902113/KS-RA-07-013-EN.PDF/b0b3d71e-3930-4442-94be-70b36cea9b39?version=1.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurostat Manual of Supply, Use and Input-Output Tables&lt;/a&gt;, which can be used both as a control tool for our package and as a comprehensive, extended handbook on use.&lt;/li&gt;
+&lt;li&gt;We have also started to meet the demands of a more global audience by adding more and more examples from the  &lt;a href=&#34;https://unstats.un.org/unsd/nationalaccount/docs/SUT_IOT_HB_Final_Cover.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Handbook on Supply and Use Tables and Input-Output Tables with Extensions and Applications&lt;/a&gt; published by the United Nations. Our goal is to make both our iotables a free analytic and data processing tool and our premium Eviota ESG reporting premium solution applicable anywhere in the world.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# From CRAN:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;install.packages&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;iotables&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# From Github (development version)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;devtools&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;install_github&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;rOpenGov/iotables&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# with vignettes:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;devtools&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;install_github&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;rOpenGov/iotables&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;build_vignettes&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;TRUE&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The iotables tool has hundreds of technical and professional users in the world. We know that it is not for the faint heart. In 2022 we started the development of a tool that will create impact assessments for small companies or civil society organizations without the need to learn and use R.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reprex</title>
+      <link>https://reprex.nl/slides/reprex-esg-pitch/</link>
+      <pubDate>Wed, 21 Sep 2022 16:00:00 +0200</pubDate>
+      <guid>https://reprex.nl/slides/reprex-esg-pitch/</guid>
+      <description>&lt;h1 id=&#34;big-data-creates-inequalities&#34;&gt;Big Data Creates Inequalities&lt;/h1&gt;
+&lt;p&gt;Only the largest corporations, best-endowed universities, and rich governments can afford data collection and processing capacities that are large enough to harness the advantages of AI.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slide-navigation&#34;&gt;Slide navigation&lt;/h2&gt;
+&lt;p&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;️&amp;gt;&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt; | Previous :️&lt;code&gt;&amp;lt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt; | Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;|  Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click 🖱️&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;big-data-that-works-for-all&#34;&gt;Big data that works for all&lt;/h1&gt;
+&lt;p&gt;Reprex: No matter how big is the problem or how small is your team, we fill your reports, dashboards, newsletters, books with data and its visualization.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;connected-financial-and-sustainability-reporting-based-on-open-data&#34;&gt;Connected financial and sustainability reporting based on open data&lt;/h2&gt;
+&lt;p&gt;Eviota: We map your material impacts in your value chain and connect it with environmental or social data that is re-used from the public sector.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-problems-reprex&#34;&gt;Data problems: Reprex&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:95%&#34;&gt;Most SMEs, and civil society organizations do not have a data scientist/engineer in their team, maybe not even an IT person or a HR professional to make such a hire.&lt;/p?
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:95%&#34;&gt;When these organizations must solve novel problems, like connecting their financial accounts with environmental and social impact data or connecting to automated transaction systems (like in music), they need novel solutions that do not require managing a database within their organization.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-problems-eviota&#34;&gt;Data problems: Eviota&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:95%&#34;&gt;Most SMEs, and civil society organizations do not have a data scientist/engineer in their team, maybe not even an IT person or a HR professional to make such a hire.&lt;/p?
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:95%&#34;&gt;To access green bank loans, insurance products, subsidies, or investments, or to keep track of their sustainability goals in line with the Paris Accord or gender equality plan, organizations must connect their accounting system to external environmental data.  We connect their accounts with impact estimates from reliable scientific sources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-problems-examples&#34;&gt;Data problems (examples)&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width:200px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;difficulty_bills_levels.jpg&#34; height=&#34;130&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;The cost of questionnaire-based market research (survey) is increasing exponentially and offers mediocre results without an enormous question bank and harmonization with other surveys.(See &lt;a href=&#34;https://reprex.nl/data/surveys/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 blogpost&lt;/a&gt;) &lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;photo-1490004047268-5259045aa2b4.jpg&#34; height=&#34;130&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Manual data acquisition is an error-prone and boring task for humans that requires many working hours (often not credited in consultancies, law firms, or research institutes.)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;Sisyphus_Bodleian_Library.png&#34;  height=&#34;130&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Wrangling spreadsheet tables or word processor documents by people without data knowledge is the &lt;a href=&#34;https://reprex.nl/post/2021-07-08-data-sisyphus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 data Sisyphus&lt;/a&gt;.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;our-solution-reprex&#34;&gt;Our solution: Reprex&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;We create data ecosystems with the modernization of the EU/OECD/UN-endorsed &#39;data observatory&#39; concept. Our data observatory 3.0 uses the knowledge graphs of the web of data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;We acquire and process data on a scale in our data observatories. We acquire and process data on a scale in our data observatories. Our approach significantly reduces the cost of data acquisition and opens invisible, reliable governmental and scientific data sources. We are currently building five observatories, and one of them is already mature enough to be considered for official EU recognition (serving the music industry).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;We provide applications, for example, our Eviota application, which connects financial accounts with environmental and social data, and crates reliable indicators and benchmarks for the requirements of the sustainable finance package. &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;our-solution-eviota-non-financial&#34;&gt;Our solution: Eviota (Non-Financial)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:80%&#34;&gt;We create data ecosystems with the modernization of the EU/OECD/UN-endorsed &#39;data observatory&#39; concept. Our Green Deal Data Observatory uses the knowledge graphs of the web of data and gives access to reliable, often unseen, hard-to-access ESG data sources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;We acquire and process data on a scale in our data observatories. Our approach significantly reduces the cost of data acquisition and opens invisible, reliable governmental and scientific data sources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;We provide applications, for example, our Eviota application, which connects financial accounts with environmental and social data, and crates reliable indicators and benchmarks for the requirements of the sustainable finance package.  Unlike our competitors, we can serve SMEs, too, at a competitive cost.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;our-solution-eviota-for-banks&#34;&gt;Our solution: Eviota (For Banks)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:70%&#34;&gt;We create data ecosystems with the modernization of the EU/OECD/UN-endorsed &#39;data observatory&#39; concept. Our Green Deal Data Observatory uses the knowledge graphs of the web of data and gives access to reliable, often unseen, hard-to-access ESG data sources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:70%&#34;&gt;We acquire and process data on a scale in our data observatories. Our approach significantly reduces the cost of data acquisition and opens invisible, reliable governmental and scientific data sources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:70%&#34;&gt;We provide applications, for example, our Eviota application, which connects financial accounts with environmental and social data, and crates reliable indicators and benchmarks for the requirements of the sustainable finance package. We are validating our product in the regulatory sandbox of a central bank to show that we provide a cost-effective solution to many regulatory problems opened by the new [sustainable finance package of the EU](https://finance.ec.europa.eu/publications/sustainable-finance-package_en).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;uniiq&#34;&gt;UNIIQ&lt;/h2&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Objectives, including product roadmap (technology/time/money)&lt;/li&gt;
+&lt;li&gt;Schematic overview of developments since inception&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;market&#34;&gt;Market&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;competition&#34;&gt;Competition&lt;/h2&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;know-how-and-integration-of-open-source-components&#34;&gt;Know-how and integration of open source components&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;Reprex has a special know-how to map and connect private datasets managing the boundaries of organizations that often have conflicting interests. Our know-how was developed over 10 years, and the data of about 60, often conflicting music industry actors in 12 countries.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;Our team has many years of experience with working public sector information reuse, or &#39;open data&#39;, and have built reliable open source software to process legally open, not readily downloadable, and very valuable information that is not available for market vendors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;We use RDF (linked open data) and other technologies to link scattered small data to big data; we use our own R libraries to test and process various data into reliable statistical data or indicators.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;Based on our unique data access and software we are developing the Eviota App to connect financial accounts and environmental, social and governance data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;team-rewrite-with-gdo&#34;&gt;Team [rewrite with GDO]&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width:200px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;reprex_contributors_20220920_2_1.png&#34; width=&#34;200&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;The two co-founders, &lt;a href=&#34;https://reprex.nl/authors/daniel_antal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 Daniel Antal, CFA&lt;/a&gt; and &lt;a href=&#34;https://reprex.nl/authors/andres/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 Andrés García Molina, PhD&lt;/a&gt;, and the core team manage the ecosystems&amp;rsquo; development, develop knowledge management, and direct the software development. &lt;a href=&#34;https://reprex.nl/#team&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 Team on full screen&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;dmo_contributors_20220920_2_1.png&#34; width=&#34;200&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Each observatory has a broader team of users, data and knowledge curators, and developers. The most developed &lt;a href=&#34;https://music.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱️ Digital Music Observatory&lt;/a&gt; has 16 institutional users and a team of about 20 music and data professionals. The newer observatories have a smaller, initial service development and data curatorial team.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Inception: Yes!Delft AI+Blockchain Product Market Fit Validation with the Digital Music Observatory&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;New observatory development started with computational antitrust, ESG reporting, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Several, peer reviewed software releases&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DMO has more than 20 curators, 3 million euro budget for 3 years, increasing user base.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eviota and the Green Deal&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;We are part of rOpenGov and have access to very special knowledge working with national accounts data and ESG data used by governments to keep track with the Paris Accord. We can access data cheaper, faster, better than our competitors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We have a know-how to manage conflicts of interest and very complex data use rights.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-observatories-30&#34;&gt;Data observatories 3.0&lt;/h2&gt;
+&lt;p style=&#34;font-size:90%&#34;&gt;Reprex is offering shared data ecosystems. Our observatories are great solutions for organizations without a data specialization:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;🌳 Organizations that cannot afford to build a large enough data team to sustain consistent, extensive data collection and processing (many large institutions and companies)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;🪴  Who cannot hire even a single data engineer or a data scientist (medium-sized companies, NGOs)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;🌱 Who do not even have a permanent IT function (about 2 million European small enterprises and civil society organizations)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width:200px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;observatory_collage_3x2_800.png&#34; height=&#34;140&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:60%&#34;&gt;The European Union, the World Bank, OECD, and UN have facilitated the creation of more than 80 so-called &amp;lsquo;data observatories&amp;rsquo; to help companies, researchers, NGOs, and governments systematically collect data and knowledge.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;dmo_opening_page_20220920_16x9.png&#34; height=&#34;140&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:60%&#34;&gt;We are currently building one prototype for the European Music Observatory financed by the European Union and music industry players (cc 3-4 million euros.)  We would like to take over existing or start new observatories in 2 years at least 5)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;gold_panning_slide_notitle.png&#34; height=&#34;140&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:60%&#34;&gt;Our observatories are competitive, because they use high-quality open source scientific software; they exploit the new Data Governance Act and Open Data Directive, deploy web 3.0 data synchronization, and offer great value-added research products.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Platform products&lt;/th&gt;
+&lt;th&gt;Value added data applications&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:65%&#34;&gt;The European Union, the World Bank, OECD, and UN have facilitated the creation of more than 80 so-called &amp;lsquo;data observatories&amp;rsquo; to help companies, researchers, NGOs, and governments systematically collect data and knowledge.&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:65%&#34;&gt;The different observatories offer different types of knowledge products, such as statistical yearbooks, various apps, and database access.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Most of them use web 1.0 technologies, inefficient knowledge accumulation.  Already 20 of them have been discontinued.&lt;/td&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:65%&#34;&gt;We are developing software solutions that exploit our platforms: we harmonize surveys, statistical data, automate research reporting, elements of market monitoring or ESG reporting.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:65%&#34;&gt; We are currently building one prototype for the European Music Observatory financed by the European Union and music industry players (cc 3-4 million euros.)  We would like to take over existing or start new observatories  in 2 years at least 5) &lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Each observatory gives us intimidate customer access to 3-4 large universities, 1-2 large consultancies, and various specialist institutions. &lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;marketing-strategy&#34;&gt;Marketing strategy&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width:160px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;dmo_opening_page_20220920_16x9.png&#34; width=&#34;160&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;Buma/Stemra like copyright management agencies, music export offices, festivals and venues,  University of Amsterdam, Sant’Anna, Economic University of Bratislava, ministries of culture, grant agencies.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;ccsi_opening_page_20220920_16x9.png&#34; width=&#34;160&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;University of Amsterdam, Europeana, Sant’Anna, Hungarian Film Fund&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;gdo_opening_page_20220920_16x9.png&#34; width=&#34;160&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;Connected financial and sustainability reporting: bank consultancies, big four audit companies, large environmental NGOs.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;cdo_opening_page_20220920_16x9.png&#34; width=&#34;160&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;Antitrust agencies, law firms, economics consultancies working with mergers and other competition related issues.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;target-market-size&#34;&gt;Target market size&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;The observatory platforms usually have a build-up cost of about 3-5 million euros and an annual running costs of 0.1-3 million  euros.&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;We hope to gain at least 10% global market share on the observatory platform management market to pay our basic data science team and R&amp;amp;D. &lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt; Our existing observatories give us access to the market and public surveying markets (cc € 30-40 bn in the developed nations), particularly to  its software component (€ 10 billion euros). &lt;/p&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize&lt;/a&gt; integrates pre-existing questionnaire-based surveys and new surveys. We see interest from the biggest global players. &lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;Our existing observatories gave us access to environmental impact assessment and currently we build an ESG reporting tool with a central bank, a value bank, and a big four company. &lt;/p&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;Connected ESG reporting has a €4 bn market in the EU alone, and our &lt;a href=&#34;https://reprex.nl/apps/eviota/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eviota product&lt;/a&gt; is very competitive. Due to regulatory pressure, we can harvest a decent share if we are able to attract venture capital. &lt;p/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width:200px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;reprex_contributors_20220920_2_1.png&#34; width=&#34;200&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;The two co-founders, &lt;a href=&#34;https://reprex.nl/authors/daniel_antal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 Daniel Antal, CFA&lt;/a&gt; and &lt;a href=&#34;https://reprex.nl/authors/andres/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 Andrés García Molina, PhD&lt;/a&gt;, and the core team manage the ecosystems&amp;rsquo; development, develop knowledge management, and direct the software development. &lt;a href=&#34;https://reprex.nl/#team&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 Team on full screen&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;dmo_contributors_20220920_2_1.png&#34; width=&#34;200&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Each observatory has a broader team of users, data and knowledge curators, and developers. The most developed &lt;a href=&#34;https://music.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱️ Digital Music Observatory&lt;/a&gt; has 16 institutional users and a team of about 20 music and data professionals. The newer observatories have a smaller, initial service development and data curatorial team.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;traction&#34;&gt;Traction&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;💻 Our free scientific software products have a steadily growing user base (several thousand users globally.) &lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;📈  We are able to convert this to paying research automation services at a higher growth rate.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;🚀  We won four competitive tenders this year, but we feel that the slow tendering/acquisition/cash cycle is hampering our growth, we see far more opportunities that we can serve. Therefore we are looking for investors.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt; We have a good track record in EU tenders, but we would like to build up this reputation in the Netherlands, too, mainly for new platforms.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;We help our non-profit users, such as cultural heritage organizations, music export offices, collective rights management agencies to get funding to use our platforms and services&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;Our for profit-users need a more polished, user-friendlier front-end.  Some are interested in joint ventures (like exploiting our survey capabilities). Venture capital would be preferred, as demand outstrips growth.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;!---
+
+## Pool and take over work where humans fail 
+
+- The cost of questionnaire-based market research (survey) is increasing exponentially and offers mediocre results without an enormous question bank and harmonization with other surveys.
+- Manual data acquisition is an error-prone and boring task for humans that requires many working hours (often not credited in consultancies, law firms, or research institutes.)
+- Wrangling spreadsheet tables or word processor documents by people without data knowledge is the data Sisyphus.
+
+---
+
+## Open source software and open platform
+
+- Our survey harmonization tool offers hundreds of thousands of answers for your questionnaire item from dozens of countries and many years. We reduce the market research cost while exponentially increasing its value with data harmonization.
+- We use automated statistical software or web 3.0 technology to synchronize data automatically with our client&#39;s database, dashboard, or spreadsheet.
+- Our observatories automate repetitive processing tasks like re-formatting, currency translation, measurement units, documentation, bibliography, and hypertext link management with many computerized &#39;unit tests.&#39;  We let the computer do the work where humans often make errors or remain hopelessly slow.
+---
+
+## Shared evidence ecosystems: data observatories
+
+- Organizations that cannot afford to build a large enough data team to sustain consistent, extensive data collection and processing (many large institutions and companies)
+- Who cannot hire even a single data engineer or a data scientist
+- Who do not even have a permanent IT function (about 2 million European small enterprises and civil organizations)
+
+---
+---&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;contest-hague-award-2022.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+&lt;!---
+&lt;div class=&#34;r-stack&#34;&gt;
+  &lt;img class=&#34;fragment fade-out&#34; data-fragment-index=&#34;0&#34; src=&#34;https://placekitten.com/450/300&#34; width=&#34;450&#34; height=&#34;300&#34;&gt;
+  &lt;img class=&#34;fragment current-visible&#34; data-fragment-index=&#34;0&#34; src=&#34;https://placekitten.com/300/450&#34; width=&#34;300&#34; height=&#34;450&#34;&gt;
+  &lt;img class=&#34;fragment&#34; src=&#34;https://placekitten.com/400/400&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;/div&gt;
+
+---
+
+&lt;div class=&#34;r-stack&#34;&gt;
+  &lt;img class=&#34;fragment&#34; src=&#34;https://placekitten.com/450/300&#34; width=&#34;450&#34; height=&#34;300&#34;&gt;
+  &lt;img class=&#34;fragment&#34; src=&#34;https://placekitten.com/300/450&#34; width=&#34;300&#34; height=&#34;450&#34;&gt;
+  &lt;img class=&#34;fragment&#34; src=&#34;https://placekitten.com/400/400&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;/div&gt;
+
+---
+
+## What are data observatories?
+
+- There are more than 60 functional, and about 20 already discontinued data observatories, i.e. long-term, usually triangular (business, academic, policy) data collection institutions recognized by the EU, OECD or UNESCO, including the [European Observatory on Infringements of Intellectual Property Rights](https://single-market-economy.ec.europa.eu/industry/strategy/intellectual-property/enforcement-intellectual-property-rights/european-observatory-infringements-intellectual-property-rights_en#:~:text=The%20European%20Observatory%20on%20Infringements,countries%2C%20businesses%20and%20civil%20society.) of the EU or the [European Audiovisual Observatory](https://www.obs.coe.int/en/web/observatoire) of the Council of Europe.
+
+---
+---&gt;
+&lt;h2 id=&#34;do-it-smarter&#34;&gt;Do it Smarter&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;They usually do not exchange standard data with statistical agencies, they are not synchronized on knowledge graphs of the Europeana or national libraries, and their research output is usually not to be found on open science repositories.&lt;/li&gt;
+&lt;li&gt;The Hague is the winner of the &lt;a href=&#34;https://thehague.com/businessagency/the-hague-the-winner-world-smart-city-award-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Smart City Award 2021&lt;/a&gt;, and we would like to attract the planned European Music Observatory and other, EU/UNESCO recognized institutions into the town building on the innovations of Reprex and the ecosystem of the Hague.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://reprex.nl/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Email&lt;/a&gt; | &lt;a href=&#34;https://keybase.io/team/reprexcommunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keybase&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/antaldaniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Antal&lt;/a&gt; - &lt;a href=&#34;https://www.linkedin.com/company/68855596&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reprex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://reprex.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Home&lt;/a&gt; - &lt;a href=&#34;https://reprex.nl/talk/impactcity-startup-support-xl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;One Pager ImpactCity Startup Support XL&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eviota</title>
+      <link>https://reprex.nl/apps/eviota/</link>
+      <pubDate>Tue, 30 Aug 2022 13:52:00 +0200</pubDate>
+      <guid>https://reprex.nl/apps/eviota/</guid>
+      <description>&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-reporting-the-impacts-of-the-entire-value-chain&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Reporting the impacts of the entire value chain.&#34; srcset=&#34;
+               /media/img/eviota/Scope3_chart_16x9_hu81c1fe0b93fa6721ab158b4e6fbc6f21_139223_43b52122e0051695682d67c8269be519.webp 400w,
+               /media/img/eviota/Scope3_chart_16x9_hu81c1fe0b93fa6721ab158b4e6fbc6f21_139223_524ddda7e3e6b2c781616a7a29cb6296.webp 760w,
+               /media/img/eviota/Scope3_chart_16x9_hu81c1fe0b93fa6721ab158b4e6fbc6f21_139223_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/eviota/Scope3_chart_16x9_hu81c1fe0b93fa6721ab158b4e6fbc6f21_139223_43b52122e0051695682d67c8269be519.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Reporting the impacts of the entire value chain.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;Our minimum viable product will create sustainability reports (or report components) for greenhouse gases and sustainable water use with applying the &lt;code&gt;Global GHG Accounting &amp;amp; Reporting Standard for the Financial Industry&lt;/code&gt; and EFRAG’s proposed concept on connecting European accounting standards and information with sustainability. We will help small music organizations in their sustainability reporting, where detail data and reporting standards are only available for greenhouse gas emissions. The &lt;code&gt;Music Eviota&lt;/code&gt; project is supported by the &lt;a href=&#34;#greenrecovery&#34;&gt;MusicAIRE&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;open-collaboration&#34;&gt;Open collaboration&lt;/h2&gt;
+&lt;p&gt;Our project is based on open collaboration.  Our proposal, if funded, will provide us with resources to supply further music businesses, music civil society organizations and researchers with high-quality data (during the duration of the project for free.)  We are already looking for interested parties to put our data and research projects into use and validate their usability and quality in real-life policy or business development scenarios.&lt;/p&gt;
+&lt;h2 id=&#34;why-are-we-developing-this-service&#34;&gt;Why are we developing this service?&lt;/h2&gt;
+&lt;p&gt;The European Green Deal, which includes the proposed Corporate Sustainability Reporting Directive, and the sustainable finance package, aims to set the European economy on a permanent decarbonization and sustainability increasing path with adjusting the rules how economic activities are financed by bank loans, insurance, investments, and direct subsidies. From 2023, it will be cheaper to get loans, insurance, and other types of funding for organizations that can prove that they follow the environmental, social and
+governance path set out in the Paris Agreement and other UN, OECD, and EU agreements.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-requirements-for-connecting-financial-and-sustainability-reporting&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Requirements for connecting financial and sustainability reporting.&#34; srcset=&#34;
+               /media/img/eviota/Eviota_EFRAG_requirements_hu3389cdfb13c4fd9efff0a2d75d3bc17d_231927_ba07bcb2cab6a041c8fa07a66f44c402.webp 400w,
+               /media/img/eviota/Eviota_EFRAG_requirements_hu3389cdfb13c4fd9efff0a2d75d3bc17d_231927_4a745162ba521fe0933b7f1e31de6032.webp 760w,
+               /media/img/eviota/Eviota_EFRAG_requirements_hu3389cdfb13c4fd9efff0a2d75d3bc17d_231927_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/eviota/Eviota_EFRAG_requirements_hu3389cdfb13c4fd9efff0a2d75d3bc17d_231927_ba07bcb2cab6a041c8fa07a66f44c402.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Requirements for connecting financial and sustainability reporting.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;Correct and reliable sustainability management will come with many financial advantages and increased responsibility. The &lt;a href=&#34;https://www.efrag.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Financial Reporting Advisory Board&lt;/a&gt; is currently preparing the new combined financial and sustainability reporting standard that will be used in banks, insurance, investment, granting, and the large companies of Europe in their entire supply and purchaser chain. The European Commission estimates that compliance costs until the end of 2023 will amount to 4 billion euros, with reporting and auditing costs mounting 10,000 euros per organization. While music small and medium sized organizations (MSMEs) and limited liability civil society organizations (CSOs) will be exempted from mandatory sustainability management and audited reporting, they can still comply in a non-audited and voluntary way.&lt;/p&gt;
+&lt;p&gt;Our solution benefits the music MSMEs and CSOs in several ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; It provides them with a size adequate sustainability management and reporting tool that helps first the management of greenhouse gas emissions, and later sustainable water use, pollutions, biodiversity, and recycling in their entire value chain (for example, it flags environmental risks in the supply base of a festival including equipment rentals, transport, security firms, catering facilities, etc.) by connecting standard accounting documents of the MSME with SNA and EEA science based benchmarks.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Our system will be extendible to management of social sustainability. Our previous research shows that particularly the live music industry that needs a large workforce, suffers from underuse of, and discrimination of female workers in various technical and even managerial roles. Our system will be able to flag risks of gender paygap and related issues in the entire value chain and of course, provide good benchmarks for internal activities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our review of the environmental, social and governance risk management (ESG sustainability management) suggests that complying with ESG standards is not only a pre-requisite to get cheaper loans (less important) and cheaper insurance (very important in live music), but also a requirement by corporate sponsors of events, and even a large part of the audience. While some music organizations already provide sustainability reporting, they are not standardized and are less factful as they are not connected to accounting information at every point. Our solution aims to give much credibility to both the sustainability
+reports and non-financial disclosures of the financial reports (which are not mandatory for MSMEs but increase their trustworthiness on an elective basis if they are included.)&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-growing-interest-for-esg-in-select-countries&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Growing interest for ESG in select countries.&#34; srcset=&#34;
+               /media/img/eviota/ESG_Google_Trends_16x9_huc3bd75ffb5daec299206cbea1c4b49e6_542409_0a59bfe887466112faad4bfbc9443a02.webp 400w,
+               /media/img/eviota/ESG_Google_Trends_16x9_huc3bd75ffb5daec299206cbea1c4b49e6_542409_a1272dfbaa30da4a4a48191780a56d5b.webp 760w,
+               /media/img/eviota/ESG_Google_Trends_16x9_huc3bd75ffb5daec299206cbea1c4b49e6_542409_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/eviota/ESG_Google_Trends_16x9_huc3bd75ffb5daec299206cbea1c4b49e6_542409_0a59bfe887466112faad4bfbc9443a02.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Growing interest for ESG in select countries.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Developing a software-as-service solution for micro-, and small enterprises</title>
+      <link>https://reprex.nl/post/2022-06-09-music-eviota/</link>
+      <pubDate>Thu, 09 Jun 2022 09:40:00 +0100</pubDate>
+      <guid>https://reprex.nl/post/2022-06-09-music-eviota/</guid>
+      <description>&lt;p&gt;The music sector must increase its environmental and social (ESG) sustainability management to meet the challenges of the climate emergency and to make the music sector a fairer, more just workplace for womxn and artists coming from minorities, small countries. The European Union will make target setting and audited reporting mandatory in environmental and social sustainability for large companies.  The application of these new accounting, reporting and disclosure rules are optional for the music sector where almost all entities are micro-, or small enterprises and civil society organizations.&lt;/p&gt;
+&lt;p&gt;Even if music organizations are not pushed by regulators to adopt these new standards, it is in their best interest to take the initiative on the principle of subsidiarty, and develop tools that can be applied as an extension to their simplified financial and tax reporting. Music organizations and businesses that can prove that they are making progress in reducing their carbon footprint, making their water use more sustainable, and they provide equal opportunities for womxn, they will be eligible for new, green bank and insurance products (which are particularly important in live music) and can attract new sponsors and donors.&lt;/p&gt;
+&lt;p&gt;Compliance with these new rules is very costly, because tools are being developed for stock-exchange listed big companies and financial institutions. The Commission&amp;rsquo;s impact assessment (SWD/2021/150 final) estimates the cost of compliance with the Corporate Social Responsibility Directive exceeding 4 bn euros for the European companies or around 10,000 euros per company. Reprex, working together with large accounting, audit and value-based banking partners, scientific, research and industry partners in the Digital Music Observatory open knowledge collaboration, hopes to bring down this cost below 500 euros, which will immediately pay off when a music organization receives green money.&lt;/p&gt;
+&lt;p&gt;We are working on a simple interface that can connect the accounting system of micro and small enterprises with new methodologies, starting with greenhouse gas reporting with Reprex’s open source EEIO application &lt;a href=&#34;https://iotables.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iotables&lt;/a&gt;. We will keep many aspects of our software and data solution open, so that later methodological innovations and scientific achievements can be easily incorporated into the system. Reprex’s minimum viable product will be created in four iteration rounds in Malta, Czechia, Bulgaria and Belgium. However, our testing is open for any amount of donations to any music entities in the European Union who can provide input data in English or Dutch, or be able to pay for their translation and localization costs.&lt;/p&gt;
+&lt;p&gt;Link: &lt;a href=&#34;https://musicaire.eu/2022/07/12/final-list-of-awarded-projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Final List of Awareded Projects by MusicAIRE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

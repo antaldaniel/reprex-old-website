@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Hague | Reprex</title>
+    <link>https://reprex.nl/tag/the-hague/</link>
+      <atom:link href="https://reprex.nl/tag/the-hague/index.xml" rel="self" type="application/rss+xml" />
+    <description>The Hague</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Sep 2022 08:12:00 +0200</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>The Hague</title>
+      <link>https://reprex.nl/tag/the-hague/</link>
+    </image>
+    
+    <item>
+      <title>Reprex Nominated for The Hague Innovators Award</title>
+      <link>https://reprex.nl/post/2022-09-13-the-hague-innovators-award/</link>
+      <pubDate>Tue, 13 Sep 2022 08:12:00 +0200</pubDate>
+      <guid>https://reprex.nl/post/2022-09-13-the-hague-innovators-award/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Reprex is a finalist for The Hague Innovators Award 2022, and the prize of the audience, in the startup category with our respectable competitors, Sibö, WECO, STHRIVE and ECOBLOQ.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;The transition towards a sustainable and inclusive economy depends on collaboration. That is why we are bringing together startups, scale-ups, investors, policymakers, and other impact makers from around the world in The Hague for the 7th edition of ImpactFest.&lt;/p&gt;
+&lt;p&gt;With the &lt;a href=&#34;https://www.impactcity.nl/en/service/the-hague-innovators-challenge/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Hague Innovators Challenge&lt;/a&gt;, the municipality of The Hague challenges startups, scale-ups, and students to present their innovative ideas for global issues, as described in the UN Sustainable Development Goals (SDGs).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

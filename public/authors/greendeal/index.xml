@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Green Deal Data Observatory Team | Reprex</title>
+    <link>https://reprex.nl/authors/greendeal/</link>
+      <atom:link href="https://reprex.nl/authors/greendeal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Green Deal Data Observatory Team</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://reprex.nl/authors/greendeal/avatar_hu6cf1aff5b0c36a8ccc63b1529bc4b435_54362_270x270_fill_lanczos_center_3.png</url>
+      <title>Green Deal Data Observatory Team</title>
+      <link>https://reprex.nl/authors/greendeal/</link>
+    </image>
+    
+  </channel>
+</rss>

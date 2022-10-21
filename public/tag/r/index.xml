@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Reprex</title>
+    <link>https://reprex.nl/tag/r/</link>
+      <atom:link href="https://reprex.nl/tag/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 16:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>R</title>
+      <link>https://reprex.nl/tag/r/</link>
+    </image>
+    
+    <item>
+      <title>Learn R with Reprex</title>
+      <link>https://reprex.nl/slides/learnr-with-reprex/</link>
+      <pubDate>Wed, 21 Sep 2022 16:00:00 +0200</pubDate>
+      <guid>https://reprex.nl/slides/learnr-with-reprex/</guid>
+      <description>&lt;h1 id=&#34;big-data-creates-inequalities&#34;&gt;Big Data Creates Inequalities&lt;/h1&gt;
+&lt;p&gt;Only the largest corporations, best-endowed universities, and rich governments can afford data collection and processing capacities that are large enough to harness the advantages of AI.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slide-navigation&#34;&gt;Slide navigation&lt;/h2&gt;
+&lt;p&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;️&amp;gt;&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt; | Previous :️&lt;code&gt;&amp;lt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt; | Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;|  Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click 🖱️&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;big-data-that-works-for-all&#34;&gt;Big data that works for all&lt;/h1&gt;
+&lt;p&gt;Reprex: No matter how big is the problem or how small is your team, we fill your reports, dashboards, newsletters, books with data and its visualization.&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;retroharmonize_example_1.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;retroharmonize_example_2.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;retroharmonize_readme.webp&#34;
+  &gt;
+
+&lt;h2 id=&#34;run-code-from-tutorials&#34;&gt;Run code from tutorials&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;github_issues_spotifyR&#34;
+  &gt;
+
+&lt;h2 id=&#34;find-help-ask-for-help-reprex&#34;&gt;Find help, ask for help: reprex&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;retroharmonize_tutorials.webp&#34;
+  &gt;
+
+&lt;h2 id=&#34;documentation-for-better-tutorials&#34;&gt;Documentation for better tutorials&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;retroharmonize_r_testthat.webp&#34;
+  &gt;
+
+&lt;h2 id=&#34;debugging-and-testing-code&#34;&gt;Debugging and testing code&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;retroharmonize_r_documentation.webp&#34;
+  &gt;
+
+&lt;h2 id=&#34;contribute-to-documentation&#34;&gt;Contribute to documentation&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;retroharmonize_r_code.webp&#34;
+  &gt;
+
+&lt;h2 id=&#34;r-is-a-functional-language&#34;&gt;R is a functional language&lt;/h2&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;rmd_example.webp&#34;
+  &gt;
+
+&lt;h2 id=&#34;r--yaml--markdown--web-ready&#34;&gt;R + YAML + markdown = web ready&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;retroharmonize_website.webp&#34;
+  &gt;
+
+&lt;h2 id=&#34;package-and-release-a-team-effort&#34;&gt;Package and release: a team effort&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-problems-reprex&#34;&gt;Data problems: Reprex&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:95%&#34;&gt;Most SMEs, and civil society organizations do not have a data scientist/engineer in their team, maybe not even an IT person or a HR professional to make such a hire.&lt;/p?
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:95%&#34;&gt;When these organizations must solve novel problems, like connecting their financial accounts with environmental and social impact data or connecting to automated transaction systems (like in music), they need novel solutions that do not require managing a database within their organization.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-problems-eviota&#34;&gt;Data problems: Eviota&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:95%&#34;&gt;Most SMEs, and civil society organizations do not have a data scientist/engineer in their team, maybe not even an IT person or a HR professional to make such a hire.&lt;/p?
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:95%&#34;&gt;To access green bank loans, insurance products, subsidies, or investments, or to keep track of their sustainability goals in line with the Paris Accord or gender equality plan, organizations must connect their accounting system to external environmental data.  We connect their accounts with impact estimates from reliable scientific sources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-problems-examples&#34;&gt;Data problems (examples)&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width:200px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;difficulty_bills_levels.jpg&#34; height=&#34;130&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;The cost of questionnaire-based market research (survey) is increasing exponentially and offers mediocre results without an enormous question bank and harmonization with other surveys.(See &lt;a href=&#34;https://reprex.nl/data/surveys/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 blogpost&lt;/a&gt;) &lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;photo-1490004047268-5259045aa2b4.jpg&#34; height=&#34;130&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Manual data acquisition is an error-prone and boring task for humans that requires many working hours (often not credited in consultancies, law firms, or research institutes.)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;Sisyphus_Bodleian_Library.png&#34;  height=&#34;130&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Wrangling spreadsheet tables or word processor documents by people without data knowledge is the &lt;a href=&#34;https://reprex.nl/post/2021-07-08-data-sisyphus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 data Sisyphus&lt;/a&gt;.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;our-solution-reprex&#34;&gt;Our solution: Reprex&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;We create data ecosystems with the modernization of the EU/OECD/UN-endorsed &#39;data observatory&#39; concept. Our data observatory 3.0 uses the knowledge graphs of the web of data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;We acquire and process data on a scale in our data observatories. We acquire and process data on a scale in our data observatories. Our approach significantly reduces the cost of data acquisition and opens invisible, reliable governmental and scientific data sources. We are currently building five observatories, and one of them is already mature enough to be considered for official EU recognition (serving the music industry).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;We provide applications, for example, our Eviota application, which connects financial accounts with environmental and social data, and crates reliable indicators and benchmarks for the requirements of the sustainable finance package. &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;our-solution-eviota-non-financial&#34;&gt;Our solution: Eviota (Non-Financial)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:80%&#34;&gt;We create data ecosystems with the modernization of the EU/OECD/UN-endorsed &#39;data observatory&#39; concept. Our Green Deal Data Observatory uses the knowledge graphs of the web of data and gives access to reliable, often unseen, hard-to-access ESG data sources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;We acquire and process data on a scale in our data observatories. Our approach significantly reduces the cost of data acquisition and opens invisible, reliable governmental and scientific data sources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;We provide applications, for example, our Eviota application, which connects financial accounts with environmental and social data, and crates reliable indicators and benchmarks for the requirements of the sustainable finance package.  Unlike our competitors, we can serve SMEs, too, at a competitive cost.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;our-solution-eviota-for-banks&#34;&gt;Our solution: Eviota (For Banks)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:70%&#34;&gt;We create data ecosystems with the modernization of the EU/OECD/UN-endorsed &#39;data observatory&#39; concept. Our Green Deal Data Observatory uses the knowledge graphs of the web of data and gives access to reliable, often unseen, hard-to-access ESG data sources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:70%&#34;&gt;We acquire and process data on a scale in our data observatories. Our approach significantly reduces the cost of data acquisition and opens invisible, reliable governmental and scientific data sources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:70%&#34;&gt;We provide applications, for example, our Eviota application, which connects financial accounts with environmental and social data, and crates reliable indicators and benchmarks for the requirements of the sustainable finance package. We are validating our product in the regulatory sandbox of a central bank to show that we provide a cost-effective solution to many regulatory problems opened by the new [sustainable finance package of the EU](https://finance.ec.europa.eu/publications/sustainable-finance-package_en).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://reprex.nl/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Email&lt;/a&gt; | &lt;a href=&#34;https://keybase.io/team/reprexcommunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keybase&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/antaldaniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Antal&lt;/a&gt; - &lt;a href=&#34;https://www.linkedin.com/company/68855596&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reprex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://reprex.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Home&lt;/a&gt; - &lt;a href=&#34;https://reprex.nl/talk/impactcity-startup-support-xl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;One Pager ImpactCity Startup Support XL&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>stacodelists: use standard, language-independent variable codes to help international data interoperability and machine reuse in R</title>
+      <link>https://reprex.nl/post/2022-06-29-statcodelists/</link>
+      <pubDate>Wed, 29 Jun 2022 08:12:00 +0100</pubDate>
+      <guid>https://reprex.nl/post/2022-06-29-statcodelists/</guid>
+      <description>&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-visit-the-documentation-website-of-statcodelists-on-statcodelistsdataobservatoryeuhttpsstatcodelistsdataobservatoryeu&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Visit the documentation website of statcodelists on [statcodelists.dataobservatory.eu/](https://statcodelists.dataobservatory.eu/).&#34; srcset=&#34;
+               /media/img/blogposts_2022/statcodelists_website_huef7e1379be389a62e3a47c5a8502e55c_102481_0b514d80337ede30bff4c26cee6a6f11.webp 400w,
+               /media/img/blogposts_2022/statcodelists_website_huef7e1379be389a62e3a47c5a8502e55c_102481_1416f7a0950b1cecac8097850d995432.webp 760w,
+               /media/img/blogposts_2022/statcodelists_website_huef7e1379be389a62e3a47c5a8502e55c_102481_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/blogposts_2022/statcodelists_website_huef7e1379be389a62e3a47c5a8502e55c_102481_0b514d80337ede30bff4c26cee6a6f11.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Visit the documentation website of statcodelists on &lt;a href=&#34;https://statcodelists.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;statcodelists.dataobservatory.eu/&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;!-- badges: start --&gt;
+&lt;p&gt;&lt;a href=&#34;https://dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://img.shields.io/badge/ecosystem-dataobservatory.eu-3EA135.svg&#34; alt=&#34;dataobservatory&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.6751783&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://zenodo.org/badge/DOI/10.5281/zenodo.6751783.svg&#34; alt=&#34;DOI&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;!-- badges: end --&gt;
+&lt;p&gt;The goal of &lt;code&gt;statcodelists&lt;/code&gt; is to promote the reuse and exchange of statistical information and related metadata with making the internationally standardized SDMX code lists available for the R user. SDMX – the &lt;a href=&#34;https://sdmx.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistical Data and Metadata eXchange&lt;/a&gt; has been published as an ISO International Standard (ISO 17369). The metadata definitions, including the codelists are updated regularly according to the standard. The authoritative version of the code lists made available in this package is &lt;a href=&#34;https://sdmx.org/?page_id=3215/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sdmx.org/?page_id=3215/&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;
+&lt;p&gt;Cross-domain concepts in the SDMX framework describe concepts relevant to many, if not all, statistical domains. SDMX recommends using these concepts whenever feasible in SDMX structures and messages to promote the reuse and exchange of statistical information and related metadata between organisations.&lt;/p&gt;
+&lt;p&gt;Code lists are predefined sets of terms from which some statistical coded concepts take their values. SDMX cross-domain code lists are used to support cross-domain concepts. What are these cross-domain coded concepts?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Geographical codes, like &lt;code&gt;NL&lt;/code&gt;:  the Netherlands in the &lt;a href=&#34;https://statcodelists.dataobservatory.eu/reference/CL_AREA.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CL_AREA&lt;/a&gt; code list.&lt;/li&gt;
+&lt;li&gt;Standard industry codes &lt;code&gt;J631&lt;/code&gt; for Data processing, hosting and related activities in Europe. (&lt;a href=&#34;https://statcodelists.dataobservatory.eu/reference/CL_ACTIVITY_NACE2.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NACE Rev 2&lt;/a&gt; in Europe, beware, it is &lt;code&gt;J592&lt;/code&gt;in Australia and New Zealand, see &lt;a href=&#34;https://statcodelists.dataobservatory.eu/reference/CL_ACTIVITY_ANZSIC06.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CL_ACTIVITY_ANZSIC06&lt;/a&gt;.)&lt;/li&gt;
+&lt;li&gt;Occupations, like &lt;code&gt;OC2521&lt;/code&gt; for &lt;code&gt;Database designers and administrators&lt;/code&gt; in &lt;a href=&#34;https://statcodelists.dataobservatory.eu/reference/CL_OCCUPATION.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CL_OCCUPATIONS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Time fomatting standards, like &lt;code&gt;CCYY&lt;/code&gt; for annual data series in &lt;a href=&#34;https://statcodelists.dataobservatory.eu/reference/CL_TIME_FORMAT.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CL_TIME_FORMAT&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Check out the available codlists on the &lt;a href=&#34;https://statcodelists.dataobservatory.eu/reference/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;package homepage&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The use of common code lists will help users to work even more efficiently, easing the maintenance of and reducing the need for mapping systems and interfaces delivering data and metadata to them. A very obvious advantage of using the code systems is that you can retrieve data from national sources indifferent of the natural language used in North Macedonia, Japan, the U.S. or the Netherlands. While the data labels may change to be locally human-readable, computers and geeks can read the codes and understand them immediately. Provided that they use the standard codes.&lt;/p&gt;
+&lt;p&gt;Our data observatories are rolling out SDMX coding across all datasets to help data ingestion and interoperability, data findability and data reuse. &lt;code&gt;statcodelists&lt;/code&gt; can help the use of standard SDMX codes in your R workflow&amp;ndash;both for downloading data from statistical agencies and to produce publication-ready datasets that the rest of the world (and even APIs) will understand.&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;p&gt;You can install &lt;code&gt;statcodelists&lt;/code&gt; from CRAN:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;install.packages(&amp;#34;statcodelists&amp;#34;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Further recommended code values for expressing general statistical concepts like &lt;code&gt;not applicable&lt;/code&gt;, etc., can be found in section &lt;code&gt;Generic codes&lt;/code&gt; of the &lt;a href=&#34;https://sdmx.org/?page_id=4345&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guidelines for the creation and management of SDMX Cross-Domain Code Lists&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For further codelists used by reliable statistical agency but not harmonized on SDMX level please consult the &lt;a href=&#34;https://registry.sdmx.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SDMX Global Registry&lt;/a&gt; &lt;a href=&#34;https://registry.sdmx.org/items/codelist.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Codelists&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;The creator of this package is not affiliated with SDMX, and this package was has not been endorsed by SDMX.&lt;/p&gt;
+&lt;h2 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h2&gt;
+&lt;p&gt;Please note that the &lt;code&gt;statcodelists&lt;/code&gt; project is released with a &lt;a href=&#34;https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Code of Conduct&lt;/a&gt;. By contributing to this project, you agree to abide by its terms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Including Indicators from Arab Barometer in Our Observatory</title>
+      <link>https://reprex.nl/post/2021-06-28-arabbarometer/</link>
+      <pubDate>Mon, 28 Jun 2021 09:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/post/2021-06-28-arabbarometer/</guid>
+      <description>&lt;p&gt;&lt;em&gt;A new version of the retroharmonize R package – which is working with retrospective, ex post harmonization of survey data – was released yesterday after peer-review on CRAN. It allows us to compare opinion polling data from the Arab Barometer with the Eurobarometer and Afrorbarometer. This is the first version that is released in the rOpenGov community, a community of R package developers on open government data analytics and related topics.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Surveys are the most important data sources in social and economic
+statistics – they ask people about their lives, their attitudes and
+self-reported actions, or record data from companies and NGOs. Survey
+harmonization makes survey data comparable across time and countries. It
+is very important, because often we do not know without comparison if an
+indicator value is &lt;em&gt;low&lt;/em&gt; or &lt;em&gt;high&lt;/em&gt;. If 40% of the people think that
+&lt;em&gt;climate change is a very serious problem&lt;/em&gt;, it does not really tell us
+much without knowing what percentage of the people answered this
+question similarly a year ago, or in other parts of the world.&lt;/p&gt;
+&lt;p&gt;With the help of Ahmed Shabani and Yousef Ibrahim, we created a third
+case study after the
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/eurobarometer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurobarometer&lt;/a&gt;,
+and
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/afrobarometer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Afrobarometer&lt;/a&gt;,
+about working with the &lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/arabbarometer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arab
+Barometer&lt;/a&gt;
+harmonized survey data files.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Ex ante&lt;/em&gt; survey harmonization means that researchers design
+questionnaires that are asking the same questions with the same survey
+methodology in repeated, distinct times (waves), or across different
+countries with carefully harmonized question translations. &lt;em&gt;Ex post&lt;/em&gt;
+harmonizations means that the resulting data has the same variable
+names, same variable coding, and can be joined into a tidy data frame
+for joint statistical analysis. While seemingly a simple task, it
+involves plenty of metadata adjustments, because established survey
+programs like Eurobarometer, Afrobarometer or Arab Barometer have
+several decades of history, and several decades of coding practices and
+file formatting legacy.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Variable harmonization&lt;/em&gt; means that if the same question is called
+in one microdata source &lt;code&gt;Q108&lt;/code&gt; and the other &lt;code&gt;eval-parl-elections&lt;/code&gt;
+then we make sure that they get a harmonize and machine readable
+name without spaces and special characters.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Variable label harmonization&lt;/em&gt; means that the same questionnaire
+items get the same numeric coding and same categorical labels.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Missing case harmonization&lt;/em&gt; means that various forms of missingness
+are treated the same way.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-for-the-evaluation-of-the-economic-situation-dataset-get-the-country-averages-and-aggregates-from-zenodohttpdoiorg105281zenodo5036432-and-the-plot-in-jpg-or-png-from-figsharehttpsfigsharecomarticlesfigurearab_barometer_5_econ_eval_by_country_png14865498&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/blogposts_2021/arab_barometer_5_evon_eval_by_country.png&#34; alt=&#34;For the evaluation of the economic situation dataset, get the country averages and aggregates from [Zenodo](http://doi.org/10.5281/zenodo.5036432), and the plot in `jpg` or `png` from [figshare](https://figshare.com/articles/figure/arab_barometer_5_econ_eval_by_country_png/14865498).&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      For the evaluation of the economic situation dataset, get the country averages and aggregates from &lt;a href=&#34;http://doi.org/10.5281/zenodo.5036432&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;, and the plot in &lt;code&gt;jpg&lt;/code&gt; or &lt;code&gt;png&lt;/code&gt; from &lt;a href=&#34;https://figshare.com/articles/figure/arab_barometer_5_econ_eval_by_country_png/14865498&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;figshare&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;In our new &lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/arabbarometer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arab Barometer case
+study&lt;/a&gt;,
+the evaulation of parliamentary elections has the following labels. We
+code them consistently &lt;code&gt;1:  free_and_fair&lt;/code&gt;, &lt;code&gt;2:  some_minor_problems&lt;/code&gt;,
+&lt;code&gt;3:  some_major_problems&lt;/code&gt; and &lt;code&gt;4:  not_free&lt;/code&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col style=&#34;width: 50%&#34; /&gt;
+&lt;col style=&#34;width: 50%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“0. missing”&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“1. they were completely free and fair”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“2. they were free and fair, with some minor problems”&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“3. they were free and fair, with some major problems”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“4. they were not free and fair”&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“8. i don’t know”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“9. declined to answer”&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“Missing”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“They were completely free and fair”&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“They were free and fair, with some minor breaches”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“They were free and fair, with some major breaches”&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“They were not free and fair”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“Don’t know”&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“Refuse”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“Completely free and fair”&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“Free and fair, but with minor problems”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“Free and fair, with major problems”&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“Not free or fair”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“Don’t know (Do not read)”&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;“Decline to answer (Do not read)”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Of course, this harmonization is essential to get clean results like this:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-for-evaluation-or-reuse-of-parliamentary-elections-dataset-get-the-replication-data-and-the-code-from-the-zenodohhttpsdoiorg105281zenodo5034759-open-repository&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;For evaluation or reuse of parliamentary elections dataset get the replication data and the code from the [Zenodo](hhttps://doi.org/10.5281/zenodo.5034759) open repository.&#34; srcset=&#34;
+               /media/img/blogposts_2021/arabb-comparison-country-chart_hu876e56138097bf35e9ab80c0a7351314_159521_30b9d9bccbe8f347c912dbe10ef5159c.webp 400w,
+               /media/img/blogposts_2021/arabb-comparison-country-chart_hu876e56138097bf35e9ab80c0a7351314_159521_f7e62366b8310160e9cdd16714a5ac44.webp 760w,
+               /media/img/blogposts_2021/arabb-comparison-country-chart_hu876e56138097bf35e9ab80c0a7351314_159521_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/blogposts_2021/arabb-comparison-country-chart_hu876e56138097bf35e9ab80c0a7351314_159521_30b9d9bccbe8f347c912dbe10ef5159c.webp&#34;
+               width=&#34;506&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      For evaluation or reuse of parliamentary elections dataset get the replication data and the code from the &lt;a href=&#34;hhttps://doi.org/10.5281/zenodo.5034759&#34;&gt;Zenodo&lt;/a&gt; open repository.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;In our case study, we had three forms of missingness: the respondent
+&lt;em&gt;did not know&lt;/em&gt; the answer, the respondent &lt;em&gt;did not want&lt;/em&gt; to answer, and
+at last, in some cases the &lt;em&gt;respondent was not asked&lt;/em&gt;, because the
+country held no parliamentary elections. While in numerical processing,
+all these answers must be left out from calculating averages, for
+example, in a more detailed, categorical analysis they represent very
+different cases. A high level of refusal to answer may be an indicator
+of surpressing democratic opinion forming in itself.&lt;/p&gt;
+&lt;p&gt;Survey harmonization with many countries entails tens of thousands of
+small data management task, which, unless automatically documented,
+logged, and created with a reproducible code, is a helplessly
+error-prone process. We believe that our open-source software will bring
+many new statistical information to the light, which, while legally
+open, was never processed due to the large investment needed.&lt;/p&gt;
+&lt;p&gt;We also started building experimental APIs data is running
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize&lt;/a&gt; regularly.
+We will place cultural access and participation data in the &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital
+Music Observatory&lt;/a&gt;, climate
+awareness, policy support and self-reported mitigation strategies into
+the &lt;a href=&#34;https://greendeal.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Deal Data
+Observatory&lt;/a&gt;, and economy and
+well-being data into our &lt;a href=&#34;https://economy.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Economy Data
+Observatory&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;further-plans&#34;&gt;Further plans&lt;/h2&gt;
+&lt;p&gt;Retrospective survey harmonization is a far more complex task than this
+blogpost suggest. Retrospective survey harmonization is a far more complex task than this blogpost suggest, because established survey programs have gathered decades of legacy data in legacy coding schemes and legacy file formats.  Putting the data right, and especially putting the invaluable descriptive and administrative (processing) metadata right is a huge undertaking. We are releasing example codes, datasets and charts for researchers to comapre our harmonized results with theirs, and improve our software. We are releasing example codes, datasets and charts
+for researchers to comapre our harmonized results with theirs, and
+improve our software.&lt;/p&gt;
+&lt;h3 id=&#34;use-our-software&#34;&gt;Use our software&lt;/h3&gt;
+&lt;p&gt;The &lt;code&gt;retroharmonize&lt;/code&gt; R package can be freely used, modified and
+distributed under the GPL-3 license. For the main developer and
+contributors, see the
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;package&lt;/a&gt; homepage. If you
+use it for your work, please kindly cite it as:&lt;/p&gt;
+&lt;p&gt;Daniel Antal (2021). retroharmonize: Ex Post Survey Data Harmonization.
+R package version 0.1.17. &lt;a href=&#34;https://doi.org/10.5281/zenodo.5034752&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5281/zenodo.5034752&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the &lt;a href=&#34;https://reprex.nl/media/bibliography/cite-retroharmonize.bib&#34; target=&#34;_blank&#34;&gt;BibLaTeX entry&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;tutorial-to-work-with-the-arab-barometer-survey-data&#34;&gt;Tutorial to work with the Arab Barometer survey data&lt;/h3&gt;
+&lt;p&gt;Daniel Antal, &amp;amp; Ahmed Shaibani. (2021, June 26). Case Study: Working
+With Arab Barometer Surveys for the retroharmonize R package (Version
+0.1.6). Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.5034759&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5281/zenodo.5034759&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For the replication data to report potential
+&lt;a href=&#34;https://github.com/rOpenGov/retroharmonize/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;issues&lt;/a&gt; and
+improvement suggestions with the code:&lt;/p&gt;
+&lt;p&gt;Daniel Antal, &amp;amp; Ahmed Shaibani. (2021). Replication Data for the
+retroharmonize R Package Case Study: Working With Arab Barometer Surveys
+(Version 0.1.6) [Data set]. Zenodo.
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.5034741&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5281/zenodo.5034741&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;experimental-api&#34;&gt;Experimental API&lt;/h3&gt;
+&lt;p&gt;We are also experimenting with the automated placement of authoritative
+and citeable figures and datasets in open repositories. For the climate
+awareness dataset get the country averages and aggregates from
+&lt;a href=&#34;http://doi.org/10.5281/zenodo.5036432&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;, and the plot in &lt;code&gt;jpg&lt;/code&gt;
+or &lt;code&gt;png&lt;/code&gt; from &lt;a href=&#34;https://figshare.com/articles/figure/arab_barometer_5_econ_eval_by_country_png/14865498&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;figshare&lt;/a&gt;.
+Our plan is to release open data in a modern API with rich descriptive
+metadata meeting the &lt;em&gt;Dublin Core&lt;/em&gt; and &lt;em&gt;DataCite&lt;/em&gt; standards, and further
+administrative metadata for correct coding, joining and further
+manipulating or data, or for easy import into your database.&lt;/p&gt;
+&lt;h3 id=&#34;join-our-open-source-effort&#34;&gt;Join our open source effort&lt;/h3&gt;
+&lt;p&gt;Want to help us improve our open data service? Include
+&lt;a href=&#34;https://www.latinobarometro.org/lat.jsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lationbarómetro&lt;/a&gt; and the
+&lt;a href=&#34;https://caucasusbarometer.org/en/datasets/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Caucasus Barometer&lt;/a&gt; in our
+offering? Join the rOpenGov community of R package developers, an our
+open collaboration to create the automated data observatories. We are
+not only looking for
+&lt;a href=&#34;https://reprex.nl/authors/developer/&#34;&gt;developers&lt;/a&gt;,
+but &lt;a href=&#34;https://reprex.nl/authors/curator/&#34;&gt;data
+curators&lt;/a&gt; and
+&lt;a href=&#34;https://reprex.nl/authors/team/&#34;&gt;service design
+associates&lt;/a&gt;, too.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Data - The New Gold Without the Rush</title>
+      <link>https://reprex.nl/post/2021-06-18-gold-without-rush/</link>
+      <pubDate>Fri, 18 Jun 2021 17:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/post/2021-06-18-gold-without-rush/</guid>
+      <description>&lt;p&gt;&lt;em&gt;If open data is the new gold, why even those who release fail to reuse it? We created an open collaboration of data curators and open-source developers to dig into novel open data sources and/or increase the usability of existing ones. We transform reproducible research software into research- as-service.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Every year, the EU announces that billions and billions of data are now “open” again, but this is not gold. At least not in the form of nicely minted gold coins, but in gold dust and nuggets found in the muddy banks of chilly rivers. There is no rush for it, because panning out its value requires a lot of hours of hard work. Our goal is to automate this work to make open data usable at scale, even in trustworthy AI solutions.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-there-is-no-rush-for-it-because-panning-out-its-value-requires-a-lot-of-hours-of-hard-work-our-goal-is-to-automate-this-work-to-make-open-data-usable-at-scale-even-in-trustworthy-ai-solutions&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;There is no rush for it, because panning out its value requires a lot of hours of hard work. Our goal is to automate this work to make open data usable at scale, even in trustworthy AI solutions.&#34; srcset=&#34;
+               /media/img/slides/gold_panning_slide_notitle_hu8f7296f20da8c17f972a0534c44322c2_1382486_b042523dffe8143dea3d8c8c9c3262f4.webp 400w,
+               /media/img/slides/gold_panning_slide_notitle_hu8f7296f20da8c17f972a0534c44322c2_1382486_faa00e96d3d0b700cfcf1daa513f3ad2.webp 760w,
+               /media/img/slides/gold_panning_slide_notitle_hu8f7296f20da8c17f972a0534c44322c2_1382486_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/slides/gold_panning_slide_notitle_hu8f7296f20da8c17f972a0534c44322c2_1382486_b042523dffe8143dea3d8c8c9c3262f4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      There is no rush for it, because panning out its value requires a lot of hours of hard work. Our goal is to automate this work to make open data usable at scale, even in trustworthy AI solutions.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Most open data is not public, it is not downloadable from the Internet – in the EU parlance, “open” only means a legal entitlement to get access to it. And even in the rare cases when data is open and public, often it is mired by data quality issues. We are working on the prototypes of a data-as-service and research-as-service built with open-source statistical software that taps into various and often neglected open data sources.&lt;/p&gt;
+&lt;p&gt;We are in the prototype phase in June and our intentions are to have a well-functioning service by the time of the conference, because we are working only with open-source software elements; our technological readiness level is already very high. The novelty of our process is that we are trying to further develop and integrate a few open-source technology items into technologically and financially sustainable data-as-service and even research-as-service solutions.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-our-review-of-about-80-eu-un-and-oecd-data-observatories-reveals-that-most-of-them-do-not-use-these-organizationss-open-data---instead-they-use-various-and-often-not-well-processed-proprietary-sources&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Our review of about 80 EU, UN and OECD data observatories reveals that most of them do not use these organizations&amp;#39;s open data - instead they use various, and often not well processed proprietary sources.&#34; srcset=&#34;
+               /media/img/observatory_screenshots/observatory_collage_16x9_800_hu47f74f5cdae63c7248c2367b9d148671_353025_0079ea9844f6c5e52b52fd0e627467a2.webp 400w,
+               /media/img/observatory_screenshots/observatory_collage_16x9_800_hu47f74f5cdae63c7248c2367b9d148671_353025_ecd6d08ba5e9bac19c8173546f036651.webp 760w,
+               /media/img/observatory_screenshots/observatory_collage_16x9_800_hu47f74f5cdae63c7248c2367b9d148671_353025_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/observatory_screenshots/observatory_collage_16x9_800_hu47f74f5cdae63c7248c2367b9d148671_353025_0079ea9844f6c5e52b52fd0e627467a2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Our review of about 80 EU, UN and OECD data observatories reveals that most of them do not use these organizations&amp;rsquo;s open data - instead they use various, and often not well processed proprietary sources.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;We are taking a new and modern approach to the &lt;code&gt;data observatory&lt;/code&gt; concept, and modernizing it with the application of 21st century data and metadata standards, the new results of reproducible research and data science. Various UN and OECD bodies, and particularly the European Union support or maintain more than 60 data observatories, or permanent data collection and dissemination points, but even these do not use these organizations and their members open data. We are building open-source data observatories, which run open-source statistical software that automatically processes and documents reusable public sector data (from public transport, meteorology, tax offices, taxpayer funded satellite systems, etc.) and reusable scientific data (from EU taxpayer funded research) into new, high quality statistical indicators.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-we-are-taking-a-new-and-modern-approach-to-the-data-observatory-concept-and-modernizing-it-with-the-application-of-21st-century-data-and-metadata-standards-the-new-results-of-reproducible-research-and-data-science&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/slides/automated_observatory_value_chain.jpg&#34; alt=&#34;We are taking a new and modern approach to the ‘data observatory’ concept, and modernizing it with the application of 21st century data and metadata standards, the new results of reproducible research and data science&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      We are taking a new and modern approach to the ‘data observatory’ concept, and modernizing it with the application of 21st century data and metadata standards, the new results of reproducible research and data science
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;We are building various open-source data collection tools in R and Python to bring up data from big data APIs and legally open, but not public, and not well served data sources. For example, we are working on capturing representative data from the Spotify API or creating harmonized datasets from the Eurobarometer and Afrobarometer survey programs.&lt;/li&gt;
+&lt;li&gt;Open data is usually not public; whatever is legally accessible is usually not ready to use for commercial or scientific purposes. In Europe, almost all taxpayer funded data is legally open for reuse, but it is usually stored in heterogeneous formats, processed into an original government or scientific need, and with various and low documentation standards. Our expert data curators are looking for new data sources that should be (re-) processed and re-documented to be usable for a wider community. We would like to introduce our service flow, which touches upon many important aspects of data scientist, data engineer and data curatorial work.&lt;/li&gt;
+&lt;li&gt;We believe that even such generally trusted data sources as Eurostat often need to be reprocessed, because various legal and political constraints do not allow the common European statistical services to provide optimal quality data – for example, on the regional and city levels.&lt;/li&gt;
+&lt;li&gt;With &lt;a href=&#34;https://reprex.nl/authors/ropengov/&#34;&gt;rOpenGov&lt;/a&gt; and other partners, we are creating open-source statistical software in R to re-process these heterogenous and low-quality data into tidy statistical indicators to automatically validate and document it.&lt;/li&gt;
+&lt;li&gt;We are carefully documenting and releasing administrative, processing, and descriptive metadata, following international metadata standards, to make our data easy to find and easy to use for data analysts.&lt;/li&gt;
+&lt;li&gt;We are automatically creating depositions and authoritative copies marked with an individual digital object identifier (DOI) to maintain data integrity.&lt;/li&gt;
+&lt;li&gt;We are building simple databases and supporting APIs that release the data without restrictions, in a tidy format that is easy to join with other data, or easy to join into databases, together with standardized metadata.&lt;/li&gt;
+&lt;li&gt;We maintain observatory websites (see: &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt;, &lt;a href=&#34;https://greendeal.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Deal Data Observatory&lt;/a&gt;, &lt;a href=&#34;https://economy.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Economy Data Observatory&lt;/a&gt;) where not only the data is available, but we provide tutorials and use cases to make it easier to use them. Our mission is to show a modern, 21st century reimagination of the data observatory concept developed and supported by the UN, EU and OECD, and we want to show that modern reproducible research and open data could make the existing 60 data observatories and the planned new ones grow faster into data ecosystems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We are working around the open collaboration concept, which is well-known in open source software development and reproducible science, but we try to make this agile project management methodology more inclusive, and include data curators, and various institutional partners into this approach. Based around our early-stage startup, Reprex, and the open-source developer community rOpenGov, we are working together with other developers, data scientists, and domain specific data experts in climate change and mitigation, antitrust and innovation policies, and various aspects of the music and film industry.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-our-open-collaboration-is-truly-open-new-data-curatorsauthorscuratordevelopersauthorsdeveloper-and-service-designersauthorsteam-even-volunteers-and-citizen-scientists-are-welcome-to-join&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Our open collaboration is truly open: new [data curators](/authors/curator/),[developers](/authors/developer/) and [service designers](/authors/team/), even volunteers and citizen scientists are welcome to join.&#34; srcset=&#34;
+               /media/img/observatory_screenshots/dmo_contributors_hua4f41ef7327b64bb97f169af135070bd_140729_a07a8e618fa7317f6f8256b9a334262e.webp 400w,
+               /media/img/observatory_screenshots/dmo_contributors_hua4f41ef7327b64bb97f169af135070bd_140729_3a4ae7f72478fd880961b08e1f7075dd.webp 760w,
+               /media/img/observatory_screenshots/dmo_contributors_hua4f41ef7327b64bb97f169af135070bd_140729_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/observatory_screenshots/dmo_contributors_hua4f41ef7327b64bb97f169af135070bd_140729_a07a8e618fa7317f6f8256b9a334262e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Our open collaboration is truly open: new &lt;a href=&#34;https://reprex.nl/authors/curator/&#34;&gt;data curators&lt;/a&gt;,&lt;a href=&#34;https://reprex.nl/authors/developer/&#34;&gt;developers&lt;/a&gt; and &lt;a href=&#34;https://reprex.nl/authors/team/&#34;&gt;service designers&lt;/a&gt;, even volunteers and citizen scientists are welcome to join.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Our open collaboration is truly open: new &lt;a href=&#34;https://reprex.nl/authors/curator/&#34;&gt;data curators&lt;/a&gt;, data scientists and data engineers are welcome to join. We develop open-source software in an agile way, so you can join in with an intermediate programming skill to build unit tests or add new functionality, and if you are a beginner, you can start with documentation and testing our tutorials. For business, policy, and scientific data analysts, we provide unexploited, exciting new datasets. Advanced developers can &lt;a href=&#34;https://reprex.nl/authors/developer/&#34;&gt;join&lt;/a&gt; our development team: the statistical data creation is mainly made in the R language, and the service infrastructure in Python and Go components.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>There are Numerous Advantages of Switching from a National Level of the Analysis to a Sub National Level</title>
+      <link>https://reprex.nl/post/2021-06-16-regions-release/</link>
+      <pubDate>Wed, 16 Jun 2021 12:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/post/2021-06-16-regions-release/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/package_screenshots/regions_017_169.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;The new version of our &lt;a href=&#34;https://ropengov.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenGov&lt;/a&gt; R package
+&lt;a href=&#34;https://regions.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions&lt;/a&gt; was released today on
+CRAN. This package is one of the engines of our experimental open
+data-as-service &lt;a href=&#34;https://greendeal.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Deal Data
+Observatory&lt;/a&gt; , &lt;a href=&#34;https://economy.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Economy Data
+Observatory&lt;/a&gt; , &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music
+Observatory&lt;/a&gt; prototypes, which aim to
+place open data packages into open-source applications.&lt;/p&gt;
+&lt;p&gt;In international comparison the use of nationally aggregated indicators
+often have many disadvantages: they inhibit very different levels of
+homogeneity, and data is often very limited in number of observations
+for a cross-sectional analysis. When comparing European countries, a few
+missing cases can limit the cross-section of countries to around 20
+cases which disallows the use of many analytical methods. Working with
+sub-national statistics has many advantages: the similarity of the
+aggregation level and high number of observations can allow more precise
+control of model parameters and errors, and the number of observations
+grows from 20 to 200-300.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-change-from-national-to-sub-national-level-comes-with-a-huge-data-processing-price-internal-administrative-boundaries-their-names-codes-codes-change-very-frequently&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The change from national to sub-national level comes with a huge data processing price: internal administrative boundaries, their names, codes codes change very frequently.&#34; srcset=&#34;
+               /media/img/blogposts_2021/indicator_with_map_hue9f606f6489f63a22f67aeb7e2b3402b_98843_df043b13fb62aa7b45aa15fad51f4229.webp 400w,
+               /media/img/blogposts_2021/indicator_with_map_hue9f606f6489f63a22f67aeb7e2b3402b_98843_09a0d6124e334c5f1727420a059512a9.webp 760w,
+               /media/img/blogposts_2021/indicator_with_map_hue9f606f6489f63a22f67aeb7e2b3402b_98843_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/blogposts_2021/indicator_with_map_hue9f606f6489f63a22f67aeb7e2b3402b_98843_df043b13fb62aa7b45aa15fad51f4229.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      The change from national to sub-national level comes with a huge data processing price: internal administrative boundaries, their names, codes codes change very frequently.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Yet the change from national to sub-national level comes with a huge
+data processing price. While national boundaries are relatively stable,
+with only a handful of changes in each recent decade. The change of
+national boundaries requires a more-or-less global consensus. But states
+are free to change their internal administrative boundaries, and they do
+it with large frequency. This means that the names, identification codes
+and boundary definitions of sub-national regions change very frequently.
+Joining data from different sources and different years can be very
+difficult.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-our-regions-r-packagehttpsregionsdataobservatoryeu-helps-the-data-processing-validation-and-imputation-of-sub-national-regional-datasets-and-their-coding&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Our [regions R package](https://regions.dataobservatory.eu/) helps the data processing, validation and imputation of sub-national, regional datasets and their coding.&#34; srcset=&#34;
+               /media/img/blogposts_2021/recoded_indicator_with_map_hubda8124fbfd6305eacfd3d4f0fcd06cc_71873_65df57cf4311bb2623535a1a5be044c0.webp 400w,
+               /media/img/blogposts_2021/recoded_indicator_with_map_hubda8124fbfd6305eacfd3d4f0fcd06cc_71873_81a53fd42fac7f0c3fe4e1a89d5b7892.webp 760w,
+               /media/img/blogposts_2021/recoded_indicator_with_map_hubda8124fbfd6305eacfd3d4f0fcd06cc_71873_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/blogposts_2021/recoded_indicator_with_map_hubda8124fbfd6305eacfd3d4f0fcd06cc_71873_65df57cf4311bb2623535a1a5be044c0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Our &lt;a href=&#34;https://regions.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions R package&lt;/a&gt; helps the data processing, validation and imputation of sub-national, regional datasets and their coding.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;There are numerous advantages of switching from a national level of the
+analysis to a sub-national level comes with a huge price in data
+processing, validation and imputation, and the
+&lt;a href=&#34;https://regions.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions&lt;/a&gt; package aims to help this
+process.&lt;/p&gt;
+&lt;p&gt;You can review the problem, and the code that created the two map
+comparisons, in the &lt;a href=&#34;https://regions.dataobservatory.eu/articles/maping.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maping Regional Data, Maping Metadata
+Problems&lt;/a&gt;
+vignette article of the package. A more detailed problem description can
+be found in &lt;a href=&#34;https://regions.dataobservatory.eu/articles/Regional_stats.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Working With Regional, Sub-National Statistical
+Products&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This package is an offspring of the
+&lt;a href=&#34;https://ropengov.github.io/eurostat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurostat&lt;/a&gt; package on
+&lt;a href=&#34;https://ropengov.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenGov&lt;/a&gt;. It started as a tool to
+validate and re-code regional Eurostat statistics, but it aims to be a
+general solution for all sub-national statistics. It will be developed
+parallel with other rOpenGov packages.&lt;/p&gt;
+&lt;h2 id=&#34;get-the-package&#34;&gt;Get the Package&lt;/h2&gt;
+&lt;p&gt;You can install the development version from
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;devtools::install_github(&amp;quot;rOpenGov/regions&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;or the released version from CRAN:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;install.packages(&amp;quot;regions&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;You can review the complete package documentation on
+&lt;a href=&#34;https://regions.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions.dataobservaotry.eu&lt;/a&gt;. If
+you find any problems with the code, please raise an issue on
+&lt;a href=&#34;https://github.com/rOpenGov/regions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;. Pull requests are welcome
+if you agree with the &lt;a href=&#34;https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Code of
+Conduct&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you use &lt;code&gt;regions&lt;/code&gt; in your work, please cite the
+package as:
+Daniel Antal, Kasia Kulma, Istvan Zsoldos, &amp;amp; Leo Lahti. (2021, June 16). regions (Version 0.1.7). CRAN. &lt;a href=&#34;%28https://doi.org/10.5281/zenodo.4965909%29&#34;&gt;http://doi.org/10.5281/zenodo.4965909&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cran.r-project.org/package=regions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.r-pkg.org/badges/version/regions&#34; alt=&#34;CRAN_Status_Badge&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;join-us&#34;&gt;Join us&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Join our open collaboration Economy Data Observatory team as a &lt;a href=&#34;https://reprex.nl/authors/curator&#34;&gt;data curator&lt;/a&gt;, &lt;a href=&#34;https://reprex.nl/authors/developer&#34;&gt;developer&lt;/a&gt; or &lt;a href=&#34;https://reprex.nl/authors/team&#34;&gt;business developer&lt;/a&gt;. More interested in environmental impact analysis? Try our &lt;a href=&#34;https://greendeal.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Deal Data Observatory&lt;/a&gt; team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our &lt;a href=&#34;https://music.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt; team!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/intent/follow?screen_name=EconDataObs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://img.shields.io/twitter/follow/EconDataObs.svg?style=social&#34; alt=&#34;Follow GreenDealObs&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating Algorithmic Tools to Interpret and Communicate Open Data Efficiently</title>
+      <link>https://reprex.nl/post/2021-06-04-developer-leo-lahti/</link>
+      <pubDate>Fri, 04 Jun 2021 10:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/post/2021-06-04-developer-leo-lahti/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;As a developer at rOpenGov, what type of data do you usually use in your work?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As an academic data scientist whose research focuses on the development of general-purpose algorithmic methods, I work with a range of applications from life sciences to humanities. Population studies play a big role in our research, and often the information that we can draw from public sources - geospatial, demographic, environmental - provides invaluable support. We typically use open data in combination with sensitive research data but some of the research questions can be readily addressed based on open data from statistical authorities such as Statistics Finland or Eurostat.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/partners/rOpenGov-intro.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;In your ideal data world, what would be the ultimate dataset, or datasets that you would like to see in the Music Data Observatory?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One line of our research analyses the historical trends and spread of knowledge production, in particular book printing based on large-scale metadata collections. It would be interesting to extend this research to music, to understand the contemporary trends as well as the broader historical developments. Gaining access to a large systematic collection of music and composition data from different countries across long periods of time would make this possible.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why did you decide to join the challenge and why do you think that this would be a game changer for researchers and policymakers?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Joining the challenge was a natural development based on our overall activities in this area; &lt;a href=&#34;http://ropengov.org/community/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the rOpenGov project&lt;/a&gt; has been around for a decade now, since the early days of the broader open data movement. This has also created an active international developer network and we felt well equipped for picking up the challenge. The game changer for researchers is that the project highlights the importance of data quality, even when dealing with official statistics, and provides new methods to solve these issues efficiently through the open collaboration model. For policymakers, this provides access to new high-quality curated data and case studies that can support evidence-based decision-making.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Do you have a favorite, or most used open governmental or open science data source? What do you think about it?  Could it be improved?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Regarding open government data, one of my favorites is not a single data source but a data representation standard. The &lt;a href=&#34;https://www.scb.se/en/services/statistical-programs-for-px-files/#:~:text=PX%20is%20a%20standard%20format,and%20data.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;px format&lt;/a&gt; is widely used by statistical authorities in various countries, and this has allowed us to create R tools that allow the retrieval and analysis of official statistics from many countries across Europe, spanning dozens of statistical institutions. Standardization of open data formats allows us to build robust algorithmic tools for downstream data analysis and visualization.  Open government data is still too often shared in obscure, non-standard or closed-source file formats and this is creating significant bottlenecks for the development of scalable and interoperable AI and machine learning methods that can harness the full potential of open data.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-regarding-open-government-data-one-of-my-favorites-is-not-a-single-data-source-but-a-data-representation-standard-the-px-format&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/developers/PxWeb.png&#34; alt=&#34;Regarding open government data, one of my favorites is not a single data source but a data representation standard, the Px format.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Regarding open government data, one of my favorites is not a single data source but a data representation standard, the Px format.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;From your perspective, what do you see being the greatest problem with open data in 2021?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although there are a variety of open data sources available (and the numbers continue to increase), the availability of open algorithmic tools to interpret and communicate open data efficiently is lagging behind. One of the greatest challenges for open data in 2021 is to demonstrate how we can maximize the potential of open data by designing smart tools for open data analytics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What can our automated data observatories do to make open data more credible in the European economic policy community and be accepted as verified information?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The role of the professional network backing up the project, and the possibility of getting critical feedback and later adoption by the academic communities will support the efforts. Transparency of the data harmonization operations is the key to credibility, and will be further supported by concrete benchmarks that highlight the critical differences in drawing conclusions based on original sources versus the harmonized high-quality data sets.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-we-need-to-get-critical-feedback-and-later-adoption-by-the-academic-communities&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;We need to get critical feedback and later adoption by the academic communities.&#34; srcset=&#34;
+               /media/img/observatory_screenshots/greendeal_and_zenodo_huddcd7485e56cb33c97d3e664ae383275_281994_debfc54dcf2193c7c800dab0f36de429.webp 400w,
+               /media/img/observatory_screenshots/greendeal_and_zenodo_huddcd7485e56cb33c97d3e664ae383275_281994_3b536090581f2795373e801d65371e20.webp 760w,
+               /media/img/observatory_screenshots/greendeal_and_zenodo_huddcd7485e56cb33c97d3e664ae383275_281994_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/observatory_screenshots/greendeal_and_zenodo_huddcd7485e56cb33c97d3e664ae383275_281994_debfc54dcf2193c7c800dab0f36de429.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      We need to get critical feedback and later adoption by the academic communities.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;How we can ensure the long-term sustainability of the efforts?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The extent of open data space is such that no single individual or institution can address all the emerging needs in this area. The open developer networks play a huge role in the development of algorithmic methods, and strong communities have developed around specific open data analytical environments such as R, Python, and Julia. These communities support networked collaboration and provide services such as software peer review. The long-term sustainability will depend on the support that such developer communities can receive, both from individual contributors as well as from institutions and governments.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-join-our-open-collaboration-economy-data-observatory-team-as-a-data-curatorauthorscurator-developerauthorsdeveloper-or-business-developerauthorsteam-or-share-your-data-in-our-public-repository-economy-data-observatory-on-zenodohttpszenodoorgcommunitieseconomy_observatory&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/observatory_screenshots/edo_and_zenodo.png&#34; alt=&#34;Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository [Economy Data Observatory on Zenodo](https://zenodo.org/communities/economy_observatory/)&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Join our open collaboration Economy Data Observatory team as a &lt;a href=&#34;https://reprex.nl/authors/curator&#34;&gt;data curator&lt;/a&gt;, &lt;a href=&#34;https://reprex.nl/authors/developer&#34;&gt;developer&lt;/a&gt; or &lt;a href=&#34;https://reprex.nl/authors/team&#34;&gt;business developer&lt;/a&gt;, or share your data in our public repository &lt;a href=&#34;https://zenodo.org/communities/economy_observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Economy Data Observatory on Zenodo&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;join-us&#34;&gt;Join us&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Join our open collaboration Economy Data Observatory team as a &lt;a href=&#34;https://reprex.nl/authors/curator&#34;&gt;data curator&lt;/a&gt;, &lt;a href=&#34;https://reprex.nl/authors/developer&#34;&gt;developer&lt;/a&gt; or &lt;a href=&#34;https://reprex.nl/authors/team&#34;&gt;business developer&lt;/a&gt;. More interested in environmental impact analysis? Try our &lt;a href=&#34;https://greendeal.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Deal Data Observatory&lt;/a&gt; team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our &lt;a href=&#34;https://music.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt; team!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reproducible Survey Harmonization: retroharmonize Is Released</title>
+      <link>https://reprex.nl/post/2020-09-21-retroharmonize_release/</link>
+      <pubDate>Mon, 21 Sep 2020 11:31:39 +0000</pubDate>
+      <guid>https://reprex.nl/post/2020-09-21-retroharmonize_release/</guid>
+      <description>&lt;p&gt;Our original intention was to make surveying more accessible for music and creative industry partners, by relying more on already existing survey data, and better designing complementary, smaller surveys, becasue surveying, opinion polling is becoming increasingly expensive in the develop world.  People are less and less likely to sit down for an interview in their houses.  We have tried to harmonize our custom surveys, particuarly with Kantar in Hungary and Focus in Slovakia with exisiting EU projects.  But we ended up making a part of international survey harmonization across countries and throughout years easier to automate.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/packages/ab_plot1.png&#34; alt=&#34;Harmonized results from Afrobarometer&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Surveys are like sensors for natural sciences and industrial production. They are essential for almost any social and economic statistical indicator, for calculating the inflation, parts of the GDP, participation in education programs.  Making surveys easier to harmonize and exploit more already existing survey data can bring down research cost, and can increase research value at the same time. (See our earlier blog post &lt;a href=&#34;https://dataobservatory.eu/post/2020-07-10-retroharmonize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Increase The Value Of Market Research With Open Data And Survey Harmonization&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;So, if you are an R user, you can use &lt;code&gt;install.packages(“retroharmonize”)&lt;/code&gt; to get the released 0.1.13 version and make tutorials with real Eurobarometer or Afrobarometer microdata.  With &lt;code&gt;devtools::install_github(&amp;quot;antaldaniel/retroharmonize&amp;quot;)&lt;/code&gt; you can already install the current development version 0.1.14, which handles perl-like regex, which will be necessary for our next tutorial in the making for &lt;a href=&#34;https://www.arabbarometer.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arab Barometer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize package website&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/antaldaniel/retroharmonize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize on github&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Launching Our Demo Music Observatory</title>
+      <link>https://reprex.nl/post/2020-09-15-music-observatory-launch/</link>
+      <pubDate>Tue, 15 Sep 2020 08:00:39 +0000</pubDate>
+      <guid>https://reprex.nl/post/2020-09-15-music-observatory-launch/</guid>
+      <description>&lt;p&gt;Today, on 15 September 2020, we officially launched our &lt;code&gt;minimal viable product&lt;/code&gt; as we promised to partners back in February. This was a particularly difficult period for everybody. We aspired to deliver by September in a very different environment, our hopes for commissioned work went up in flames with the pandemic, and our targeted users, musicians and music entrepreneurs, talent managers, music venues lost most of their income. The organizations helping them, granting authorities, export offices and collective management societies are overwhelmed with the problem. During these troublesome times, our team expanded, attracted great new talent, and kept working.&lt;/p&gt;
+&lt;p&gt;Our first product is the &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt;, a collaborative, automated research-based &lt;a href=&#34;https://dataobservatory.eu/faq/observatories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;observatory&lt;/a&gt; for the music industry, one that is particularly hard hit by the COVID19 crisis. Not only great artists, composers, technicians, managers fell victim to the virus, but musicians lost about 50–90% of their income from live music. This translates to a 100% loss for the live music technicians and managers.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fQJHflWPS34&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+See our &lt;a href=&#34;https://dataobservatory.eu/post/2020-09-11-creating-automated-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier blogpost&lt;/a&gt; on what you see on the video.&lt;/p&gt;
+&lt;p&gt;The music industry was never a place for great job security. For putting up a show, you usually need a network of 10–200 artists, technicians and managers to work together as freelancers without all those social benefits that many people enjoy in other walks of life. We have been trying to figure out how to help this microenterprise and freelancer-network based industry with research for five years. Our aim is to make them competitive when they are talking with their buyers: Google, Apple, Spotify, who are really heavy-weight data and AI pros. Our better plan their tours, when they will be back on the road, to understand what sort of audiences and purchasing power waits for them in different European cities.&lt;/p&gt;
+&lt;p&gt;We are launching at a time when the music industry is crying for help.Therefore, we have decided to make our demo observatory open and unfinished. Over the last 7 years, we have built up about 2000 music and creative sector indicators to be used for business KPIs, forecasting targets, grant evaluations, royalty valuations, concert demography target group analysis and other professional uses. We would like to open up, based on your needs, about 50 well-designed indicators, and pledge to keep it daily refreshed, corrected, documented, citaable, downloadable. Also, feel free to use our most valuable source code—use it for your own purposes, even modify it, as long as you keep it open.&lt;/p&gt;
+&lt;p&gt;For our smaller partners, we follow what musicians do these days on Bandcamp: name your price. We make a pledge to our small partners: if you need reliable data to plan your next grant calls, calculate royalties, compensations, predict hit candidates, give us the job—and name your price. Post-corona, you can take for a dollar the best music from Bandcamp. You can take our research products, for a limited period, for any amount you name, as long as  it is for a good cause and serves the industry, musicians, technicians or managers. In return, we ask for your feedback. Help us validate whether we are on the right track, tell us how we can cooperate after the pandemic, in better times.&lt;/p&gt;
+&lt;p&gt;Our larger and better funded partners? We ask you to pay the price we name, because we believe that it is a well-justified, fair and competitive price, set by pricing experts.&lt;/p&gt;
+&lt;p&gt;We appreciate it if you take a look at our offering, or if you pass this blogpost on to your colleagues in the industry.  Our main target audience initially are music professional in broader Europe, but we are planning to cover all major global markets very soon, too. Feedback from the U.S., Australia, Canada, Colombia, Brazil &amp;amp; Argentina is particularly welcome as we have great plans over there!&lt;/p&gt;
+&lt;h2 id=&#34;who-we-are&#34;&gt;Who we are?&lt;/h2&gt;
+&lt;p&gt;We &lt;a href=&#34;https://dataobservatory.eu/post/2020-08-24-start-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;started&lt;/a&gt; our operations on 1 September 2020 on the basis of &lt;a href=&#34;http://documentation.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID&lt;/a&gt;, a pan-European data observatory that created about 2000 music and creative industry indicators for its users. In the coming days, we are gradually opening up about 50 &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music industry&lt;/a&gt; and 50 broader creative industry indicators in a fully reproducible workflow, with daily re-freshed, re-processed, well-formatted and documented indicators for business and policy decisions.&lt;/p&gt;
+&lt;p&gt;We would like to validate this approach in one of the world&amp;rsquo;s most prestigious university-backed incubator programs, in the &lt;a href=&#34;https://www.yesdelft.com/yes-programs/ai-blockchain-validation-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI/Blockchain Validation Lab&lt;/a&gt;. We&amp;rsquo;re finalist on their selection, and all help before 23 September from our friends in the music industry is more than appreciated. If we get there, we can rely on probably the best pros in Europe to make our offering better tailored and financially sustainable.&lt;/p&gt;
+&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in touch!&lt;/h2&gt;
+&lt;p&gt;We use the very simple and extremely secure &lt;strong&gt;keybase.io&lt;/strong&gt;, a kind of mix of Whatsapp, Skype, Google Drive, One Drive and zoom. You can get in touch on that platform with us in anytime &lt;a href=&#34;https://keybase.io/team/reprexcommunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can easily contact on LinkedIn &lt;a href=&#34;https://www.linkedin.com/in/antaldaniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel&lt;/a&gt; or &lt;a href=&#34;https://www.linkedin.com/in/k%C3%A1tya-nagy-a9447730/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kátya&lt;/a&gt; and of course, we have a usually working &lt;a href=&#34;https://dataobservatory.eu/#about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;email contact form&lt;/a&gt;, too. Our email is name.surname at our main domain.&lt;/p&gt;
+&lt;h2 id=&#34;video-credits&#34;&gt;Video credits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Data acquisition and processing: Daniel Antal, CFA and Marta Kołczyńska, PhD (&lt;a href=&#34;https://music.dataobservatory.eu/economy.html#demand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;survey data&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Documentation automation: Sandor Budai&lt;/li&gt;
+&lt;li&gt;Video art: Line Matson&lt;/li&gt;
+&lt;li&gt;Music: &lt;a href=&#34;https://www.youtube.com/moonmoonmoon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating An Automated Data Observatory</title>
+      <link>https://reprex.nl/post/2020-09-11-creating-automated-observatory/</link>
+      <pubDate>Fri, 11 Sep 2020 16:00:39 +0000</pubDate>
+      <guid>https://reprex.nl/post/2020-09-11-creating-automated-observatory/</guid>
+      <description>&lt;p&gt;We are building data ecosystems, so called observatories, where scientific, business, policy and civic users can find factual information, data, evidence for their domain.  Our open source, open data, open collaboration approach allows to connect various open and proprietary data sources, and our reproducible research workflows allow us to automate data collection, processing, publication, documentation and presentation.&lt;/p&gt;
+&lt;p&gt;Our scripts are checking data sources, such as Eurostat&amp;rsquo;s Eurobase, Spotify&amp;rsquo;s API and other music industry sources every day for new information, and process any data corrections or new disclosure, interpolate, backcast or forecast missing values, make currency translations and unit conversions. This is shown illustrated with an &lt;a href=&#34;https://dataobservatory.eu/post/2020-07-25-reproducible_ingestion/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fQJHflWPS34&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;For direct access to the file visit &lt;a href=&#34;https://dataobservatory.eu/video/making-of-dmo.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In the video we show automated the creation of an observatory website with well-formatted, statistical data dissemination, a technical document in PDF and an ebook can be automated.  In our view, our technology is particularly useful technology in business and scientific researech projects, where it is important that always the most timely and correct data is being analyzed, and remains automatically documented and cited. We are ready deploy public, collaborative, or private data observatories in short time.&lt;/p&gt;
+&lt;p&gt;Data processing costs can be as high as 80% for any in-house AI deployment project. We work mainly with organization that do not have in house data science team, and acquire their data anyway from outside the organization. In their case, this rate can be as high as 95%, meaning that getting and processing the data for deploying AI can be 20x more expensive than the AI solution itself.&lt;/p&gt;
+&lt;p&gt;AI solutions require a large amount of standardized, well processed data to learn from.  We want to radically decrease the cost of data acquisition and processing for our users so that exploiting AI becomes in their reach. This is particularly important in one of our target industries, the music industries, where most of the global sales is algorithmic and AI-driven. Artists, bands, small labels, publishers, even small country national associations cannot remain competitive if they cannot participate in this technological revolution.&lt;/p&gt;
+&lt;p&gt;We &lt;a href=&#34;https://dataobservatory.eu/post/2020-08-24-start-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;started&lt;/a&gt; our operations on 1 September 2020 on the basis of &lt;a href=&#34;http://documentation.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID&lt;/a&gt;, a pan-European data observatory that created about 2000 music and creative industry indicators for its users. In the coming days, we are gradually opening up about 50 &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music industry&lt;/a&gt; and 50 broader creative industry indicators in a fully reproducible workflow, with daily re-freshed, re-processed, well-formatted and documented indicators for business and policy decisions.&lt;/p&gt;
+&lt;p&gt;We would like to validate this approach in one of the world&amp;rsquo;s most prestigious university-backed incubator programs, in the &lt;a href=&#34;https://www.yesdelft.com/yes-programs/ai-blockchain-validation-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI/Blockchain Validation Lab&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;video-credits&#34;&gt;Video credits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Data acquisition and processing: Daniel Antal, CFA and Marta Kołczyńska, PhD (&lt;a href=&#34;https://music.dataobservatory.eu/economy.html#demand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;survey data&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Documentation automation: Sandor Budai&lt;/li&gt;
+&lt;li&gt;Video art: Line Matson&lt;/li&gt;
+&lt;li&gt;Music: &lt;a href=&#34;https://www.youtube.com/moonmoonmoon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Starting-up</title>
+      <link>https://reprex.nl/post/2020-08-24-start-up/</link>
+      <pubDate>Mon, 24 Aug 2020 10:15:00 +0000</pubDate>
+      <guid>https://reprex.nl/post/2020-08-24-start-up/</guid>
+      <description>&lt;p&gt;The big day has come: the co-founders singed off the documents at the public notary and started the registration of a reproducible research start-up in Leiden.  We got a lot of support from our friends! Your encouragement gives us a lot of energy to accomplish our first milestones, and to get Reprex B.V. going!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Reprex means &amp;lsquo;reproducible example&amp;rsquo; in data science.  When you are stuck with a problem, creating a reproducible example allows other computer scientists, statisticians, programmers or data users to solve it. In 80% of the cases, you usually find the solution while creating a generalized example.  In the 20% other cases, you can reach out for help easily.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In the coming days, we are launching demo versions of our headline products, data observatories. &lt;a href=&#34;https://music.dataobservatory.eu/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music.dataobservatory.eu&lt;/a&gt; will be a fully automated online service that every day collects, processes, cleans, and publishes scientifically valid data about European music.  Very soon after we will launch two other observatories.&lt;/p&gt;
+&lt;p&gt;The creative and cultural sector, NGOs, most research institutions, data journalism teams are usually very small, and they do not have internal IT or data science capacities.  We would like to provide them a transparent, high quality, and fully open source solution to acquire data, process it without errors, document it and make sense of it. We would like to embrace the idea of open collaboration among creative enterprises, scientific researchers, NGOs, data journalists and policymakers with our work.&lt;/p&gt;
+&lt;p&gt;Our work will comply with the &lt;a href=&#34;https://www.bitss.org/opa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Policy Analysis&lt;/a&gt; standards developed by the &lt;a href=&#34;https://www.bitss.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Initiative for Transparency in the Social Sciences&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://cega.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Effective Global Action&lt;/a&gt; and the four principles of &lt;a href=&#34;http://dataobservatory.eu/reproducible/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;reproducible research&lt;/a&gt;: reviewability, replicability, confirmability and auditability.  We believe that these standards apply in reproducible finance, empirical evidence presentation in courts, or advocating sound policies and producing high-quality journalism.&lt;/p&gt;
+&lt;h2 id=&#34;help&#34;&gt;Do you want to help our start?&lt;/h2&gt;
+&lt;p&gt;We would like to enter into the Validation Lab of one of the best artificial intelligence incubators in early September. Talented team members, letters of intents and assignments from organizations will give a lot of credibility to our start &lt;a href=&#34;http://dataobservatory.eu/team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meet our team »&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Put as in contact with people who love to write code in R and interested in automating business and social science research and primary data collection such as surveying. &lt;a href=&#34;http://dataobservatory.eu/#featured&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out what sort of code we create »&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Introduce us to people who need data and information to make better informed decision and analysis in music, film, book publishing, photography services or socially responsible finance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Share contacts of data journalists who would like to develop stories from big survey programs like &lt;a href=&#34;https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurobarometer&lt;/a&gt;, &lt;a href=&#34;https://www.afrobarometer.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Afrobarometer&lt;/a&gt; and &lt;a href=&#34;https://www.latinobarometro.org/lat.jsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lationbarometro&lt;/a&gt;, or base their storytelling on data and its visualizations. &lt;a href=&#34;http://retroharmonize.satellitereport.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;See our survey harmonization examples »&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Do you know such people?  Send over this post or connect us in an email or social media message!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Thanks again for your good wishes and encouragements, and hope to hear from you soon!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

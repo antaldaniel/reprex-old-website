@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>economy | Reprex</title>
+    <link>https://reprex.nl/tag/economy/</link>
+      <atom:link href="https://reprex.nl/tag/economy/index.xml" rel="self" type="application/rss+xml" />
+    <description>economy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>economy</title>
+      <link>https://reprex.nl/tag/economy/</link>
+    </image>
+    
+    <item>
+      <title>Economy Data Observatory</title>
+      <link>https://reprex.nl/observatories/economy/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/observatories/economy/</guid>
+      <description>&lt;p&gt;Big data and automation create new inequalities and injustices and has a potential to create a jobless growth. Our Economy Observatory is a fully automated, open source, open data observatory that produces new indicators from open data sources and experimental big data sources, with authoritative copies and a modern API.&lt;/p&gt;
+&lt;p&gt;Our observatory is monitoring the European economy to protect the consumers and the small companies from unfair competition both from data and knowledge monopolization and robotization. We take a critical SME-, intellectual property policy and competition policy point of view automation, robotization, and the AI revolution on the service-oriented European social market economy.&lt;/p&gt;
+&lt;p&gt;We would like to create early-warning, risk, economic effect, and impact indicators that can be used in scientific, business and policy contexts for professionals who are working on re-setting the European economy after a devastating pandemic and in the age of AI. We would like to map data between economic activities (NACE), antitrust markets, and sub-national, regional, metropolitian area data.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-hand-point-right  pr-1 fa-fw&#34;&gt;&lt;/i&gt;Get involved in &lt;a href=&#34;https://reprex.nl/#services&#34; target=&#34;_blank&#34;&gt;services&lt;/a&gt;: our &lt;a href=&#34;https://economy.dataobservatory.eu//#projects&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ongoing projects&lt;/a&gt;, team of &lt;a href=&#34;https://economy.dataobservatory.eu//#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contributors&lt;/a&gt;, &lt;a href=&#34;https://economy.dataobservatory.eu//#software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open-source libraries&lt;/a&gt; and use our data for publications. See some &lt;a href=&#34;https://reprex.nl/#featured&#34;&gt;use cases&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-rss  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Follow &lt;a href=&#34;https://reprex.nl/#news&#34; target=&#34;_blank&#34;&gt;news about us&lt;/a&gt; or the more comprehensive &lt;a href=&#34;https://dataandlyrics.com/&#34; target=&#34;_blank&#34;&gt;Data &amp; Lyrics&lt;/a&gt;  blog.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-phone  pr-1 fa-fw&#34;&gt;&lt;/i&gt;Contact &lt;a href=&#34;https://reprex.nl/#contact&#34; target=&#34;_blank&#34;&gt;us&lt;/a&gt; .&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download our &lt;a href=&#34;https://economy.dataobservatory.eu//media/presentations/EDO_Datathon_Submission_2021.pdf&#34; target=&#34;_blank&#34;&gt;competition presentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our Product/Market Fit was validated in the world&amp;rsquo;s 2nd ranked university-backed incubator program, the &lt;a href=&#34;https://economy.dataobservatory.eu/post/2020-09-25-yesdelft-validation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI Validation Lab&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

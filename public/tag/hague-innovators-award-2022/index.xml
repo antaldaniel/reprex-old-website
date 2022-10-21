@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hague Innovators Award 2022 | Reprex</title>
+    <link>https://reprex.nl/tag/hague-innovators-award-2022/</link>
+      <atom:link href="https://reprex.nl/tag/hague-innovators-award-2022/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hague Innovators Award 2022</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Aug 2022 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>Hague Innovators Award 2022</title>
+      <link>https://reprex.nl/tag/hague-innovators-award-2022/</link>
+    </image>
+    
+    <item>
+      <title>Hague Innovators Award 2022</title>
+      <link>https://reprex.nl/slides/hague-innovation-award-2022/</link>
+      <pubDate>Wed, 17 Aug 2022 12:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/slides/hague-innovation-award-2022/</guid>
+      <description>
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;contest-hague-award-2022.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+&lt;h1 id=&#34;data-observatory-30&#34;&gt;Data Observatory 3.0&lt;/h1&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;dataobservatory-mission-statement.png&#34;
+  &gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;shared-evidence-ecosystems-data-observatories&#34;&gt;Shared evidence ecosystems: data observatories&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organizations that cannot afford to build a large enough data team to sustain consistent, extensive data collection and processing (many large institutions and companies)&lt;/li&gt;
+&lt;li&gt;Who cannot hire even a single data engineer or a data scientist&lt;/li&gt;
+&lt;li&gt;Who do not even have a permanent IT function (about 2 million European small enterprises and civil organizations)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-are-data-observatories&#34;&gt;What are data observatories?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;There are more than 60 functional, and about 20 already discontinued data observatories, i.e. long-term, usually triangular (business, academic, policy) data collection institutions recognized by the EU, OECD or UNESCO, including the &lt;a href=&#34;https://single-market-economy.ec.europa.eu/industry/strategy/intellectual-property/enforcement-intellectual-property-rights/european-observatory-infringements-intellectual-property-rights_en#:~:text=The%20European%20Observatory%20on%20Infringements,countries%2C%20businesses%20and%20civil%20society.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Observatory on Infringements of Intellectual Property Rights&lt;/a&gt; of the EU or the &lt;a href=&#34;https://www.obs.coe.int/en/web/observatoire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Audiovisual Observatory&lt;/a&gt; of the Council of Europe.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;do-it-smarter&#34;&gt;Do it Smarter&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;They usually do not exchange standard data with statistical agencies, they are not synchronized on knowledge graphs of the Europeana or national libraries, and their research output is usually not to be found on open science repositories.&lt;/li&gt;
+&lt;li&gt;The Hague is the winner of the &lt;a href=&#34;https://thehague.com/businessagency/the-hague-the-winner-world-smart-city-award-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Smart City Award 2021&lt;/a&gt;, and we would like to attract the planned European Music Observatory and other, EU/UNESCO recognized institutions into the town building on the innovations of Reprex and the ecosystem of the Hague.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;contest-hague-award-2022.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;strategic-objectives&#34;&gt;Strategic objectives&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop our data observatories as &lt;a href=&#34;https://openscholarlyinfrastructure.org/posse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Scholarly Infrastructure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Place our &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observtory&lt;/a&gt;, &lt;a href=&#34;https://ccsi.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cultural and Creative Data Observatory&lt;/a&gt;, and &lt;a href=&#34;https://greendeal.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Deal Data Observaotry&lt;/a&gt; on knowledge graphs of Europeana, Wikidata, and other open knowledge sytems&lt;/li&gt;
+&lt;li&gt;Harmonize research artefacts with open repositories such as Zenodo and Figshare.&lt;/li&gt;
+&lt;li&gt;Achieve EU/UNESCO/OECD recognition for our self-governing, triangular, science-policy-busines triangular data ecosystems as &lt;em&gt;data observatories&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;digital-music-observatory&#34;&gt;Digital Music Observatory&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Listen Local&lt;/code&gt; in Horizon Europe OpenMuse WP Diversity, Creative Europe MusicAIRE: connected and curated data on 10,000s of music works&lt;/li&gt;
+&lt;li&gt;Our aim is to describe the entire, currently legally available music repertoire of Slovakia and Lithuania at first, and a large part of Ukraine.&lt;/li&gt;
+&lt;li&gt;Connected with name authorities, web services.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;listen-local-slide.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;possible-collaboration&#34;&gt;Possible Collaboration&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Connect national collective management organization, national library, and various services (Spotify, YouTube) to make the national repertoire more visible&lt;/li&gt;
+&lt;li&gt;Create use statistics for cultural diversity policies and monitoring local content regulations&lt;/li&gt;
+&lt;li&gt;Provide best practice example and open source tools for replication&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;creative-and-cultural-sectors-industries-data-observatory&#34;&gt;Creative and Cultural Sectors Industries Data Observatory&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;ccsi-data-observatory.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;possible-collaboration-1&#34;&gt;Possible Collaboration&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;https://ccsi.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCSI Data Observatory&lt;/a&gt; already has some data assets on Zenodo, and we can upgrade its API (both as Rest API with datacube and with a simple RDF serialization)&lt;/li&gt;
+&lt;li&gt;Create use statistics for cultural heritage objects and other cultural heritage policy data&lt;/li&gt;
+&lt;li&gt;Revisit some modest deliverables of RECREO and seek new funding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;green-deal-data-observatory&#34;&gt;Green Deal Data Observatory&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;green-deal-europeana-slide.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;possible-collaboration-2&#34;&gt;Possible Collaboration&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;https://greendeal.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Deal Data Observatory&lt;/a&gt; is currently developed to provide free or very accessible environmental, social and governance reporting tools to the cultural sector.&lt;/li&gt;
+&lt;li&gt;It could also be used to provide ecological context to cultural heritage objects (CHO) for greater awareness.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;technical-features&#34;&gt;Technical Features&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://reprex.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reprex&lt;/a&gt; | &lt;a href=&#34;https://introduction.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fair&#34;&gt;FAIR&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; FAIR metadata: Dublin Core &amp;amp; DataCite referential metadata&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Integration to FigShare and Zenodo for automated releases and publications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;web-30&#34;&gt;Web 3.0&lt;/h2&gt;
+&lt;p&gt;&lt;small&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; supported with optional, open source APIs to retrieve the data&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; supported with RDF serialization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;  &lt;/small&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dissemination-support&#34;&gt;Dissemination Support&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; support automated publishing and releasing of data, visualizations, newsletters, and long-form documentation in auto-refreshing websites, blogposts, or articles, or even books.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; develop an ecosystem of open source software that helps the professional collection, processing, documentation of data conforming the Data Governance Act, and supporting data sharing and data altruism.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;research-automation&#34;&gt;Research Automation&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-automation-1&#34;&gt;Research automation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; support research automation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://reprex.nl/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Email&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/antaldaniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Antal&lt;/a&gt; - &lt;a href=&#34;https://www.linkedin.com/company/79286750&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

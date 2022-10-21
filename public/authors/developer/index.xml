@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Developers | Reprex</title>
+    <link>https://reprex.nl/authors/developer/</link>
+      <atom:link href="https://reprex.nl/authors/developer/index.xml" rel="self" type="application/rss+xml" />
+    <description>New Developers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://reprex.nl/authors/developer/avatar_hud36f658476f3ccea08be9fd6272d4275_12770_270x270_fill_lanczos_center_3.png</url>
+      <title>New Developers</title>
+      <link>https://reprex.nl/authors/developer/</link>
+    </image>
+    
+  </channel>
+</rss>

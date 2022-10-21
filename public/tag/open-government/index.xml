@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open government | Reprex</title>
+    <link>https://reprex.nl/tag/open-government/</link>
+      <atom:link href="https://reprex.nl/tag/open-government/index.xml" rel="self" type="application/rss+xml" />
+    <description>open government</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Feb 2022 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>open government</title>
+      <link>https://reprex.nl/tag/open-government/</link>
+    </image>
+    
+    <item>
+      <title>Open Policy Analysis</title>
+      <link>https://reprex.nl/project/opa/</link>
+      <pubDate>Sun, 06 Feb 2022 14:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/project/opa/</guid>
+      <description>&lt;p&gt;Our ambition is to truly maximize transparency, (re)usability, scientific, policy, and business impact while embracing the best practices laid out in the the recommendations of the &lt;em&gt;Reproducibility of scientific results scoping report&lt;/em&gt;, and the &lt;em&gt;Progress on Open Science: Towards a Shared Research Knowledge System&lt;/em&gt; policy documents of the European Commission&amp;rsquo;s DG Research &amp;amp; Innovation, as well as the best practices outlined  in the evidence-based &lt;em&gt;Knowledge4Policy&lt;/em&gt; &lt;a href=&#34;https://knowledge4policy.ec.europa.eu/home_en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;K4P&lt;/a&gt; platform of the European Commission.&lt;/p&gt;
+&lt;p&gt;For the first time in Europe, we will apply and contextualize the &lt;a href=&#34;http://www.bitss.org/wp-content/uploads/2019/03/OPA-Guidelines.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Policy Analysis Guidelines&lt;/a&gt; (OPA Guidelines) in our &lt;a href=&#34;https://reprex.nl/projects/openmuse&#34;&gt;OpenMuse&lt;/a&gt; project.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;Open Policy Analysis Guidelines&lt;/code&gt; grew out of several initiatives in research transparency with the aim of maximizing benefits in the context of the &lt;a href=&#34;https://www.congress.gov/bill/115th-congress/house-bill/4174&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Foundations for Evidence-based Policy Making Act of 2018&lt;/a&gt; initiative in the United States. We want to ensure that by relying not only on the best European practices, but considering trans-Atlantic experiences, we will make the most out of the opportunities offered by the European &lt;a href=&#34;%28https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019L1024%29&#34;&gt;Open Data Directive of 2019&lt;/a&gt;. This will not only mean rendering a dramatically increased data availability for our partners, as well as increased quality assurance and transparency in our work, but also immediate data access.&lt;/p&gt;
+&lt;p&gt;Our new software will continue to run in the cloud, depositing all of our findings&amp;mdash;&lt;em&gt;Findable&lt;/em&gt;, &lt;em&gt;Accessible&lt;/em&gt;, &lt;em&gt;Interoperable&lt;/em&gt; and &lt;em&gt;Reuseable&lt;/em&gt; digital assets, including our well-designed and user-tested indicators in 41 data gap fields&amp;mdash;into our &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt;, which already hosts a &lt;a href=&#34;https://api.music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;modern REST API&lt;/a&gt; similar to the Eurostat Rest API.&lt;/p&gt;
+&lt;table class=&#34;table table-hover table-condensed&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Layer
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Goal
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Target
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Example
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Output
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Ensure unified output
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+We comply with the level 3 requirements and we will create a showcase
+how to do this best following EU open science recommendations.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://zenodo.org/record/5917742#.YflAK-rMLIU&#34; style=&#34;     &#34;&gt;See
+our example.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Output
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Establish a clear link between input and output
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+We will produce more than 100 outputs, some only as indicators, and
+others in form of policy analysis, we will comply with level 1,2,3 as
+necessary.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://music.dataobservatory.eu/publication/listen_local_2020/&#34; style=&#34;     &#34;&gt;Our
+affiliated music industry partners will create cases studies with
+interactive tools (level 3). See our Slovak case study which came with a
+Shiny App that analyzed music recommendations.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Analysis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Provide clear accounts of all methodological procedures in a way that is
+easily interpreted by an informed reader.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+We accomplish level 3 with placing the code in clearly documented. into
+a dynamic document, or open notebook
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://music.dataobservatory.eu/post/2021-11-06-indicator_value_added/&#34; style=&#34;     &#34;&gt;See
+for example our blogpost on automatic forecasting for the music
+industry.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Analysis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Share raw (or analytic) data and materials in a way that the analysis is
+reproducible with minimal effort.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+We will accomplish level 3 through trusted repositories following EU
+recommendations. We will use the Zenodo repository developed by CERN and
+the EU’s OpenAIRE project.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://zenodo.org/communities/music_observatory/&#34; style=&#34;     &#34;&gt;See
+our solution on Zenodo.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Analysis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Share an open report that includes clear accounts of all methodological
+procedures, data, and assumptions.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+We would like to go beyond the level 3 requirements of the OPA with
+using standardized documentation languages, such as SDMX statistical
+metadata and its standardized codebooks, and comply with both Dublin
+Core and DataCite extended, recommended standarized reporing.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/&#34; style=&#34;     &#34;&gt;See
+our example An Empirical Analysis of Music Streaming Revenues and Their
+Distribution created for the UK Intellectual Property Office’s
+evidence-based policy effort in music streaming.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Materials
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Standardize the file structure so that materials are organized in a way
+that is accessible to an informed reader.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+We comply with the level 3 requirements. Our versioned controled output
+is on Github.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://github.com/dataobservatory-eu/music-competition&#34; style=&#34;     &#34;&gt;See
+an example on Github.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Materials
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Label and document each input, including data, research, and guesswork.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+We will go beyond level 3 requirements, because we want to make sure
+that our labelling and documentation is interopreable, and we apply
+various metadata standards for this purpose.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://music.dataobservatory.eu/post/2021-11-08-indicator_findable/&#34; style=&#34;     &#34;&gt;See
+our example explaining how we document our datasets in our API.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Materials
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Ensure that code/spreadsheets are reproducible.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+All our spreadsheets are machine generated for the convenience of the
+user who uses spreadsheet applications, but everything can be run with a
+click, which accomplishes level 3, and maintains the convenience of
+level 1-2 for the user. We go further with creating authoritative copies
+of each dataset and visualization with DOIs. We also produce an API
+which gives programatic or single table access to both the data and
+standardized codebooks.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://api.music.dataobservatory.eu/&#34; style=&#34;     &#34;&gt;See our
+API. All our datasets are described in detail on Zenodo and Figshare,
+too.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Materials
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Use a version control strategy.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+We use Git version control, and we employ various repositories and
+project documentation tools on Github. These are linked with the Zenodo
+EU open repository and our data API.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/cap.html&#34; style=&#34;     &#34;&gt;See
+our example intergration.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparing Data to Oil is a Cliché: Crude Oil Has to Go Through a Number of Steps and Pipes Before it Becomes Useful</title>
+      <link>https://reprex.nl/post/2021-06-07-data-curator-pyry-kantanen/</link>
+      <pubDate>Mon, 07 Jun 2021 10:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/post/2021-06-07-data-curator-pyry-kantanen/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;As a developer at rOpenGov, and as an economic sociologist, what type of data do you usually use in your work?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Generally speaking, people&amp;rsquo;s access to (or inequalities in accessing) different types of resources and their ability in transforming these resources to other types of resources is what interests me. The data I usually work with is the kind of data that is actually nicely covered by existing &lt;a href=&#34;http://ropengov.org/projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenGov tools&lt;/a&gt;: data about population demographics and administrative units from Statistics Finland, statistical information on welfare and health from Sotkanet and also data from Eurostat. Aside from these a lot of information is of course data from surveys and texts scraped from the internet.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-we-are-placing-the-growing-number-of-ropengov-toolshttpropengovorgprojects-in-a-modern-application-with-a-user-friendly-service-and-a-modern-data-api&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/partners/rOpenGov-intro.png&#34; alt=&#34;We are placing the growing number of [rOpenGov tools](http://ropengov.org/projects/) in a modern application with a user-friendly service and a modern data API.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      We are placing the growing number of &lt;a href=&#34;http://ropengov.org/projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenGov tools&lt;/a&gt; in a modern application with a user-friendly service and a modern data API.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;em&gt;In your ideal data world, what would be the ultimate dataset, or datasets that you would like to see in the Music Data Observatory?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Late spring and early summer time is, at least for me, defined by the Eurovision Song Contest. Every year watching the contest makes me ponder the state of the music industry in my home country Finland as well as in Europe. Was the song produced by homegrown talent or was it imported? Was it better received by the professional jury or the public? How well does the domestic appeal of an artist translate to the international stage? Many interesting phenomena are difficult to quantify in a meaningful way and writing a catchy song with international appeal is probably more an art than a science. Nevertheless that should not deter us from trying as music, too, is bound by certain rules and regularities that can be researched.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-music-too-is-bound-by-certain-rules-and-regularities-that-can-be-researched-our-digital-music-observatory-and-its-listen-localhttpslistenlocalcommunity-experimental-app-does-this-exactly-and-we-would-love-to-create-eurovision-musicology-datasets-photo-eurovision-song-contest-2021-press-photo-by-jordy-brada&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/developers/eurovision_2021.jpg&#34; alt=&#34;Music, too, is bound by certain rules and regularities that can be researched. Our Digital Music Observatory and its [Listen Local](https://listenlocal.community/) experimental App does this exactly, and we would love to create Eurovision musicology datasets. Photo: Eurovision Song Contest 2021 press photo by Jordy Brada&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Music, too, is bound by certain rules and regularities that can be researched. Our Digital Music Observatory and its &lt;a href=&#34;https://listenlocal.community/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; experimental App does this exactly, and we would love to create Eurovision musicology datasets. Photo: Eurovision Song Contest 2021 press photo by Jordy Brada
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;em&gt;Why did you decide to join the EU Datathon challenge team and why do you think that this would be a game changer for researchers and policymakers?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The challenge has, in my opinion, great potential in leading by example when it comes to open data access and reproducible research. Comparing data to oil is a common phrase but fitting in the sense that crude oil has to go through a number of steps and pipes before it becomes useful. Most users and especially policymakers appreciate ease-of-use of the finished product, but the quality of the product and the process must also be guaranteed somehow. Openness and peer-review practices are the best guarantors in the field of data, just as industrial standards and regulations are in the oil industry.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-we-provide-many-layers-of-fully-transparent-quality-control-about-the-data-we-are-placing-in-our-data-apis-and-provide-for-our-end-users&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/observatory_screenshots/EDO_API_metadata_table.png&#34; alt=&#34;We provide many layers of fully transparent quality control about the data we are placing in our data APIs and provide for our end-users.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      We provide many layers of fully transparent quality control about the data we are placing in our data APIs and provide for our end-users.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;join-us&#34;&gt;Join us&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Join our open collaboration Economy Data Observatory team as a &lt;a href=&#34;https://reprex.nl/authors/curator&#34;&gt;data curator&lt;/a&gt;, &lt;a href=&#34;https://reprex.nl/authors/developer&#34;&gt;developer&lt;/a&gt; or &lt;a href=&#34;https://reprex.nl/authors/team&#34;&gt;business developer&lt;/a&gt;. More interested in environmental impact analysis? Try our &lt;a href=&#34;https://greendeal.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Deal Data Observatory&lt;/a&gt; team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our &lt;a href=&#34;https://music.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt; team!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating Algorithmic Tools to Interpret and Communicate Open Data Efficiently</title>
+      <link>https://reprex.nl/post/2021-06-04-developer-leo-lahti/</link>
+      <pubDate>Fri, 04 Jun 2021 10:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/post/2021-06-04-developer-leo-lahti/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;As a developer at rOpenGov, what type of data do you usually use in your work?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As an academic data scientist whose research focuses on the development of general-purpose algorithmic methods, I work with a range of applications from life sciences to humanities. Population studies play a big role in our research, and often the information that we can draw from public sources - geospatial, demographic, environmental - provides invaluable support. We typically use open data in combination with sensitive research data but some of the research questions can be readily addressed based on open data from statistical authorities such as Statistics Finland or Eurostat.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/partners/rOpenGov-intro.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;In your ideal data world, what would be the ultimate dataset, or datasets that you would like to see in the Music Data Observatory?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One line of our research analyses the historical trends and spread of knowledge production, in particular book printing based on large-scale metadata collections. It would be interesting to extend this research to music, to understand the contemporary trends as well as the broader historical developments. Gaining access to a large systematic collection of music and composition data from different countries across long periods of time would make this possible.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why did you decide to join the challenge and why do you think that this would be a game changer for researchers and policymakers?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Joining the challenge was a natural development based on our overall activities in this area; &lt;a href=&#34;http://ropengov.org/community/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the rOpenGov project&lt;/a&gt; has been around for a decade now, since the early days of the broader open data movement. This has also created an active international developer network and we felt well equipped for picking up the challenge. The game changer for researchers is that the project highlights the importance of data quality, even when dealing with official statistics, and provides new methods to solve these issues efficiently through the open collaboration model. For policymakers, this provides access to new high-quality curated data and case studies that can support evidence-based decision-making.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Do you have a favorite, or most used open governmental or open science data source? What do you think about it?  Could it be improved?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Regarding open government data, one of my favorites is not a single data source but a data representation standard. The &lt;a href=&#34;https://www.scb.se/en/services/statistical-programs-for-px-files/#:~:text=PX%20is%20a%20standard%20format,and%20data.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;px format&lt;/a&gt; is widely used by statistical authorities in various countries, and this has allowed us to create R tools that allow the retrieval and analysis of official statistics from many countries across Europe, spanning dozens of statistical institutions. Standardization of open data formats allows us to build robust algorithmic tools for downstream data analysis and visualization.  Open government data is still too often shared in obscure, non-standard or closed-source file formats and this is creating significant bottlenecks for the development of scalable and interoperable AI and machine learning methods that can harness the full potential of open data.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-regarding-open-government-data-one-of-my-favorites-is-not-a-single-data-source-but-a-data-representation-standard-the-px-format&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/developers/PxWeb.png&#34; alt=&#34;Regarding open government data, one of my favorites is not a single data source but a data representation standard, the Px format.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Regarding open government data, one of my favorites is not a single data source but a data representation standard, the Px format.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;From your perspective, what do you see being the greatest problem with open data in 2021?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although there are a variety of open data sources available (and the numbers continue to increase), the availability of open algorithmic tools to interpret and communicate open data efficiently is lagging behind. One of the greatest challenges for open data in 2021 is to demonstrate how we can maximize the potential of open data by designing smart tools for open data analytics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What can our automated data observatories do to make open data more credible in the European economic policy community and be accepted as verified information?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The role of the professional network backing up the project, and the possibility of getting critical feedback and later adoption by the academic communities will support the efforts. Transparency of the data harmonization operations is the key to credibility, and will be further supported by concrete benchmarks that highlight the critical differences in drawing conclusions based on original sources versus the harmonized high-quality data sets.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-we-need-to-get-critical-feedback-and-later-adoption-by-the-academic-communities&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;We need to get critical feedback and later adoption by the academic communities.&#34; srcset=&#34;
+               /media/img/observatory_screenshots/greendeal_and_zenodo_huddcd7485e56cb33c97d3e664ae383275_281994_debfc54dcf2193c7c800dab0f36de429.webp 400w,
+               /media/img/observatory_screenshots/greendeal_and_zenodo_huddcd7485e56cb33c97d3e664ae383275_281994_3b536090581f2795373e801d65371e20.webp 760w,
+               /media/img/observatory_screenshots/greendeal_and_zenodo_huddcd7485e56cb33c97d3e664ae383275_281994_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/observatory_screenshots/greendeal_and_zenodo_huddcd7485e56cb33c97d3e664ae383275_281994_debfc54dcf2193c7c800dab0f36de429.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      We need to get critical feedback and later adoption by the academic communities.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;How we can ensure the long-term sustainability of the efforts?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The extent of open data space is such that no single individual or institution can address all the emerging needs in this area. The open developer networks play a huge role in the development of algorithmic methods, and strong communities have developed around specific open data analytical environments such as R, Python, and Julia. These communities support networked collaboration and provide services such as software peer review. The long-term sustainability will depend on the support that such developer communities can receive, both from individual contributors as well as from institutions and governments.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-join-our-open-collaboration-economy-data-observatory-team-as-a-data-curatorauthorscurator-developerauthorsdeveloper-or-business-developerauthorsteam-or-share-your-data-in-our-public-repository-economy-data-observatory-on-zenodohttpszenodoorgcommunitieseconomy_observatory&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/observatory_screenshots/edo_and_zenodo.png&#34; alt=&#34;Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository [Economy Data Observatory on Zenodo](https://zenodo.org/communities/economy_observatory/)&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Join our open collaboration Economy Data Observatory team as a &lt;a href=&#34;https://reprex.nl/authors/curator&#34;&gt;data curator&lt;/a&gt;, &lt;a href=&#34;https://reprex.nl/authors/developer&#34;&gt;developer&lt;/a&gt; or &lt;a href=&#34;https://reprex.nl/authors/team&#34;&gt;business developer&lt;/a&gt;, or share your data in our public repository &lt;a href=&#34;https://zenodo.org/communities/economy_observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Economy Data Observatory on Zenodo&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;join-us&#34;&gt;Join us&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Join our open collaboration Economy Data Observatory team as a &lt;a href=&#34;https://reprex.nl/authors/curator&#34;&gt;data curator&lt;/a&gt;, &lt;a href=&#34;https://reprex.nl/authors/developer&#34;&gt;developer&lt;/a&gt; or &lt;a href=&#34;https://reprex.nl/authors/team&#34;&gt;business developer&lt;/a&gt;. More interested in environmental impact analysis? Try our &lt;a href=&#34;https://greendeal.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Deal Data Observatory&lt;/a&gt; team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our &lt;a href=&#34;https://music.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt; team!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

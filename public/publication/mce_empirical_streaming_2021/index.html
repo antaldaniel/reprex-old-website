@@ -1,0 +1,1381 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.6.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Daniel Antal" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="This report was commissioned by the Music Creators’ Earnings Project as an empirical analysis of justified and unjustified differences in music creators’ music streaming earnings." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://reprex.nl/publication/mce_empirical_streaming_2021/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.3495fc6150afdd177f1d04fbba9f5e2c.css" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://reprex.nl/publication/mce_empirical_streaming_2021/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@dataandlyrics" />
+    <meta property="twitter:creator" content="@dataandlyrics" />
+  
+  <meta property="og:site_name" content="Reprex" />
+  <meta property="og:url" content="https://reprex.nl/publication/mce_empirical_streaming_2021/" />
+  <meta property="og:title" content="An Empirical Analysis of Music Streaming Revenues and Their Distribution | Reprex" />
+  <meta property="og:description" content="This report was commissioned by the Music Creators’ Earnings Project as an empirical analysis of justified and unjustified differences in music creators’ music streaming earnings." /><meta property="og:image" content="https://reprex.nl/publication/mce_empirical_streaming_2021/featured.png" />
+    <meta property="twitter:image" content="https://reprex.nl/publication/mce_empirical_streaming_2021/featured.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-09-23T10:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-09-23T10:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://reprex.nl/publication/mce_empirical_streaming_2021/"
+  },
+  "headline": "An Empirical Analysis of Music Streaming Revenues and Their Distribution",
+  
+  "image": [
+    "https://reprex.nl/publication/mce_empirical_streaming_2021/featured.png"
+  ],
+  
+  "datePublished": "2021-09-23T10:00:00Z",
+  "dateModified": "2021-09-23T10:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Daniel Antal"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Competition Data Observatory",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "This report was commissioned by the Music Creators’ Earnings Project as an empirical analysis of justified and unjustified differences in music creators’ music streaming earnings."
+}
+</script>
+
+  
+
+  
+
+  
+
+
+  <title>An Empirical Analysis of Music Streaming Revenues and Their Distribution | Reprex</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="b74046a5bd6a818f09f71bb0909d4d23" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.613040fe4f2c0f007b4dcb64404201cb.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Reprex</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Reprex</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Home</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/#about"><span>About</span></a>
+              
+                <a class="dropdown-item" href="/#accomplishments"><span>Accomplishments</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>Blog</span></a>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Solutions</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/#apps"><span>Apps</span></a>
+              
+                <a class="dropdown-item" href="/#releases"><span>Software</span></a>
+              
+                <a class="dropdown-item" href="/category/r-bloggers/"><span>Code</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Data Ecosystems</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/#observatories"><span>Overview</span></a>
+              
+                <a class="dropdown-item" href="https://music.dataobservatory.eu"><span>Digital Music Observatory &#128279;</span></a>
+              
+                <a class="dropdown-item" href="https://ccsi.dataobservatory.eu"><span>CCSI Data Observatory &#128279;</span></a>
+              
+                <a class="dropdown-item" href="https://greendeal.dataobservatory.eu"><span>Green Deal Data Observatory &#128279;</span></a>
+              
+                <a class="dropdown-item" href="https://competition.dataobservatory.eu"><span>Competition Data Observatory &#128279;</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#team"><span>Team</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Publications</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/#featured"><span>Featured</span></a>
+              
+                <a class="dropdown-item" href="/#publications"><span>All Publications</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Contact</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/#contact"><span>Get in touch</span></a>
+              
+                <a class="dropdown-item" href="/#talks"><span>Public talks</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+
+
+
+
+
+
+
+
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>An Empirical Analysis of Music Streaming Revenues and Their Distribution</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/daniel-antal/">Daniel Antal</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    September, 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://mce.dataobservatory.eu/MCE_UKIPO_Reprex.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/mce_empirical_streaming_2021/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.5281/zenodo.5554089" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 498px;">
+  <div style="position: relative">
+    <img src="/publication/mce_empirical_streaming_2021/featured_hue50608b3f52d6750042187fb48482821_711194_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="498" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Our report highlights some important lessons. First, we show that in the era of global music sales platforms it is impossible to understand the economics of music streaming without international data harmonization and advanced surveying and sampling. Paradoxically, without careful adjustments for accruals, market shares in jurisdictions, and disaggregation of price and volume changes, the British industry cannot analyze its own economics because of its high level of integration to the global music economy. Furthermore, the replacement of former public performances, mechanical licensing, and private copying remunerations (which has been available for British rightsholders in their European markets for decades) with less valuable streaming licenses has left many rightsholders poorer. Making adjustments on the distribution system without modifying the definition of equitable remuneration rights or the pro-rata distribution scheme of streaming platforms opens up many conflicts while solving not enough fundamental problems.  Therefore, we suggest participation in international data harmonization and policy coordination to help regain the historical value of music.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#4">
+              Report
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><blockquote>
+<p>&ldquo;Owing to the global nature of music earnings, the various currency translation and royalty payments applied, and because there is no global comprehensive database of rights-holders, works, and recordings, it is impossible to calculate average (mean) or typical (median) earnings with any accuracy. Even an estimate would require a very complex methodology. Understanding the earnings of an average rights-holder would require a careful disaggregation of volume, price, exchange rate, and distribution changes, and international data harmonisation.</p>
+</blockquote>
+<blockquote>
+<p>Estimating average or typical income requires advanced empirical sampling or surveying methods. The <a href="https://music.dataobservatory.eu/" target="_blank" rel="noopener">Digital Music Observatory</a> (previously CEEMID) has worked on developing such methods, with the support of the state51 music group. We commissioned a report from the Digital Music Observatory on the earnings of UK rights-holders and this can be found here at <a href="https://zenodo.org/record/5554089" target="_blank" rel="noopener">&lt;the Digital Music Observatory&rsquo;s Zenodo repository&gt;</a>  Among the Observatory’s findings are that use of streaming services is generally growing in terms of volume, but the price is diminishing, which leads to diminishing or flat earnings for a typical or average British rights-holder; that in the 2015-2019 period, falling prices were partly or fully compensated by favourable changes in the exchange rate of the British pound with major currencies used in the global music business (the US dollar, the euro and the Japanese yen), but since 2020 there may have been changes in the opposite direction; and that for various methodological reasons, without international data harmonisation, and survey harmonisation, it is impossible to take a fully representative, unbiased sample of music
+creator earnings in the United Kingdom alone.&rdquo; <em>Music Creator&rsquo;s Earnings in the Digital Era, p28.</em></p>
+</blockquote>
+<h2 id="exectuive-summary-of-our-research-document">Exectuive Summary of Our Research Document</h2>
+<p>The research questions asked in this report are related to the <a href="https://www.gov.uk/government/publications/music-creators-earnings-in-the-digital-era" target="_blank" rel="noopener">Music Creator Earnings&rsquo; Project</a> (MCE), exploring issues concerning equitable remuneration and earnings distributions. We were tasked with providing a longitudinal analysis of earnings development and relating our findings to equitable remuneration. The starting point of our work was centred around a very broadly defined problem: how much money music creators (rightsholders) earn from streaming, how these earnings are distributed, and how the earnings and their distribution have developed during the last decade.</p>
+<p>The highly globalized music industry generates two important international reports, as well as several national reports, but these are not suitable for the analysis of the typical or average rightsholder, nor for small labels and publishers who do not represent a large and internationally diversified portfolio of music works or recordings. Copyright and neighboring right revenues are collected in national jurisdictions. Because British artists are almost never constrained by their use of language, and the UK Music Industry is highly competitive in the global music markets, even relatively less known rightsholders earn revenues from dozens of national markets. The lack of market information on music sales volumes, prices for each jurisdiction, and the unaccounted for national, domestic, and foreign revenues makes the analysis of the rightholder’s earnings, or the economics of a certain distribution channel like music streaming or media platforms, impossible.</p>
+<p>While total earnings are reported by international and national organizations, they hide five important economic variables: changes in sales volumes, changes in prices, market share on various national jurisdictions (which have their own volume and price movements), the exchange rates applied, and the share of the repertoire exploited. Even worse, the global music industry has no comprehensive database of rightsholders, music works, and recordings. Many rights are represented by heirs or passive investors. And because of the enormous number of works and recordings, in any given royalty payment period, most works/recordings are not used and not compensated. The lack of a known population and distribution makes usual indicators as average or median earnings arithmetically impossible to compute, and the large number of disused works and recordings makes even the estimation of the typical (median) value useless for economic analysis. The estimation of the arithmetic mean is equally problematic, because it is distorted by the earnings of very few global stars. To understand the streaming economy from the perspective of a typical or average rightsholder, or from the perspective of a small independent label or music publisher, requires very challenging sampling techniques either in surveying or in empirically observing and aggregating data from royalty accounts. National and international music organizations are not equipped with the data processing and statistical capacity to do so.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-the-effect-of-international-diversification-on-revenues---a-combination-of-international-price-differences-and-exchange-rate-fluctuations">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/media/img/reports/mce/Effect_International_Diversification_Revenues_Coplot.png" alt="The Effect of International Diversification on Revenues - a combination of international price differences and exchange rate fluctuations." loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      The Effect of International Diversification on Revenues - a combination of international price differences and exchange rate fluctuations.
+    </figcaption></figure>
+<p>This is the problem that the Digital Music Observatory, a working demo of the European Music Observatory is solving. It grew out of the Central &amp; Eastern European Music Industry Databases (CEEMID) initiative in 2014, in which righthsolders from three countries attempted to solve this problem. By 2019, CEEMID had collected information on 20 European markets, including the United Kingdom, and processed data on far more markets. The state51 music group, through its distribution arm, has been supporting the creation of the largest ever European market report, the <a href="https://ceereport2020.ceemid.eu/" target="_blank" rel="noopener">Central European Market Report</a>, and supported the creation of the CEEMID-CI indexes, which, for the first time provided a stock-index type of view from an individual rightsholder’s perspective on volume and price movements in the UK and in other countries. The state51 music group drew attention to the observatory approach and this work in the Digital, Culture, Media and Sport Committee (DCMS) Select Committee of the British House of Commons. The MCE project first individually contacted the Digital Music Observatory (successor of CEEMID) and state51, and eventually with the permission of state51, the project commissioned this report, which re-uses the CEEMID-CI indexes. The MCE project also committed to share data in the Digital Music Observatory.</p>
+<p>The first chapter is divided into three subchapters: <a href="https://mce.dataobservatory.eu/intro.html#theoretical-challenges" target="_blank" rel="noopener">1.1</a> the theoretical problems imposed by copyright law and intellectual property valuation methods; <a href="https://mce.dataobservatory.eu/intro.html#policy-issues" target="_blank" rel="noopener">1.2</a> policy issues related to the copyright management problems that lead to large amounts of unpaid royalties and value transfer, as well as potential problems with AI distribution systems and royalty distribution rules; and <a href="https://mce.dataobservatory.eu/intro.html#empirical-challenges" target="_blank" rel="noopener">1.3</a> identifying and offering solutions for empirical problems in estimating the relevant earnings indicators for individual rightsholders.</p>
+<p>The second chapter presents the CEEMID-CI indexes, and gives an explanation to the seemingly paradoxical situation of total market growth, and the feeling of individual righthsolders that their earnings remain flat or decreasing. We show in <a href="https://mce.dataobservatory.eu/empirical.html#streaming-value" target="_blank" rel="noopener">2.1</a> that revenues that are flat or slightly growing are caused by growing volumes and falling prices (See <a href="https://mce.dataobservatory.eu/empirical.html#streaming-volume" target="_blank" rel="noopener">2.2 https://mce.dataobservatory.eu/empirical.html#streaming-volume</a>; <a href="https://mce.dataobservatory.eu/empirical.html#streaming-price" target="_blank" rel="noopener">2.3  CEEMID-CI Streaming Price Index</a>.)</p>
+<p>The third chapter, using computer simulations, gives a fuller picture. It shows that in the UK and many other markets, in the period of 2016-2019, the growth of streaming use hardly offset the diminishing price (value) of the streams. In many markets, rightsholders, expressed in British pounds, experienced flat earnings, which was by a large extent due to the benevolent USD/GBP, EUR/GBP, and CHF/GBP exchange rates. It is likely that the majority of individual rightsholders experienced flat or diminishing revenues, and later releases brought less and less revenue per a thousand streams. A less benevolent exchange rate environment could have brought very large losses of revenue (See <a href="https://mce.dataobservatory.eu/simulation-results.html#exchange-rate-effects" target="_blank" rel="noopener">3.4</a> for more details.)</p>
+<p>Our computer simulations show that British rightsholders are experiencing a rather varied picture of music streaming. Because of the generally falling value of streams, short-lived hits are more impacted by value decline than perennial hits (See subchapters <a href="https://mce.dataobservatory.eu/simulation-results.html#difference-popularity" target="_blank" rel="noopener">3.1</a> and <a href="https://mce.dataobservatory.eu/simulation-results.html#release-time" target="_blank" rel="noopener">3.2</a>.) Rightsholders with a diversified international audience are partly shielded by these effects (See <a href="https://mce.dataobservatory.eu/simulation-results.html#difference-international" target="_blank" rel="noopener">3.3</a>.) Younger stars and new genres generally experience a windfall from the pro-rata distribution system and older artists with more conventional genres such as rock or blues are experiencing headwinds. The publicly available market totals are hiding completely different market experiences.</p>
+<p>The MCE project and its stakeholders did not provide us with any data. Our detailed data from other jurisdictions, however, shows that music streaming has been successfully competing with other sales/distribution formats of music partly because it was much cheaper, and generally devalued music-related rights. This is particularly the case with media platforms like YouTube. For the UK, which is not planning to adopt new EU regulations, closing the value gap is an important policy task. We also show on the example of other countries that current policy debate in the UK around the re-definition of equitable remuneration rigths, or on the pro-rata or user-centrique distribution schemes, are gaining excessive focus, and changes in these aspects of the streaming ecosystem will solve the problems of few, if any, rightsholders. We believe that the music industry must look beyond the current practices of streaming pricing and distribution, for example, to telecommunication services, and investigate the adoption of a more just system.</p>
+<p>Our report highlights some important lessons. First, we show that in the era of global music sales platforms it is impossible to understand the economics of music streaming without international data harmonization and advanced surveying and sampling. Paradoxically, without careful adjustments for accruals, market shares in jurisdictions, and disaggregation of price and volume changes, the British industry cannot analyze its own economics because of its high level of integration to the global music economy. Furthermore, the replacement of former public performances, mechanical licensing, and private copying remunerations (which has been available for British rightsholders in their European markets for decades) with less valuable streaming licenses has left many rightsholders poorer. Making adjustments on the distribution system without modifying the definition of equitable remuneration rights or the pro-rata distribution scheme of streaming platforms opens up many conflicts while solving not enough fundamental problems.  Therefore, we suggest participation in international data harmonization and policy coordination to help regain the historical value of music.</p>
+<h2 id="related-work">Related Work</h2>
+<ul>
+<li>
+<p><a href="https://music.dataobservatory.eu/publication/listen_local_2020/" target="_blank" rel="noopener">Feasibility Study On Promoting Slovak Music In Slovakia &amp; Abroad</a>: Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets? How can we measure the market share of the Slovak music in the domestic and foreign markets? We offer some answers and solution based on empirical research and with the creation of a database and an AI application.</p>
+</li>
+<li>
+<p><a href="https://music.dataobservatory.eu/publication/music_level_playing_field_2021/" target="_blank" rel="noopener">Music Streaming: Is It a Level Playing Field?</a>: Our paper argues that fair competition in music streaming is restricted by the nature of the remuneration arrangements between creators and the streaming platforms, the role of playlists, and the strong negotiating power of the major labels. It concludes that urgent consideration should be given to a user-centric payment system, as well as greater transparency of the factors underpinning playlist creation and of negotiated agreements.</p>
+</li>
+<li>
+<p><a href="https://music.dataobservatory.eu/publication/european_visibilitiy_2021/" target="_blank" rel="noopener">Ensuring the Visibility and Accessibility of European Creative Content on the World Market: The Need for Copyright Data Improvement in the Light of New Technologies</a>: While the US have already taken steps to provide an integrated data space for music as of 1 January 2021, the EU is facing major obstacles not only in the field of music but also in other creative industry sectors. Weighing costs and benefits, there can be little doubt that new data improvement initiatives and sufficient investment in a better copyright data infrastructure should play a central role in EU copyright policy. A trade-off between data harmonisation and interoperability on the one hand, and transparency and accountability of content recommender systems on the other, could pave the way for successful new initiatives.</p>
+</li>
+<li>
+<p><a href="https://music.dataobservatory.eu/publication/ceereport_2020/" target="_blank" rel="noopener">Central &amp; Eastern European Music Industry Report 2020</a>: The results of the first Hungarian, Slovak, Croatian and Czech music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.</p>
+</li>
+</ul>
+<h2 id="call-for-open-collaboration">Call for Open Collaboration</h2>
+<p><em>Do you need high-quality data for your music business or institution? Are you a music researcher? Join our open collaboration Digital Music Observatory team as a <a href="/authors/curator">data curator</a>, <a href="/authors/developer">developer</a> or <a href="/authors/team">business developer</a>.</em></p>
+</div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/market-report/">Market report</a>
+  
+  <a class="badge badge-light" href="/tag/music-industry/">Music industry</a>
+  
+  <a class="badge badge-light" href="/tag/united-kingdom/">United Kingdom</a>
+  
+  <a class="badge badge-light" href="/tag/music-streaming/">music-streaming</a>
+  
+  <a class="badge badge-light" href="/tag/equitable-remuneration/">equitable remuneration</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://reprex.nl/publication/mce_empirical_streaming_2021/&amp;text=An%20Empirical%20Analysis%20of%20Music%20Streaming%20Revenues%20and%20Their%20Distribution" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://reprex.nl/publication/mce_empirical_streaming_2021/&amp;t=An%20Empirical%20Analysis%20of%20Music%20Streaming%20Revenues%20and%20Their%20Distribution" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=An%20Empirical%20Analysis%20of%20Music%20Streaming%20Revenues%20and%20Their%20Distribution&amp;body=https://reprex.nl/publication/mce_empirical_streaming_2021/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://reprex.nl/publication/mce_empirical_streaming_2021/&amp;title=An%20Empirical%20Analysis%20of%20Music%20Streaming%20Revenues%20and%20Their%20Distribution" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=An%20Empirical%20Analysis%20of%20Music%20Streaming%20Revenues%20and%20Their%20Distribution%20https://reprex.nl/publication/mce_empirical_streaming_2021/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://reprex.nl/publication/mce_empirical_streaming_2021/&amp;title=An%20Empirical%20Analysis%20of%20Music%20Streaming%20Revenues%20and%20Their%20Distribution" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2020-2022 Daniel Antal, Reprex B.V. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.46271ef31da3f018e9cd1b59300aa265.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.a6238d5886fa4a2f7cf92df25709326f.js"></script>
+
+
+
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenMusE | Reprex</title>
+    <link>https://reprex.nl/tag/openmuse/</link>
+      <atom:link href="https://reprex.nl/tag/openmuse/index.xml" rel="self" type="application/rss+xml" />
+    <description>OpenMusE</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>OpenMusE</title>
+      <link>https://reprex.nl/tag/openmuse/</link>
+    </image>
+    
+    <item>
+      <title>Reprex Nominated for The Hague Innovators Award</title>
+      <link>https://reprex.nl/talk/reprex-nominated-for-the-hague-innovators-award/</link>
+      <pubDate>Tue, 15 Nov 2022 09:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/talk/reprex-nominated-for-the-hague-innovators-award/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Reprex is a finalist for The Hague Innovators Award 2022, and the prize of the audience, in the startup category with our respectable competitors, Sibö, WECO, STHRIVE and ECOBLOQ.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;The transition towards a sustainable and inclusive economy depends on collaboration. That is why we are bringing together startups, scale-ups, investors, policymakers, and other impact makers from around the world in The Hague for the 7th edition of ImpactFest.&lt;/p&gt;
+&lt;p&gt;With the &lt;a href=&#34;https://www.impactcity.nl/en/service/the-hague-innovators-challenge/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Hague Innovators Challenge&lt;/a&gt;, the municipality of The Hague challenges startups, scale-ups, and students to present their innovative ideas for global issues, as described in the UN Sustainable Development Goals (SDGs).&lt;/p&gt;
+&lt;p&gt;The nominees receive a substantive program aimed at further development and the growth of the plan or organization. At the end of the substantive program, all nominees submit a definitive action plan and this is pitched to a professional jury. The jury chooses one winner per category.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data for All - Building Collaborative Data Observatories</title>
+      <link>https://reprex.nl/talk/big-data-for-all-building-collaborative-data-observatories/</link>
+      <pubDate>Thu, 03 Nov 2022 17:30:00 +0000</pubDate>
+      <guid>https://reprex.nl/talk/big-data-for-all-building-collaborative-data-observatories/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Daniel Antal, Reprex’s founder will talk in the &lt;a href=&#34;https://www.ehvinnovationcafe.org/past-events/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eindhoven Innovation Café&lt;/a&gt;. You can rewatch some former talks on their website.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dutch AI Coalition Working Group Culture and Media</title>
+      <link>https://reprex.nl/post/2022-09-22_nlaic_culture_media/</link>
+      <pubDate>Thu, 22 Sep 2022 19:30:00 +0200</pubDate>
+      <guid>https://reprex.nl/post/2022-09-22_nlaic_culture_media/</guid>
+      <description>&lt;p&gt;Reprex presented its &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt; and &lt;a href=&#34;https://ccsi.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cultural Creative Sectors Industries Data Observatory&lt;/a&gt; as platforms for developing and evaluating trustworthy AI in the cultural domains. We hope to find new partners within the NLAIC community to join our open, collaborative projects.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-we-have-reviewed-more-than-80-data-observatories-in-the-world-and-we-are-building-five-modern-ones&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;We have reviewed more than 80 data observatories in the world, and we are building five modern ones.&#34; srcset=&#34;
+               /media/slides/NLAIC_20220922/big_data_for_all_observatories_hu86092944382a46109ce791da84925a8a_162836_5613f07040bdd129ef4cb3b6ac95a737.webp 400w,
+               /media/slides/NLAIC_20220922/big_data_for_all_observatories_hu86092944382a46109ce791da84925a8a_162836_8818b508fb564f28ea74e26abc393173.webp 760w,
+               /media/slides/NLAIC_20220922/big_data_for_all_observatories_hu86092944382a46109ce791da84925a8a_162836_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/slides/NLAIC_20220922/big_data_for_all_observatories_hu86092944382a46109ce791da84925a8a_162836_5613f07040bdd129ef4cb3b6ac95a737.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      We have reviewed more than 80 data observatories in the world, and we are building five modern ones.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;It was particularly important for us to get away from the Hague, and meet organizations like &lt;a href=&#34;https://www.den.nl/over-ons/english&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DEN&lt;/a&gt; and the &lt;a href=&#34;https://www.kb.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KB&lt;/a&gt; to find out how our ambitious plans could connect to their excellent work. Reprex is a finalist in the &lt;a href=&#34;https://reprex.nl/talk/impactcity-startup-support-xl/&#34;&gt;Hague Innovators Challenge 2022&lt;/a&gt;, and we would like to bring at least one global observatory, the planned European Music Observatory, into our beautiful and smart city. While knowledge graphs are virtual and live in the web 3.0, the Dutch AI Coalition and the country&amp;rsquo;s future competitiveness need to ensure that essential knowledge graphs will be managed by the ecosystem of Netherlands-based researchers, institutions, and startups. The ethical consciousness shown by the members of our Culture AI Lab shows that it is probably the best for future human generations globally, too.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-sabio-is-one-of-the-most-interesting-in-the-world-and-couuld-be-connected-easily-with-our-cultural-creative-sectors-industries-data-observatoryhttpsccsidataobservatoryeu-prototype&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The SABIO is one of the most interesting in the world and couuld be connected easily with our [Cultural Creative Sectors Industries Data Observatory](https://ccsi.dataobservatory.eu/) prototype.&#34; srcset=&#34;
+               /media/img/blogposts_2022/NLAIC_SABIO_20220922_hu2e6a9bd7181d81986d1e8663c909f3b5_95805_0cd5033168ffe7c5635836ef3913bbef.webp 400w,
+               /media/img/blogposts_2022/NLAIC_SABIO_20220922_hu2e6a9bd7181d81986d1e8663c909f3b5_95805_93a4c038167d37e8b5bda97c7da5ad88.webp 760w,
+               /media/img/blogposts_2022/NLAIC_SABIO_20220922_hu2e6a9bd7181d81986d1e8663c909f3b5_95805_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/blogposts_2022/NLAIC_SABIO_20220922_hu2e6a9bd7181d81986d1e8663c909f3b5_95805_0cd5033168ffe7c5635836ef3913bbef.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The SABIO is one of the most interesting in the world and couuld be connected easily with our &lt;a href=&#34;https://ccsi.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cultural Creative Sectors Industries Data Observatory&lt;/a&gt; prototype.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;The Culture AI Lab presented a handful of very interesting, ethical and interesting projects. &lt;a href=&#34;https://pressingmatter.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pressing Matter&lt;/a&gt; responds to growing concerns in the Netherlands and Europe about how to deal with the legacies of colonialism in museums and builds innovative tools for museums (and broader society) to address the question of ownership of objects collected in the colonial period. &lt;a href=&#34;https://picch-project.org/Emily-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Emily Hansell Clark&lt;/a&gt;, former editor of our Data&amp;amp;Lyrics blog, presented the Polyvocal Interpretation of Contested Colonial Heritage project.&lt;/p&gt;
+&lt;p&gt;Both projects are conceptually and technologically relevant to our Listen Local project. Our project aims to prevent the colonization or start the de-colonization of the local music ecosystem and make local artists of Utrecht, Vilnius, or Sarajevo visible and audible in their own cities&amp;rsquo; public spaces or on the smartphones of their town.&lt;/p&gt;
+&lt;p&gt;The most compelling use case of Listen Local project is finding out why music recommender systems do not recommend some music at all. Or why is it so hard to connect Utrecht-based artists with fans living or visiting Utrecht on the Spotify or YouTube platform? &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3514094.3539536&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Responsible Recommenders in the Public Library Sector&lt;/a&gt; is looking for similar answers for librarians to avoid all recommendations to visitors pointing to U.S. authors and publishers.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-savvina-daniils-excellent-presentation-raised-very-similar-questions-to-our-feasibility-study-on-promoting-slovak-music-in-slovakia--abroadpublicationlisten_local_2020&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Savvina Daniil&amp;#39;s excellent presentation raised very similar questions to our [Feasibility Study On Promoting Slovak Music In Slovakia &amp;amp; Abroad](/publication/listen_local_2020/).&#34; srcset=&#34;
+               /media/img/blogposts_2022/NLAIC_library_recommendations_20220922_hu64405b9e0d5fc8fdf474c3de17f6e447_1083889_3afd57716a8a927861fcbf9e249223d6.webp 400w,
+               /media/img/blogposts_2022/NLAIC_library_recommendations_20220922_hu64405b9e0d5fc8fdf474c3de17f6e447_1083889_b4b89c2a070aec3cbcae0d3f40ac6903.webp 760w,
+               /media/img/blogposts_2022/NLAIC_library_recommendations_20220922_hu64405b9e0d5fc8fdf474c3de17f6e447_1083889_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/blogposts_2022/NLAIC_library_recommendations_20220922_hu64405b9e0d5fc8fdf474c3de17f6e447_1083889_3afd57716a8a927861fcbf9e249223d6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Savvina Daniil&amp;rsquo;s excellent presentation raised very similar questions to our &lt;a href=&#34;https://reprex.nl/publication/listen_local_2020/&#34;&gt;Feasibility Study On Promoting Slovak Music In Slovakia &amp;amp; Abroad&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;Our deep dive into legislative and regulatory issues of AI highlighted that the past decade unleashed global web-based tools that have the potential to undermine our democratic and cultural cohesion. Reassuringly, we have seen that our thinking about the dangers of AI on European culture and the technological solutions to combat them are very widely shared by NLAIC Culture and Media members. We hope that our partners&amp;rsquo;  policy work in the Digital Music Observatory and our forming new observatories will support policy design and decision-making that will protect the Netherlands and the EU from some of these threats.&lt;/p&gt;
+&lt;p&gt;Learn more about the Dutch AI Coalition&amp;rsquo;s Cultur and Media Working Group (in Dutch:)&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/649975584&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dutch AI Coalition Working Group Culture and Media</title>
+      <link>https://reprex.nl/talk/dutch-ai-coalition-working-group-culture-and-media/</link>
+      <pubDate>Thu, 22 Sep 2022 09:30:00 +0000</pubDate>
+      <guid>https://reprex.nl/talk/dutch-ai-coalition-working-group-culture-and-media/</guid>
+      <description>&lt;p&gt;Reprex is presenting its &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt; and &lt;a href=&#34;https://ccsi.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cultural Creative Sectors Industries Data Observatory&lt;/a&gt; as platforms for developing and evaluating trustworthy AI in the cultural domains. We hope to find new partners within the NLAIC community to join our open, collaborative projects.&lt;/p&gt;
+&lt;p&gt;Learn more about the Dutch AI Coalition&amp;rsquo;s Cultur and Media Working Group (in Dutch:)&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/649975584&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

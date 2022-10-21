@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>European Green Deal | Reprex</title>
+    <link>https://reprex.nl/tag/european-green-deal/</link>
+      <atom:link href="https://reprex.nl/tag/european-green-deal/index.xml" rel="self" type="application/rss+xml" />
+    <description>European Green Deal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jun 2022 09:40:00 +0100</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>European Green Deal</title>
+      <link>https://reprex.nl/tag/european-green-deal/</link>
+    </image>
+    
+    <item>
+      <title>Developing a software-as-service solution for micro-, and small enterprises</title>
+      <link>https://reprex.nl/post/2022-06-09-music-eviota/</link>
+      <pubDate>Thu, 09 Jun 2022 09:40:00 +0100</pubDate>
+      <guid>https://reprex.nl/post/2022-06-09-music-eviota/</guid>
+      <description>&lt;p&gt;The music sector must increase its environmental and social (ESG) sustainability management to meet the challenges of the climate emergency and to make the music sector a fairer, more just workplace for womxn and artists coming from minorities, small countries. The European Union will make target setting and audited reporting mandatory in environmental and social sustainability for large companies.  The application of these new accounting, reporting and disclosure rules are optional for the music sector where almost all entities are micro-, or small enterprises and civil society organizations.&lt;/p&gt;
+&lt;p&gt;Even if music organizations are not pushed by regulators to adopt these new standards, it is in their best interest to take the initiative on the principle of subsidiarty, and develop tools that can be applied as an extension to their simplified financial and tax reporting. Music organizations and businesses that can prove that they are making progress in reducing their carbon footprint, making their water use more sustainable, and they provide equal opportunities for womxn, they will be eligible for new, green bank and insurance products (which are particularly important in live music) and can attract new sponsors and donors.&lt;/p&gt;
+&lt;p&gt;Compliance with these new rules is very costly, because tools are being developed for stock-exchange listed big companies and financial institutions. The Commission&amp;rsquo;s impact assessment (SWD/2021/150 final) estimates the cost of compliance with the Corporate Social Responsibility Directive exceeding 4 bn euros for the European companies or around 10,000 euros per company. Reprex, working together with large accounting, audit and value-based banking partners, scientific, research and industry partners in the Digital Music Observatory open knowledge collaboration, hopes to bring down this cost below 500 euros, which will immediately pay off when a music organization receives green money.&lt;/p&gt;
+&lt;p&gt;We are working on a simple interface that can connect the accounting system of micro and small enterprises with new methodologies, starting with greenhouse gas reporting with Reprex’s open source EEIO application &lt;a href=&#34;https://iotables.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iotables&lt;/a&gt;. We will keep many aspects of our software and data solution open, so that later methodological innovations and scientific achievements can be easily incorporated into the system. Reprex’s minimum viable product will be created in four iteration rounds in Malta, Czechia, Bulgaria and Belgium. However, our testing is open for any amount of donations to any music entities in the European Union who can provide input data in English or Dutch, or be able to pay for their translation and localization costs.&lt;/p&gt;
+&lt;p&gt;Link: &lt;a href=&#34;https://musicaire.eu/2022/07/12/final-list-of-awarded-projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Final List of Awareded Projects by MusicAIRE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Music Eviota</title>
+      <link>https://reprex.nl/project/musiceviota/</link>
+      <pubDate>Thu, 09 Jun 2022 09:40:00 +0100</pubDate>
+      <guid>https://reprex.nl/project/musiceviota/</guid>
+      <description>&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-reporting-the-impacts-of-the-entire-value-chain&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Reporting the impacts of the entire value chain.&#34; srcset=&#34;
+               /media/img/eviota/Scope3_chart_16x9_hu81c1fe0b93fa6721ab158b4e6fbc6f21_139223_43b52122e0051695682d67c8269be519.webp 400w,
+               /media/img/eviota/Scope3_chart_16x9_hu81c1fe0b93fa6721ab158b4e6fbc6f21_139223_524ddda7e3e6b2c781616a7a29cb6296.webp 760w,
+               /media/img/eviota/Scope3_chart_16x9_hu81c1fe0b93fa6721ab158b4e6fbc6f21_139223_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/eviota/Scope3_chart_16x9_hu81c1fe0b93fa6721ab158b4e6fbc6f21_139223_43b52122e0051695682d67c8269be519.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Reporting the impacts of the entire value chain.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;Our minimum viable product will create sustainability reports (or report components) for greenhouse gases and sustainable water use with applying the &lt;code&gt;Global GHG Accounting &amp;amp; Reporting Standard for the Financial Industry&lt;/code&gt; and EFRAG’s proposed concept on connecting European accounting standards and information with sustainability. We will help small music organizations in their sustainability reporting, where detail data and reporting standards are only available for greenhouse gas emissions. The &lt;code&gt;Music Eviota&lt;/code&gt; project is supported by the &lt;a href=&#34;#greenrecovery&#34;&gt;MusicAIRE&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;open-collaboration&#34;&gt;Open collaboration&lt;/h2&gt;
+&lt;p&gt;Our project is based on open collaboration.  Our proposal, if funded, will provide us with resources to supply further music businesses, music civil society organizations and researchers with high-quality data (during the duration of the project for free.)  We are already looking for interested parties to put our data and research projects into use and validate their usability and quality in real-life policy or business development scenarios.&lt;/p&gt;
+&lt;h2 id=&#34;why-are-we-developing-this-service&#34;&gt;Why are we developing this service?&lt;/h2&gt;
+&lt;p&gt;The European Green Deal, which includes the proposed Corporate Sustainability Reporting Directive, and the sustainable finance package, aims to set the European economy on a permanent decarbonization and sustainability increasing path with adjusting the rules how economic activities are financed by bank loans, insurance, investments, and direct subsidies. From 2023, it will be cheaper to get loans, insurance, and other types of funding for organizations that can prove that they follow the environmental, social and
+governance path set out in the Paris Agreement and other UN, OECD, and EU agreements.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-requirements-for-connecting-financial-and-sustainability-reporting&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Requirements for connecting financial and sustainability reporting.&#34; srcset=&#34;
+               /media/img/eviota/Eviota_EFRAG_requirements_hu3389cdfb13c4fd9efff0a2d75d3bc17d_231927_ba07bcb2cab6a041c8fa07a66f44c402.webp 400w,
+               /media/img/eviota/Eviota_EFRAG_requirements_hu3389cdfb13c4fd9efff0a2d75d3bc17d_231927_4a745162ba521fe0933b7f1e31de6032.webp 760w,
+               /media/img/eviota/Eviota_EFRAG_requirements_hu3389cdfb13c4fd9efff0a2d75d3bc17d_231927_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/eviota/Eviota_EFRAG_requirements_hu3389cdfb13c4fd9efff0a2d75d3bc17d_231927_ba07bcb2cab6a041c8fa07a66f44c402.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Requirements for connecting financial and sustainability reporting.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;Correct and reliable sustainability management will come with many financial advantages and increased responsibility. The &lt;a href=&#34;https://www.efrag.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Financial Reporting Advisory Board&lt;/a&gt; is currently preparing the new combined financial and sustainability reporting standard that will be used in banks, insurance, investment, granting, and the large companies of Europe in their entire supply and purchaser chain. The European Commission estimates that compliance costs until the end of 2023 will amount to 4 billion euros, with reporting and auditing costs mounting 10,000 euros per organization. While music small and medium sized organizations (MSMEs) and limited liability civil society organizations (CSOs) will be exempted from mandatory sustainability management and audited reporting, they can still comply in a non-audited and voluntary way.&lt;/p&gt;
+&lt;p&gt;Our solution benefits the music MSMEs and CSOs in several ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; It provides them with a size adequate sustainability management and reporting tool that helps first the management of greenhouse gas emissions, and later sustainable water use, pollutions, biodiversity, and recycling in their entire value chain (for example, it flags environmental risks in the supply base of a festival including equipment rentals, transport, security firms, catering facilities, etc.) by connecting standard accounting documents of the MSME with SNA and EEA science based benchmarks.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Our system will be extendible to management of social sustainability. Our previous research shows that particularly the live music industry that needs a large workforce, suffers from underuse of, and discrimination of female workers in various technical and even managerial roles. Our system will be able to flag risks of gender paygap and related issues in the entire value chain and of course, provide good benchmarks for internal activities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our review of the environmental, social and governance risk management (ESG sustainability management) suggests that complying with ESG standards is not only a pre-requisite to get cheaper loans (less important) and cheaper insurance (very important in live music), but also a requirement by corporate sponsors of events, and even a large part of the audience. While some music organizations already provide sustainability reporting, they are not standardized and are less factful as they are not connected to accounting information at every point. Our solution aims to give much credibility to both the sustainability
+reports and non-financial disclosures of the financial reports (which are not mandatory for MSMEs but increase their trustworthiness on an elective basis if they are included.)&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-growing-interest-for-esg-in-select-countries&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Growing interest for ESG in select countries.&#34; srcset=&#34;
+               /media/img/eviota/ESG_Google_Trends_16x9_huc3bd75ffb5daec299206cbea1c4b49e6_542409_0a59bfe887466112faad4bfbc9443a02.webp 400w,
+               /media/img/eviota/ESG_Google_Trends_16x9_huc3bd75ffb5daec299206cbea1c4b49e6_542409_a1272dfbaa30da4a4a48191780a56d5b.webp 760w,
+               /media/img/eviota/ESG_Google_Trends_16x9_huc3bd75ffb5daec299206cbea1c4b49e6_542409_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/eviota/ESG_Google_Trends_16x9_huc3bd75ffb5daec299206cbea1c4b49e6_542409_0a59bfe887466112faad4bfbc9443a02.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Growing interest for ESG in select countries.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;h2 id=&#34;greenrecovery&#34;&gt;Green Recovery in the Music Sector&lt;/h2&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-co-funded-by-the-european-union&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Co-funded by the European Union&#34; srcset=&#34;
+               /media/img/logos/MusicAIRE_logo_black_hu2c6e08479b5f3c62063661100bfb33ae_373549_f712046d9511936c522120741ad086db.webp 400w,
+               /media/img/logos/MusicAIRE_logo_black_hu2c6e08479b5f3c62063661100bfb33ae_373549_d0894d0df28d77d5af6bd1cb14df1097.webp 760w,
+               /media/img/logos/MusicAIRE_logo_black_hu2c6e08479b5f3c62063661100bfb33ae_373549_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/logos/MusicAIRE_logo_black_hu2c6e08479b5f3c62063661100bfb33ae_373549_f712046d9511936c522120741ad086db.webp&#34;
+               width=&#34;445&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Co-funded by the European Union
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;The objectives of the MusicAIRE GREEN recovery program is increasing the music sector’s environmental sustainability and ecological awareness with a view to greening the music industry, in particular live acts, festivals and touring, as well as supporting innovative start-ups aiming at decreasing the environmental footprint of online data storing and music distribution.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-co-funded-by-the-european-union&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Co-funded by the European Union&#34; srcset=&#34;
+               /media/img/logos/EN_Co-Funded_by_the_EU_POS_hu56a7d8d0a185b66fdb582ea3263fa6a4_70600_7120502fec540e84fa8d4dc788eef5f8.webp 400w,
+               /media/img/logos/EN_Co-Funded_by_the_EU_POS_hu56a7d8d0a185b66fdb582ea3263fa6a4_70600_420e17c70cd589d75cdd2a643da84678.webp 760w,
+               /media/img/logos/EN_Co-Funded_by_the_EU_POS_hu56a7d8d0a185b66fdb582ea3263fa6a4_70600_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/logos/EN_Co-Funded_by_the_EU_POS_hu56a7d8d0a185b66fdb582ea3263fa6a4_70600_7120502fec540e84fa8d4dc788eef5f8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;160&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Co-funded by the European Union
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

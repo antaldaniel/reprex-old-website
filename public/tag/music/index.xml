@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music | Reprex</title>
+    <link>https://reprex.nl/tag/music/</link>
+      <atom:link href="https://reprex.nl/tag/music/index.xml" rel="self" type="application/rss+xml" />
+    <description>Music</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Oct 2021 19:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>Music</title>
+      <link>https://reprex.nl/tag/music/</link>
+    </image>
+    
+    <item>
+      <title>Reprex on MaMA</title>
+      <link>https://reprex.nl/post/2021-10-15-mama/</link>
+      <pubDate>Fri, 15 Oct 2021 19:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/post/2021-10-15-mama/</guid>
+      <description>&lt;p&gt;Reprex’s co-founder, the main developer of the Digital Music Observatory, &lt;a href=&#34;https://reprex.nl/authors/daniel_antal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Antal&lt;/a&gt; and Digital Music Observatory curator, &lt;a href=&#34;https://music.dataobservatory.eu/author/marie-zhorova/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marie Zhorová&lt;/a&gt; participated in the MaMA Festival &amp;amp; Convention in Paris on 13-15 October within the &lt;a href=&#34;https://www.jumpmusic.eu/fellows/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JUMP Music Market Accelerator Program&lt;/a&gt; Program. We introduced our Digital Music Observatory to national music organizations and encouraged them to try out a cooperation with us. (See Use Cases below)&lt;/p&gt;
+&lt;p&gt;Our main aim was to find new users to our Digital Music Observatory, and to find partners for a future Horizon Europe R&amp;amp;D project to develop the scientific pillars of the Observatory in a manner that meets practical industry needs and the feature requirements laid out in hte Feasiblity Study for a Euroepan Music Observatory.&lt;/p&gt;
+&lt;p&gt;Our concept was introduced in Le Trianon to a wider audience during the &lt;a href=&#34;https://reprex.nl/talk/digital-music-observatory-on-the-mama-convention-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JUMP Music Market Accelerator Pitch Session&lt;/a&gt; and in one-to-one meetings to representatives of French national organizations. We have also started to investigate the possibility to cooperate with two startups to bring our data services closer to artists, labels, and publishers.&lt;/p&gt;
+&lt;script class=&#34;lesondier-widget&#34; data-ls-event-id=&#34;12386&#34; data-ls-site-slug=&#34;mama&#34; src=&#34;https://live.mamafestival.com/build/widget/widget_loader.min.js&#34; data-ls-width=&#34;600px&#34; data-ls-height=&#34;435px&#34; async&gt;&lt;/script&gt;
+&lt;h2 id=&#34;use-cases&#34;&gt;Use Cases&lt;/h2&gt;
+&lt;h3 id=&#34;fair-streaming&#34;&gt;Fair Streaming&lt;/h3&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-daniel-introduced-our-work-made-for-the-uk-ipos-music-creators-earnings-in-the-digital-era-projecthttpsmusicdataobservatoryeupublicationmce_empirical_streaming_2021-about-the-justified-and-not-justified-differences-among-music-rightsholders-earnings-and-the-diminishing-market-value-of-streams-we-believe-that-our-uk-approach-is-a-particularly-interesting-addition-to-join-with-the-distribution-analysishttpsdataandlyricscompost2021-02-21-cnm-streaming-performed-by-the-centre-nationale-de-la-musiquehttpscnmfren-and-deloitte-in-france&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Daniel introduced our work made for the UK IPO&amp;#39;s [Music Creators&amp;#39; Earnings in the Digital Era Project](https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/) about the justified and not-justified differences among music rightsholders earnings and the diminishing market value of streams. We believe that our UK approach is a particularly interesting addition to join with [the distribution analysis](https://dataandlyrics.com/post/2021-02-21-cnm-streaming/) performed by the [Centre Nationale de la Musique](https://cnm.fr/en/) and Deloitte in France.&#34; srcset=&#34;
+               /media/img/reports/mce/featured_hue50608b3f52d6750042187fb48482821_711194_82c4b196d92bab0818d4a4e473f93c67.webp 400w,
+               /media/img/reports/mce/featured_hue50608b3f52d6750042187fb48482821_711194_9755d01f37d217b33040e55332846897.webp 760w,
+               /media/img/reports/mce/featured_hue50608b3f52d6750042187fb48482821_711194_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/reports/mce/featured_hue50608b3f52d6750042187fb48482821_711194_82c4b196d92bab0818d4a4e473f93c67.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;526&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Daniel introduced our work made for the UK IPO&amp;rsquo;s &lt;a href=&#34;https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Creators&amp;rsquo; Earnings in the Digital Era Project&lt;/a&gt; about the justified and not-justified differences among music rightsholders earnings and the diminishing market value of streams. We believe that our UK approach is a particularly interesting addition to join with &lt;a href=&#34;https://dataandlyrics.com/post/2021-02-21-cnm-streaming/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the distribution analysis&lt;/a&gt; performed by the &lt;a href=&#34;https://cnm.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centre Nationale de la Musique&lt;/a&gt; and Deloitte in France.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;h3 id=&#34;fair-value&#34;&gt;Fair Value&lt;/h3&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-daniel-introduced-to-collective-management-professioanls-our-innovative-approach-for-private-copying-valuation-royalty-price-setting-estimating-the-values-of-value-transfer-to-media-platforms-and-other-topics-of-interests-for-collective-management-and-rights-management-organizations-our-approach-has-a-proven-track-record-to-increase-revenues-for-creators&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Daniel introduced to collective management professioanls our innovative approach for private copying valuation, royalty price setting, estimating the values of value transfer to media platforms, and other topics of interests for collective management and rights management organizations. Our approach has a proven track record to increase revenues for creators.&#34; srcset=&#34;
+               /media/img/reports/mce/listen_fair_treemap_en_hu541e296fb926ca7602368e34164d282a_326052_da197cb6040c006765b23dec7d5086e1.webp 400w,
+               /media/img/reports/mce/listen_fair_treemap_en_hu541e296fb926ca7602368e34164d282a_326052_d0d3fea66be53635f73bc1425195a568.webp 760w,
+               /media/img/reports/mce/listen_fair_treemap_en_hu541e296fb926ca7602368e34164d282a_326052_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/reports/mce/listen_fair_treemap_en_hu541e296fb926ca7602368e34164d282a_326052_da197cb6040c006765b23dec7d5086e1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;608&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Daniel introduced to collective management professioanls our innovative approach for private copying valuation, royalty price setting, estimating the values of value transfer to media platforms, and other topics of interests for collective management and rights management organizations. Our approach has a proven track record to increase revenues for creators.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;h3 id=&#34;open-music-observatory&#34;&gt;Open Music Observatory&lt;/h3&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-we-introduced-our-approach-to-building-the-european-music-observatoryhttpsmusicdataobservatoryeupost2021-03-04-jump-2021-in-a-decentralized-way-relying-not-only-on-the-resources-of-creative-europe-but-also-on-open-science-horizon-europe-bringing-the-music-industry-music-research-in-universities-and-cultural-policy-under-one-open-collaboration-because-france-is-building-its-own-music-observatory-of-a-kind-the-decentralized-approach-could-particularly-benefit-french-stakeholders&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;We introduced our approach to building the [European Music Observatory](https://music.dataobservatory.eu/post/2021-03-04-jump-2021/) in a decentralized way, relying not only on the resources of Creative Europe but also on Open Science, Horizon Europe, bringing the music industry, music research in universities and cultural policy under one open collaboration. Because France is building its own music observatory of a kind, the decentralized approach could particularly benefit French stakeholders.&#34; srcset=&#34;
+               /media/img/observatory_screenshots/dmo_contributors_hua4f41ef7327b64bb97f169af135070bd_140729_a07a8e618fa7317f6f8256b9a334262e.webp 400w,
+               /media/img/observatory_screenshots/dmo_contributors_hua4f41ef7327b64bb97f169af135070bd_140729_3a4ae7f72478fd880961b08e1f7075dd.webp 760w,
+               /media/img/observatory_screenshots/dmo_contributors_hua4f41ef7327b64bb97f169af135070bd_140729_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/observatory_screenshots/dmo_contributors_hua4f41ef7327b64bb97f169af135070bd_140729_a07a8e618fa7317f6f8256b9a334262e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      We introduced our approach to building the &lt;a href=&#34;https://music.dataobservatory.eu/post/2021-03-04-jump-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Music Observatory&lt;/a&gt; in a decentralized way, relying not only on the resources of Creative Europe but also on Open Science, Horizon Europe, bringing the music industry, music research in universities and cultural policy under one open collaboration. Because France is building its own music observatory of a kind, the decentralized approach could particularly benefit French stakeholders.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;h3 id=&#34;listen-local&#34;&gt;Listen Local&lt;/h3&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-marie-and-daniel-introduced-the-listen-local-projecthttpsreprexnlprojectlisten-local-to-startups-our-listen-local-project-analyzes-why-recommendation-engines-do-not-recommend-locally-relevant-music-such-as-music-from-paris-in-paris-slovakian-music-for-slovaks-and-offers-alternative-approaches-and-fixes--we-were-discussing-with-other-startups-serving-artists-and-small-labels-to-bring-down-our-macro-level-approaches-benefits-to-the-level-of-aritsts-as-we-did-in-our-experimental-project-in-slovakiahttpsmusicdataobservatoryeupublicationlisten_local_2020-supported-by-our-scientific-research-cooperation-see-our-pre-print-manuscripthttpsmusicdataobservatoryeupublicationeuropean_visibilitiy_2021&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Marie and Daniel introduced the [Listen Local project](https://reprex.nl/project/listen-local/) to startups. Our Listen Local project analyzes why recommendation engines do not recommend locally relevant music (such as music from Paris in Paris, Slovakian music for Slovaks) and offers alternative approaches and fixes.  We were discussing with other startups serving artists and small labels to bring down our macro-level approaches&amp;#39; benefits to the level of aritsts, as we did in our experimental project in [Slovakia](https://music.dataobservatory.eu/publication/listen_local_2020/) supported by our scientific research cooperation (see our pre-print [manuscript](https://music.dataobservatory.eu/publication/european_visibilitiy_2021/).)&#34; srcset=&#34;
+               /media/img/reports/listen_local_2020/listen_local_study_covers_hue3bbdd36723034473d5308625670dcc8_550932_763efe9ed9c592524de77426709a3c4d.webp 400w,
+               /media/img/reports/listen_local_2020/listen_local_study_covers_hue3bbdd36723034473d5308625670dcc8_550932_03e3303a405b457472b9b2ff5bc4c0d4.webp 760w,
+               /media/img/reports/listen_local_2020/listen_local_study_covers_hue3bbdd36723034473d5308625670dcc8_550932_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/reports/listen_local_2020/listen_local_study_covers_hue3bbdd36723034473d5308625670dcc8_550932_763efe9ed9c592524de77426709a3c4d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Marie and Daniel introduced the &lt;a href=&#34;https://reprex.nl/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local project&lt;/a&gt; to startups. Our Listen Local project analyzes why recommendation engines do not recommend locally relevant music (such as music from Paris in Paris, Slovakian music for Slovaks) and offers alternative approaches and fixes.  We were discussing with other startups serving artists and small labels to bring down our macro-level approaches&amp;rsquo; benefits to the level of aritsts, as we did in our experimental project in &lt;a href=&#34;https://music.dataobservatory.eu/publication/listen_local_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovakia&lt;/a&gt; supported by our scientific research cooperation (see our pre-print &lt;a href=&#34;https://music.dataobservatory.eu/publication/european_visibilitiy_2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript&lt;/a&gt;.)
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;h2 id=&#34;why-data-observatory&#34;&gt;Why Data Observatory?&lt;/h2&gt;
+&lt;p&gt;Our use cases highlight the value of having a wide range of data available for the industry players, researchers and policy-makers. In the era of big data, and when open data is becoming &lt;em&gt;legally&lt;/em&gt; more and more available, it is important to have one place with a single data collection method. Copernicus built a permanent observatory for the ongoing observation of celestial bodies. We built an automated data observatory to permanently collect data about music.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Music Observatory on the MaMA Convention 2021</title>
+      <link>https://reprex.nl/talk/digital-music-observatory-on-the-mama-convention-2021/</link>
+      <pubDate>Thu, 14 Oct 2021 11:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/talk/digital-music-observatory-on-the-mama-convention-2021/</guid>
+      <description>&lt;p&gt;Currently more than half of the global music sales are made by autonomous AI systems owned by Google, Apple, or Spotify. These data monopolies are getting rich, because they reap the profit from music businesses with an average employee count of 1.8 Europe. European music businesses are easy to exploit with armies of data engineers and data scientists because they do not have a single data scientist or even an IT function.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Artists in the UK had a difficulty explaining in Westminster how they are losing out in streaming– so we have created a streaming price index, like the Dow Jones, if you like, that explains the economic factors of the devaluation of music in the last 5 years in 20 countries. (See &lt;a href=&#34;https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our report&lt;/a&gt;.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Music organizations in Slovakia and Hungary were frustrated that their politicians and journalists believed music to be taxpayer funded, so we showed with data that they contribute more proportionally to the national budget than car manufacturers, the darling of local politicians (See our reports in &lt;a href=&#34;https://music.dataobservatory.eu/publication/hungary_music_industry_2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hungary&lt;/a&gt; (recast several times) and in &lt;a href=&#34;https://music.dataobservatory.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovakia&lt;/a&gt;.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We successfully challenged with data restaurant associations, hotel chains, telecom corporations and broadcasters who wanted to bring music prices down in court and via lobbying.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The music industry has envied the television and film industry which has a single go-to-point for data when it needs them, the European Audiovisual Observatory. It started lobbying for a publicly financed music observatory. But we did not wait. The music industry has a tragic track record of failed centralized international data projects. We built Reprex out of a 12-country, decentralized music project. We learned how to utilize hidden, but already existing data and research funds well, and how to manage the data governance among the poisonous conflicts of interests between rich and poor countries, authors vs producers, producer’s vs performers.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Our &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt; is not theoretical, it is practical, because it is built around real-life court cases, damage claims, lobbying and PR arguments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Our Digital Music Observatory is comprehensive – it contains more than a thousand indicators from all European countries. We have enough data to test the biases of the Spotify or the YouTube algorithm – you would be surprised what the data tells us.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It has data available much sooner, in much higher quality and in a more practical format than in the Audiovisual one.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;presentation-slides&#34;&gt;Presentation Slides&lt;/h2&gt;
+&lt;p&gt;You can see the presentation slides &lt;a href=&#34;https://reprex.nl/slides/mama_2021/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Music Creators&#39; Earning Project</title>
+      <link>https://reprex.nl/project/mce/</link>
+      <pubDate>Tue, 29 Sep 2020 10:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/project/mce/</guid>
+      <description>&lt;p&gt;Reprex with its &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory team&lt;/a&gt; was commissioned to prepare an analysis on the justified and not justified differences in music creators’ earnings.  We have posted our most important findings in an earlier blogpost (&lt;a href=&#34;https://music.dataobservatory.eu/post/2021-06-18-mce/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Creators’ Earnings in the Streaming Era. United Kingdom Research Cooperation With the Digital Music Observatory&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The UK Intellectual Property Office has published the entire report on the music creators’ earnings, and we have made our detailed analysis available in a side-publication. Reprex also signed an agreement with the researchers of the Music Creators’ Earnings project to deposit all data published in the report in the Digital Music Observatory, and to promote the building of the observatory further.&lt;/p&gt;
+&lt;p&gt;The research questions asked in this report are related to the &lt;a href=&#34;https://www.gov.uk/government/publications/music-creators-earnings-in-the-digital-era&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Creator Earnings&amp;rsquo; Project&lt;/a&gt; (MCE), exploring issues concerning equitable remuneration and earnings distributions. We were tasked with providing a longitudinal analysis of earnings development and relating our findings to equitable remuneration. The starting point of our work was centred around a very broadly defined problem: how much money music creators (rightsholders) earn from streaming, how these earnings are distributed, and how the earnings and their distribution have developed during the last decade.&lt;/p&gt;
+&lt;p&gt;We have started to retrospectively harmonize the Music Creators Earnigs survey for the the Digital Music Observatory. The survey’s raw data is accessible on the website of the UKIPO &lt;a href=&#34;https://www.gov.uk/government/publications/music-creators-earnings-in-the-digital-era&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.
+Because of the bias of the survey, we did not include statistical indicators of the survey yet in our observatory, but we made the processed data available on our open repository space on Zenodo.
+Nevertheless, because of the relatively large sample size (n=708) we believe that important comparisons can be made with our &lt;a href=&#34;https://reprex.nl/project/ceemid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID surveys&lt;/a&gt;, and we can shed some light on the earnings distribution of UK artists, and the way they distribute and finance their recordings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;see our &lt;a href=&#34;https://reprex.nl/publication/mce_empirical_streaming_2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See our main findings in a &lt;a href=&#34;https://music.dataobservatory.eu/post/2021-06-18-mce/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogpost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See the first version of the processed, machine readable, partially cleaned &lt;a href=&#34;https://zenodo.org/record/5615530#.YXvMGJ5BzIU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;datafile&lt;/a&gt; of the Music Creators Earnings survey 2020.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Launching Our Demo Music Observatory</title>
+      <link>https://reprex.nl/post/2020-09-15-music-observatory-launch/</link>
+      <pubDate>Tue, 15 Sep 2020 08:00:39 +0000</pubDate>
+      <guid>https://reprex.nl/post/2020-09-15-music-observatory-launch/</guid>
+      <description>&lt;p&gt;Today, on 15 September 2020, we officially launched our &lt;code&gt;minimal viable product&lt;/code&gt; as we promised to partners back in February. This was a particularly difficult period for everybody. We aspired to deliver by September in a very different environment, our hopes for commissioned work went up in flames with the pandemic, and our targeted users, musicians and music entrepreneurs, talent managers, music venues lost most of their income. The organizations helping them, granting authorities, export offices and collective management societies are overwhelmed with the problem. During these troublesome times, our team expanded, attracted great new talent, and kept working.&lt;/p&gt;
+&lt;p&gt;Our first product is the &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt;, a collaborative, automated research-based &lt;a href=&#34;https://dataobservatory.eu/faq/observatories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;observatory&lt;/a&gt; for the music industry, one that is particularly hard hit by the COVID19 crisis. Not only great artists, composers, technicians, managers fell victim to the virus, but musicians lost about 50–90% of their income from live music. This translates to a 100% loss for the live music technicians and managers.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fQJHflWPS34&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+See our &lt;a href=&#34;https://dataobservatory.eu/post/2020-09-11-creating-automated-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier blogpost&lt;/a&gt; on what you see on the video.&lt;/p&gt;
+&lt;p&gt;The music industry was never a place for great job security. For putting up a show, you usually need a network of 10–200 artists, technicians and managers to work together as freelancers without all those social benefits that many people enjoy in other walks of life. We have been trying to figure out how to help this microenterprise and freelancer-network based industry with research for five years. Our aim is to make them competitive when they are talking with their buyers: Google, Apple, Spotify, who are really heavy-weight data and AI pros. Our better plan their tours, when they will be back on the road, to understand what sort of audiences and purchasing power waits for them in different European cities.&lt;/p&gt;
+&lt;p&gt;We are launching at a time when the music industry is crying for help.Therefore, we have decided to make our demo observatory open and unfinished. Over the last 7 years, we have built up about 2000 music and creative sector indicators to be used for business KPIs, forecasting targets, grant evaluations, royalty valuations, concert demography target group analysis and other professional uses. We would like to open up, based on your needs, about 50 well-designed indicators, and pledge to keep it daily refreshed, corrected, documented, citaable, downloadable. Also, feel free to use our most valuable source code—use it for your own purposes, even modify it, as long as you keep it open.&lt;/p&gt;
+&lt;p&gt;For our smaller partners, we follow what musicians do these days on Bandcamp: name your price. We make a pledge to our small partners: if you need reliable data to plan your next grant calls, calculate royalties, compensations, predict hit candidates, give us the job—and name your price. Post-corona, you can take for a dollar the best music from Bandcamp. You can take our research products, for a limited period, for any amount you name, as long as  it is for a good cause and serves the industry, musicians, technicians or managers. In return, we ask for your feedback. Help us validate whether we are on the right track, tell us how we can cooperate after the pandemic, in better times.&lt;/p&gt;
+&lt;p&gt;Our larger and better funded partners? We ask you to pay the price we name, because we believe that it is a well-justified, fair and competitive price, set by pricing experts.&lt;/p&gt;
+&lt;p&gt;We appreciate it if you take a look at our offering, or if you pass this blogpost on to your colleagues in the industry.  Our main target audience initially are music professional in broader Europe, but we are planning to cover all major global markets very soon, too. Feedback from the U.S., Australia, Canada, Colombia, Brazil &amp;amp; Argentina is particularly welcome as we have great plans over there!&lt;/p&gt;
+&lt;h2 id=&#34;who-we-are&#34;&gt;Who we are?&lt;/h2&gt;
+&lt;p&gt;We &lt;a href=&#34;https://dataobservatory.eu/post/2020-08-24-start-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;started&lt;/a&gt; our operations on 1 September 2020 on the basis of &lt;a href=&#34;http://documentation.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID&lt;/a&gt;, a pan-European data observatory that created about 2000 music and creative industry indicators for its users. In the coming days, we are gradually opening up about 50 &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music industry&lt;/a&gt; and 50 broader creative industry indicators in a fully reproducible workflow, with daily re-freshed, re-processed, well-formatted and documented indicators for business and policy decisions.&lt;/p&gt;
+&lt;p&gt;We would like to validate this approach in one of the world&amp;rsquo;s most prestigious university-backed incubator programs, in the &lt;a href=&#34;https://www.yesdelft.com/yes-programs/ai-blockchain-validation-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI/Blockchain Validation Lab&lt;/a&gt;. We&amp;rsquo;re finalist on their selection, and all help before 23 September from our friends in the music industry is more than appreciated. If we get there, we can rely on probably the best pros in Europe to make our offering better tailored and financially sustainable.&lt;/p&gt;
+&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in touch!&lt;/h2&gt;
+&lt;p&gt;We use the very simple and extremely secure &lt;strong&gt;keybase.io&lt;/strong&gt;, a kind of mix of Whatsapp, Skype, Google Drive, One Drive and zoom. You can get in touch on that platform with us in anytime &lt;a href=&#34;https://keybase.io/team/reprexcommunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can easily contact on LinkedIn &lt;a href=&#34;https://www.linkedin.com/in/antaldaniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel&lt;/a&gt; or &lt;a href=&#34;https://www.linkedin.com/in/k%C3%A1tya-nagy-a9447730/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kátya&lt;/a&gt; and of course, we have a usually working &lt;a href=&#34;https://dataobservatory.eu/#about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;email contact form&lt;/a&gt;, too. Our email is name.surname at our main domain.&lt;/p&gt;
+&lt;h2 id=&#34;video-credits&#34;&gt;Video credits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Data acquisition and processing: Daniel Antal, CFA and Marta Kołczyńska, PhD (&lt;a href=&#34;https://music.dataobservatory.eu/economy.html#demand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;survey data&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Documentation automation: Sandor Budai&lt;/li&gt;
+&lt;li&gt;Video art: Line Matson&lt;/li&gt;
+&lt;li&gt;Music: &lt;a href=&#34;https://www.youtube.com/moonmoonmoon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Music Observatory</title>
+      <link>https://reprex.nl/observatories/music/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/observatories/music/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;project/music-observatory/&#34;&gt;Digital Music Observatory&lt;/a&gt;  is a fully automated, open source, open data observatory that links public datasets in order to provide a comprehensive view of the European music industry. The DMO produces key business and policy indicators that enable the growth of music business strategies and national music policies in a way that works both for music lover audiences and the creative enterprises of the sector, and contributes to a more competitive, fair and sustainable European music ecosystem.&lt;/p&gt;
+&lt;p&gt;Its data pillars are following the structure laid out in the &lt;a href=&#34;https://music.dataobservatory.eu/post/2020-11-16-european-music-observatory-feasibility/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feasibility study for the establishment of a European Music Observatory&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Demo Music Observatory Pillars&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://data.music.dataobservatory.eu/music-economy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Economy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://data.music.dataobservatory.eu/music-diversity.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diversity &amp;amp; Circulation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://data.music.dataobservatory.eu/music-society.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music &amp;amp; Society&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://music.dataobservatory.eu/#projects&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Innovation - innovative data applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Music is one of the most data-driven service industries where the majority of sales are already made by AI-driven autonomous systems.  The DMO is a fully-functional service that can function as a testing ground of the &lt;code&gt;European Data Strategy&lt;/code&gt;, showcasing the ways in which the music industry is affected by the problems that the &lt;code&gt;Digital Services Act&lt;/code&gt; and the &lt;code&gt;Trustworthy AI&lt;/code&gt; initiatives attempt to regulate. If these policies will work for the European microenterprise-dominated, complex and fragile European music ecosystem, then they are likely to make Europe fit for the digital age.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download our &lt;a href=&#34;https://reprex.nl/media/documents/Digital_Music_Observatory.pdf&#34; target=&#34;_blank&#34;&gt;introduction&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our Product/Market Fit was validated in the world&amp;rsquo;s 2nd ranked university-backed incubator program, the &lt;a href=&#34;post/2020-09-25-yesdelft-validation/&#34;&gt;Yes!Delft AI Validation Lab&lt;/a&gt;. We are currently developing this project with the help of the &lt;a href=&#34;https://www.jumpmusic.eu/fellow2021/automated-music-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JUMP European Music Market Accelerator&lt;/a&gt; program.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-rss  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Follow &lt;a href=&#34;https://music.dataobservatory.eu/#news&#34; target=&#34;_blank&#34;&gt;news about us&lt;/a&gt; or the more comprehensive &lt;a href=&#34;https://dataandlyrics.com/&#34; target=&#34;_blank&#34;&gt;Data &amp; Lyrics&lt;/a&gt;  blog.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-phone  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Contact &lt;a href=&#34;https://music.dataobservatory.eu/#contact&#34; target=&#34;_blank&#34;&gt;us&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;use-cases&#34;&gt;Use Cases&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;We work with collective management organizations, when they do not have the data, or do not have the right to use the data that they have for various professional uses, including private copying damage claims, setting royalty tariffs (and defending them in copyright or competition tribunals.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We support researchers at universities and consultancy to produce better evidence-based policies, business strategies or scientific output. We provide them thoroughly tested, properly processed, ready-to-import, ready-to-use data in various music, creative industries, competition, and climate change related issues. We work with very heterogeneous and highly fragmented data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Our team members have been involved with open governmental and open science data for almost 20 years individually. We know how to find, process, and make usable legally open, unique data which cannot be purchased on the market (from university archives, tax authorities, public satellites) in a way that matches scientific or financial auditing standards.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We participate in various trustworthy, ethical AI R&amp;amp;D projects with high-quality data and testing data to perform bad outcomes or malfunctioning recommendations of music AI systems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

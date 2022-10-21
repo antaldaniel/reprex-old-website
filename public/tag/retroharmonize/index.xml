@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>retroharmonize | Reprex</title>
+    <link>https://reprex.nl/tag/retroharmonize/</link>
+      <atom:link href="https://reprex.nl/tag/retroharmonize/index.xml" rel="self" type="application/rss+xml" />
+    <description>retroharmonize</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Sep 2022 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>retroharmonize</title>
+      <link>https://reprex.nl/tag/retroharmonize/</link>
+    </image>
+    
+    <item>
+      <title>Surveyharmonization</title>
+      <link>https://reprex.nl/slides/surveyharmonization/</link>
+      <pubDate>Sun, 25 Sep 2022 12:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/slides/surveyharmonization/</guid>
+      <description>&lt;h1 id=&#34;survey-harmonization-workflow&#34;&gt;Survey Harmonization Workflow&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt; | Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt; | Speaker notes: &lt;code&gt;S&lt;/code&gt; | Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;principles&#34;&gt;Principles&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Generic concept of surveying, i.e. examining and record the area and features of (an area of land) to construct a map, plan, or description.&lt;/li&gt;
+&lt;li&gt;Structured data collection of the missing information, harmonization of knowledge.&lt;/li&gt;
+&lt;li&gt;Reproducibility and not automation. On a small scale, anything can be done with &lt;code&gt;Ctrl C + Ctrl V&lt;/code&gt;. But it should be recorded, documented for future &lt;code&gt;Ctrl C + Ctrl V&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;surveyharmonies_activities.webp&#34;
+  &gt;
+
+&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;concepts&#34;&gt;Concepts&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;We harmonize &lt;a href=&#34;https://surveyharmonies.reprex.nl/concepts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;knowledge concepts&lt;/a&gt;. Because knowledge concepts are very abstract, the harmonization of concepts requires an iteration of desired output and questionnaire or form items, and it will be carried on throughout the project. The harmonization of concepts will allow us to link our survey data to pre-existing survey data, financial information, or any other source of information.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;surveyharmonies_kanban.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;data-model&#34;&gt;Data Model&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Data modeling enables us to place the information we gain from existing sources, for example, by recycling pre-existing questionnaire items and answers to a knowledge graph together with our data. A knowledge graph is a more flexible, future-proof, generalized database that connects pre-existing information with new information.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;surveyharmonies_issues.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;question-bank&#34;&gt;Question Bank&lt;/h2&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;The &lt;a href=&#34;https://surveyharmonies.reprex.nl/questionbank.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;questionnaire harmonization&lt;/a&gt; includes the harmonization of the question or entry form label (&lt;code&gt;In the past 12 months, how many times have you been to a concert&lt;/code&gt;) and the response scale (&lt;code&gt;1&lt;/code&gt;, &lt;code&gt;2&lt;/code&gt;, &lt;code&gt;Do not remember&lt;/code&gt;, &lt;code&gt;Decline to say&lt;/code&gt;). The harmonization must be made with other knowledge concepts (i.e. the concept of the concert) and survey questionnaires or annual report information fields.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;surveyharmonies_quesitonbank.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;translations&#34;&gt;Translations&lt;/h2&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;We must be able to work with translators and standardized &lt;a href=&#34;https://surveyharmonies.reprex.nl/translations.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;translated labels&lt;/a&gt;. We must have the question bank ready by the end of October. Ensure that we do not use URIs but IRIs for identifying questionnaire items. Labesl are translated or localized. A generic &amp;lsquo;French&amp;rsquo;  label is often unsuitable for French speakers in Belgium.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;surveyharmonies_translations.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;fieldwork&#34;&gt;Fieldwork&lt;/h2&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;We must carry out &lt;code&gt;fieldwork&lt;/code&gt;, i.e. surveying music-related problems. We will conduct the fieldwork with a cheap online tool (LimeSurvey or SurveyMonkey). The fieldwork will likely remain fully online or may contain a small, hybrid online interview element. The integration of fieldwork implementation is the least important task for us. Use whatever is convenient.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-and-save&#34;&gt;Code and Save&lt;/h2&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;We must record the information into coded datasets that are saved into files. The success of the output harmonization will depend on the use of harmonized coding (we will use, whenever possible, SDMX code definitions, such as &amp;lsquo;F&amp;quot; = &amp;lsquo;female&amp;rsquo;) and the use of machine-readable, open, portable file formats. Potential users are small entities, and we will avoid the use of databases and favor the use of knowledge graphs instead.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;output-harmonization&#34;&gt;Output harmonization&lt;/h2&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;We will harmonize the data, which means that we will join the coded answers considering the question labels, the value labels, and various forms of missing information across all languages (i.e., English or German versions of a question and answer options.)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;difficult_bills_slide.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;We will report the harmonized information using graphic visualizations, tables placed into presentation slides, books or web pages. We should have the templates based on test data ready in January.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;surveyharmonies_items.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://reprex.nl/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Email&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/antaldaniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Antal&lt;/a&gt; - &lt;a href=&#34;https://www.linkedin.com/company/79286750&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

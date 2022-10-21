@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reprex</title>
+    <link>https://reprex.nl/authors/</link>
+      <atom:link href="https://reprex.nl/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reprex</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Sep 2022 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>Reprex</title>
+      <link>https://reprex.nl/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

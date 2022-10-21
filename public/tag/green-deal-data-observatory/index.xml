@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Green Deal Data Observatory | Reprex</title>
+    <link>https://reprex.nl/tag/green-deal-data-observatory/</link>
+      <atom:link href="https://reprex.nl/tag/green-deal-data-observatory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Green Deal Data Observatory</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Dec 2021 13:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>Green Deal Data Observatory</title>
+      <link>https://reprex.nl/tag/green-deal-data-observatory/</link>
+    </image>
+    
+    <item>
+      <title>Reproducible Economic Impact Assessment</title>
+      <link>https://reprex.nl/post/2021-12-20-environmental_impact/</link>
+      <pubDate>Sun, 19 Dec 2021 13:00:00 +0100</pubDate>
+      <guid>https://reprex.nl/post/2021-12-20-environmental_impact/</guid>
+      <description>&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-get-started-with--iotableshttpsiotablesdataobservatoryeuindexhtml&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/blogposts_2021/iotables_0_4_7.png&#34; alt=&#34;Get started with  [iotables](https://iotables.dataobservatory.eu/index.html).&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Get started with  &lt;a href=&#34;https://iotables.dataobservatory.eu/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iotables&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;We made an important, peer-reviewed release of iotables in the last week as a preparation to increase the functionality of our open-source software. The official release of the iotables R package currently works with economic impact assessments, and can evaluate the likely employment, tax, wage, or gross value added direct, indirect and multiplied impacts of various policy changes in about 30 countries.&lt;/p&gt;
+&lt;p&gt;Originally the package was developed to calculate the economic impact of the Hungarian film tax shelter and the impact of the music sector on the Slovak economy. (See &lt;a href=&#34;https://music.dataobservatory.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak Music Industry Report&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;The new CRAN release improved the documentation of the function and removed most outdated dependencies.  The new, development version (which did not go through peer-review yet) is adding new functionality for environmental impact analysis with the following pollutants:  Carbon dioxide without emissions from biomass (&lt;code&gt;CO2&lt;/code&gt;), Carbon dioxide from biomass (&lt;code&gt;Biomass CO2&lt;/code&gt;), Nitroux oxide (&lt;code&gt;N2O&lt;/code&gt;), Methane (&lt;code&gt;CH4&lt;/code&gt;), Perfluorocarbons (&lt;code&gt;PFCs&lt;/code&gt;), Hydrofluorocarbons (&lt;code&gt;HFCs&lt;/code&gt;), Sulphur hexafluoride (SF6) including nitrogen trifluoride (&lt;code&gt;NF3&lt;/code&gt;), Nitrogen oxides (&lt;code&gt;NOx&lt;/code&gt;), Non-methane volatile organic compounds, (NMVOC), Carbon monoxide (&lt;code&gt;CO&lt;/code&gt;), Particulate matter &amp;lt; 10μm (&lt;code&gt;PM10&lt;/code&gt;), Particulate matter &amp;lt; 2,5μm (&lt;code&gt;PM2,5&lt;/code&gt;), Sulphur dioxide (&lt;code&gt;SO2&lt;/code&gt;), Ammonia (&lt;code&gt;NH3&lt;/code&gt;) and their combinations (see &lt;a href=&#34;https://ec.europa.eu/eurostat/cache/metadata/en/env_ac_ainah_r2_esms.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reference Metadata in Euro SDMX Metadata Structure (ESMS)&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Our aim is to develop new sustainable finance applications, and understand the sustainability impacts of bank’s lending activities and insurer’s underwriting activities on climate change mitigation and adoption, biodiversity, preservation of water reservers, preventing pollution, and promoting the circular economy.&lt;/p&gt;
+&lt;h2 id=&#34;eu-taxonomy-on-sustainable-activities&#34;&gt;EU Taxonomy on Sustainable Activities&lt;/h2&gt;
+&lt;p&gt;The European Commission created an created an &lt;a href=&#34;https://ec.europa.eu/sustainable-finance-taxonomy/tool/index_en.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EU Taxonomy Compass&lt;/a&gt;, which provides a visual representation of the contents of the EU Taxonomy, starting with the Delegated Act on the climate objectives, as adopted on 4 June 2021. Whilst you can download the EU Taxonomy in &lt;code&gt;xlsx&lt;/code&gt; or &lt;code&gt;json&lt;/code&gt; format, they are not tidy datasets, and they are not particularly well-suited for calculations, filtering, or inclusion in applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://reprex.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reprex&lt;/a&gt; created a tidy version of the EU Taxonomy for developing better sustainability indicators into the &lt;a href=&#34;https://greendeal.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Deal Data Observatory&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;open-data&#34;&gt;Open Data&lt;/h2&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-eu-taxonomy-on-sustainable-activities-tidy-downloadhttpszenodoorgrecord5791921yb9un2jmliu&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;EU Taxonomy on Sustainable Activities (Tidy) [download](https://zenodo.org/record/5791921#.Yb9UN2jMLIU).&#34; srcset=&#34;
+               /media/img/blogposts_2021/tidy_eu_taxonomy_on_zenodo_huc44c1a1ba6df93a8d236ece24ac631bf_205462_b833f168c2c83ac62651705c602098e9.webp 400w,
+               /media/img/blogposts_2021/tidy_eu_taxonomy_on_zenodo_huc44c1a1ba6df93a8d236ece24ac631bf_205462_26dcc2483d83ed1843846dbbd7ae2829.webp 760w,
+               /media/img/blogposts_2021/tidy_eu_taxonomy_on_zenodo_huc44c1a1ba6df93a8d236ece24ac631bf_205462_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/blogposts_2021/tidy_eu_taxonomy_on_zenodo_huc44c1a1ba6df93a8d236ece24ac631bf_205462_b833f168c2c83ac62651705c602098e9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      EU Taxonomy on Sustainable Activities (Tidy) &lt;a href=&#34;https://zenodo.org/record/5791921#.Yb9UN2jMLIU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;download&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;Using our &lt;code&gt;iotables&lt;/code&gt; is not for the faint heart.  It is a scientific software, and it requires a good command of national accounts, input-output economics and sustainability to work with.  Our Green Deal Data Observaotry is designed to be an API of scientific software, and produce clean, ready to use data for researchers, policy-makers and business planners who do not have the skills to work with scientific software. We are planning to release well-designed datasets that go through dozens of checks to make sure they have the best data quality.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Do you want to develop input-output models for any European country to measure the direct and indirect green house gas impacts of policy actions?  Do you need well-formatted data on interindustry linkages or other relevant topics for sustainable economy or susitainable finance research?  Get in touch with us – we are happy to help and test our new software tool with data you need, and create high-quality, open datasets that are ready to use.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

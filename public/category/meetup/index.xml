@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetup | Reprex</title>
+    <link>https://reprex.nl/category/meetup/</link>
+      <atom:link href="https://reprex.nl/category/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meetup</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 18:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>Meetup</title>
+      <link>https://reprex.nl/category/meetup/</link>
+    </image>
+    
+    <item>
+      <title>Listen Local Utrecht</title>
+      <link>https://reprex.nl/talk/listen-local-utrecht/</link>
+      <pubDate>Thu, 22 Sep 2022 18:30:00 +0000</pubDate>
+      <guid>https://reprex.nl/talk/listen-local-utrecht/</guid>
+      <description>&lt;p&gt;Our Listen Local project aims to develop tools that can be used by independent labels and self-releasing artists to make sure that their music finds relevant audiences in their scene, in their geographical environment and abroad.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The purpose of the meetup is to provide an informal setting to get to know each other, or exchange ideas and get into action. RSV on &lt;a href=&#34;https://www.eventbrite.com/manage/events/411140571517/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eventbrite&lt;/a&gt;, on &lt;a href=&#34;https://keybase.io/team/reprexcommunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keybase&lt;/a&gt; or via the &lt;a href=&#34;https://reprex.nl/#contact&#34;&gt;contact form&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;We are working with leading EU and UK universities and industry associations to find out why sometimes Utrecht-based music is not recommended to people in Utrecht on streaming platforms? Or how we could build applications that bring the local music ecosystem into the attention of visitors, tourists?  Or how we could build games or educational applications that help local youth, pupils, students, educators, with artists in their town, and expand their music discovery to the province, their country, neighboring countries, instead of only recommending a few artists from New York, London, Rio de Janeiro or Seoul.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Map shows what rock bands mean when they announce a &amp;quot;World tour&amp;quot;. Really clever idea for a map I think! Source: &lt;a href=&#34;https://t.co/ACjTZgdGJ7&#34;&gt;https://t.co/ACjTZgdGJ7&lt;/a&gt; &lt;a href=&#34;https://t.co/3LnVnlM2PS&#34;&gt;pic.twitter.com/3LnVnlM2PS&lt;/a&gt;&lt;/p&gt;&amp;mdash; Simon Kuestenmacher (@simongerman600) &lt;a href=&#34;https://twitter.com/simongerman600/status/1219730171407872001?ref_src=twsrc%5Etfw&#34;&gt;January 21, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;With the help of MusicAIRE and Horizon Europe, Europe’s premiere research and innovation grant, we are building open source tools to help to solve these problems, or allow other developers to build new applications and games.&lt;/p&gt;
+&lt;p&gt;Reprex is a member of the Dutch AI Coalition&amp;rsquo;s &lt;a href=&#34;https://nlaic.com/en/sectors/culture/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Culture and Media Working Group&lt;/a&gt;. The Dutch AI Coalition wants to make sure that algorithms work for all. This informal event will take place after the annual gathering of the working group from 9.00-18.00, with working groups members optional visit the Culture AI Lab.&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;Interested in the Dutch AI Coalition event?&lt;/summary&gt;
+  &lt;p&gt;If you are interested in those professional events, get in touch with us on  &lt;a href=&#34;https://keybase.io/team/reprexcommunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keybase&lt;/a&gt; or via the &lt;a href=&#34;https://reprex.nl/#contact&#34;&gt;contact form&lt;/a&gt;.
+{{/spoiler}}&lt;/p&gt;
+&lt;/details&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Listen Local Vilnius</title>
+      <link>https://reprex.nl/talk/listen-local-vilnius/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/talk/listen-local-vilnius/</guid>
+      <description>&lt;p&gt;Our Listen Local project aims to develop tools that can be used by independent labels and self-releasing artists to make sure that their music finds relevant audiences in their scene, in their geographical environment and abroad.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The purpose of the meetup is to provide an informal setting to get to know each other, or exchange ideas and get into action. RSV on &lt;a href=&#34;https://keybase.io/team/reprexcommunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keybase&lt;/a&gt; or via the &lt;a href=&#34;https://reprex.nl/#contact&#34;&gt;contact form&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;We are working with leading EU and UK universities and industry associations to find out why sometimes Utrecht-based music is not recommended to people in Utrecht on streaming platforms? Or how we could build applications that bring the local music ecosystem into the attention of visitors, tourists?  Or how we could build games or educational applications that help local youth, pupils, students, educators, with artists in their town, and expand their music discovery to the province, their country, neighboring countries, instead of only recommending a few artists from New York, London, Rio de Janeiro or Seoul.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Map shows what rock bands mean when they announce a &amp;quot;World tour&amp;quot;. Really clever idea for a map I think! Source: &lt;a href=&#34;https://t.co/ACjTZgdGJ7&#34;&gt;https://t.co/ACjTZgdGJ7&lt;/a&gt; &lt;a href=&#34;https://t.co/3LnVnlM2PS&#34;&gt;pic.twitter.com/3LnVnlM2PS&lt;/a&gt;&lt;/p&gt;&amp;mdash; Simon Kuestenmacher (@simongerman600) &lt;a href=&#34;https://twitter.com/simongerman600/status/1219730171407872001?ref_src=twsrc%5Etfw&#34;&gt;January 21, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;With the help of MusicAIRE and Horizon Europe, Europe’s premiere research and innovation grant, we are building open source tools to help to solve these problems, or allow other developers to build new applications and games.&lt;/p&gt;
+&lt;p&gt;Reprex is a member of the Dutch AI Coalition&amp;rsquo;s &lt;a href=&#34;https://nlaic.com/en/sectors/culture/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Culture and Media Working Group&lt;/a&gt;.&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;Interested in the Dutch AI Coalition event?&lt;/summary&gt;
+  &lt;p&gt;If you are interested in those professional events, get in touch with us on  &lt;a href=&#34;https://keybase.io/team/reprexcommunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keybase&lt;/a&gt; or via the &lt;a href=&#34;https://reprex.nl/#contact&#34;&gt;contact form&lt;/a&gt;.
+{{/spoiler}}&lt;/p&gt;
+&lt;/details&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

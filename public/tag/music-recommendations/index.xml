@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music recommendations | Reprex</title>
+    <link>https://reprex.nl/tag/music-recommendations/</link>
+      <atom:link href="https://reprex.nl/tag/music-recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Music recommendations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Sep 2020 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>Music recommendations</title>
+      <link>https://reprex.nl/tag/music-recommendations/</link>
+    </image>
+    
+    <item>
+      <title>Listen Local</title>
+      <link>https://reprex.nl/project/listen-local/</link>
+      <pubDate>Tue, 29 Sep 2020 10:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/project/listen-local/</guid>
+      <description>&lt;p&gt;&lt;em&gt;“Big data creates injustice.”&lt;/em&gt; &amp;ndash; Cathy O&amp;rsquo;Neil, author of &lt;a href=&#34;https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weapons of Math Destruction&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Listen Local&lt;/code&gt; is a trustworthy, ethical AI-powered system that aims to help great artists in small organizations and small countries using big data. We want to make sure that audiences are not only recommended global superhits, but locally relevant music, too. At present, corporate algorithms fail to connect listeners in small countries with music from the local scene - with artists whom the listener can easily see perform live in local venues, who sing in the listener’s language and who connect with the listener’s feelings and experiences.&lt;/p&gt;
+&lt;p&gt;From the artist’s perspective, we want to understand why certain demographics of artists  only get partly paid, or not paid at all. We want to understand why some artists are never recommended by corporate AI algorithms. Every good music should be able to find its audience on streaming platforms; and, moreover,the global streaming platforms must give equal chances and fair remuneration to all musicians regardless of language, ethnicity, gender, race, or any other such factor.&lt;/p&gt;
+&lt;p&gt;Music streaming services seemingly make the entire world repertoire available to any audience – which requires an entirely new approach to music education and music discovery. Most people discover music and learn to like a certain style or genre in their teenage years. If the AI algorithms that make personalized playlists and recommendations do not include locally relevant music, young people will not be exposed to local discoveries in their taste formation processes. This influences the genres and styles of music that people are open to encountering at later life phases and in later social worlds, including the exposure that adults pass on to their children.&lt;/p&gt;
+&lt;p&gt;Listen Local wants to prevent global hits from colonizing local musical ecosystems and taking attention, visibility and listening time from local acts. Music is a social activity, and young people should have the opportunity to discover artists whom they can see performing live with their friends, with whom they can learn to play on the same stage, or behind the same turntable. Our goal is to connect young people as well as adults to  music from  their local communities, and to help artists from small countries gain fair access to audiences and opportunities in their communities and beyond.&lt;/p&gt;
+&lt;h2 id=&#34;what-do-we-do&#34;&gt;What do we do?&lt;/h2&gt;
+&lt;p&gt;We are building a recommendation system that allows the user – a radio DJ or music editor, an educator, or a music lover –- to control the recommendation algorithm: for example, to set language preferences or to find music in his or her town or country.&lt;/p&gt;
+&lt;p&gt;We are conducting statistical tests that measure biases in the way artists with different ethnic, national, country of origin, race, scene, genre, age or gender background are promoted and paid, or other biases of algorithms when they recommend music or sell it, to analyze how global hits colonize local music ecosystems and to determine how to prevent this from happening.&lt;/p&gt;
+&lt;p&gt;Through this, we are gaining understanding of why certain artists are never recommended, or never get paid.
+We are localizing AI. Because music for most artists is a local business, we are building tools that help artists connect to local audiences, target tour destinations that are within reach, and optimize domestic and foreign marketing efforts.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dataandlyrics.com/post/2020-12-15-alternative-recommendations/mind_map_recommendations_hu598e31fbda7e27fa2531c6d1d2d7129e_95495_2000x2000_fit_q90_lanczos.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;We are involved in various research and development activities. We are building prototype applications with our partners, and we are conducting impact analyses to detect AI and big data problems. We are collaborating with eminent competition law and copyright law practitioners to understand how independent artists and small labels, publishers, and small country collective management organizations can be protected from the adverse effects of big data and AI.&lt;/p&gt;
+&lt;h2 id=&#34;why-do-we-do-it&#34;&gt;Why do we do it?&lt;/h2&gt;
+&lt;p&gt;Currently more than half of global music sales is automated through AI algorithms.  YouTube, Spotify, Apple Music and other music and media streaming platforms use AI that compares the audience member’s preferences, biographical information about the creators and performers of the music, and the content and aesthetic qualities of the music to personalize recommendations from more than a hundred million recordings and videos. If the AI algorithm is biased or the supporting data and metadata is incomplete or faulty, some artists and performers will never connect  with new audiences, nor get paid. Further compounding this problem, bookings for festivals and clubs - the primary income source for most musicians and their technical and managerial support teams - are increasingly conducted through automated pre-selection by algorithms that monitor the recordings, sales, and fan bases of artists.&lt;/p&gt;
+&lt;p&gt;The severity of this problem is demonstrated by our pilot project, based on the rich, emerging local music market of Slovakia. Through our strong relationships with music stakeholders, we gained access to vast amounts of confidential data and insider expertise. Based on this pilot project, we estimate that 15% of small country artists are at risk of no exposure to a streaming audience, 50% are at risk of not getting properly paid, and up to 70% of the value of all payments are at risk of being delayed or lost. The numbers confirm it:  this system is broken.&lt;/p&gt;
+&lt;h2 id=&#34;how-do-we-do-it&#34;&gt;How do we do it?&lt;/h2&gt;
+&lt;p&gt;Reprex is an international start-up that utilizes open data, open-source software and the scientific method of open collaboration to create meaningful AI and data service products. Reprex is a member of the &lt;a href=&#34;post/2021-02-16-nlaic/&#34;&gt;Dutch AI Coalition&lt;/a&gt; and the European AI Alliance, which are public-private partnerships to promote human-centric, accountable, trustworthy AI. Open data means that we utilize taxpayer funded public sector data and open scientific data on the basis of the Open Data Directive of the European Union. Open data is free, but requires significant investment to be repurposed for different uses (in other words, to process government-sourced data for business or scientific research purposes, or scientific data for public or business purposes.)  Reprex is investing in open-source statistical software that helps the creative industries harness the power of data as an open,  public resource.&lt;/p&gt;
+&lt;p&gt;Our &lt;code&gt;Listen Local&lt;/code&gt; project is aiming to create better radio playlisting, personal playlisting and concert promotion in a local context: within Slovakia or at a more specific level, Flanders or even the city of Utrecht or Budapest. We aim to place our partner’s music in local radio lists, personal playlists, and grow their fan base during the COVID-19 pandemic so that in 2021 they can eventually meet in the venues again, and carry out longer, more successful tours than ever.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://listenlocal.community/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; and the &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt; grew out of a large, collaborative project of collective management societies, grant managers, music distributors, venues, and other music stakeholders who joined forces to collect more royalties from 2014 onwards starting with three, and eventually encompassing more than a dozen countries.&lt;/p&gt;
+&lt;h2 id=&#34;lets-do-this-together&#34;&gt;Let&amp;rsquo;s Do This Together!&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-10-19-listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local: Open Collaboration Experiment &amp;amp; Feasibility Study&lt;/a&gt; - how you can participate in the experiment.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Participation for artists and music venues is &lt;strong&gt;free&lt;/strong&gt; in the experiment. We are looking for a viable business model that keeps this tool a good value for money for anybody in the independent music scenes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We are asking labels, publishers, talent managers to contribute to our experimental budget on a crowdsourcing basis.  We ask for a nominal contribution from as little as 10-1000 euros on a voluntary basis.  In return. We hope to develop a tool that can make the work of independent labels and publishers easier. Any extra funding will be spent on the project at cost.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

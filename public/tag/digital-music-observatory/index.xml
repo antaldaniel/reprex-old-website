@@ -1,0 +1,2331 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Music Observatory | Reprex</title>
+    <link>https://reprex.nl/tag/digital-music-observatory/</link>
+      <atom:link href="https://reprex.nl/tag/digital-music-observatory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Digital Music Observatory</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 18:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>Digital Music Observatory</title>
+      <link>https://reprex.nl/tag/digital-music-observatory/</link>
+    </image>
+    
+    <item>
+      <title>Reprex Open Collaboration NLAIC 2022</title>
+      <link>https://reprex.nl/slides/reprex-nlaic-2022/</link>
+      <pubDate>Wed, 21 Sep 2022 18:00:00 +0200</pubDate>
+      <guid>https://reprex.nl/slides/reprex-nlaic-2022/</guid>
+      <description>
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;Reprex-NLAIC-2022-background.webp&#34;
+  &gt;
+
+&lt;h1 id=&#34;reprex-is-looking-for-new-collaborations-within-the-nlaic&#34;&gt;Reprex is looking for new collaborations within the NLAIC&lt;/h1&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;Reprex-NLAIC-2022-Reprex-Open.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;Reprex-NLAIC-2022-01.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;Reprex-NLAIC-2022-02.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;Reprex-NLAIC-2022-03.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;Reprex-NLAIC-2022-background.webp&#34;
+  &gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://reprex.nl/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Email&lt;/a&gt; | &lt;a href=&#34;https://keybase.io/team/reprexcommunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keybase&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/antaldaniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Antal&lt;/a&gt; - &lt;a href=&#34;https://www.linkedin.com/company/68855596&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reprex&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reprex</title>
+      <link>https://reprex.nl/slides/reprex-impactcity/</link>
+      <pubDate>Wed, 21 Sep 2022 16:00:00 +0200</pubDate>
+      <guid>https://reprex.nl/slides/reprex-impactcity/</guid>
+      <description>&lt;h1 id=&#34;big-data-creates-inequalities&#34;&gt;Big Data Creates Inequalities&lt;/h1&gt;
+&lt;p&gt;Only the largest corporations, best-endowed universities, and rich governments can afford data collection and processing capacities that are large enough to harness the advantages of AI.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slide-navigation&#34;&gt;Slide navigation&lt;/h2&gt;
+&lt;p&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;️&amp;gt;&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt; | Previous :️&lt;code&gt;&amp;lt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt; | Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;|  Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click 🖱️&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-problems&#34;&gt;Data problems&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width:200px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;difficulty_bills_levels.jpg&#34; height=&#34;130&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;The cost of questionnaire-based market research (survey) is increasing exponentially and offers mediocre results without an enormous question bank and harmonization with other surveys.(See &lt;a href=&#34;https://reprex.nl/data/surveys/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 blogpost&lt;/a&gt;) &lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;photo-1490004047268-5259045aa2b4.jpg&#34; height=&#34;130&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Manual data acquisition is an error-prone and boring task for humans that requires many working hours (often not credited in consultancies, law firms, or research institutes.)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;Sisyphus_Bodleian_Library.png&#34;  height=&#34;130&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Wrangling spreadsheet tables or word processor documents by people without data knowledge is the &lt;a href=&#34;https://reprex.nl/post/2021-07-08-data-sisyphus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 data Sisyphus&lt;/a&gt;.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-observatories-30&#34;&gt;Data observatories 3.0&lt;/h2&gt;
+&lt;p style=&#34;font-size:90%&#34;&gt;Reprex is offering shared data ecosystems. Our observatories are great solutions for organizations without a data specialization:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;🌳 Organizations that cannot afford to build a large enough data team to sustain consistent, extensive data collection and processing (many large institutions and companies)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;🪴  Who cannot hire even a single data engineer or a data scientist (medium-sized companies, NGOs)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;🌱 Who do not even have a permanent IT function (about 2 million European small enterprises and civil society organizations)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width:200px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;observatory_collage_3x2_800.png&#34; height=&#34;140&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:60%&#34;&gt;The European Union, the World Bank, OECD, and UN have facilitated the creation of more than 80 so-called &amp;lsquo;data observatories&amp;rsquo; to help companies, researchers, NGOs, and governments systematically collect data and knowledge.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;dmo_opening_page_20220920_16x9.png&#34; height=&#34;140&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:60%&#34;&gt;We are currently building one prototype for the European Music Observatory financed by the European Union and music industry players (cc 3-4 million euros.)  We would like to take over existing or start new observatories in 2 years at least 5)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;gold_panning_slide_notitle.png&#34; height=&#34;140&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:60%&#34;&gt;Our observatories are competitive, because they use high-quality open source scientific software; they exploit the new Data Governance Act and Open Data Directive, deploy web 3.0 data synchronization, and offer great value-added research products.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Platform products&lt;/th&gt;
+&lt;th&gt;Value added data applications&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:65%&#34;&gt;The European Union, the World Bank, OECD, and UN have facilitated the creation of more than 80 so-called &amp;lsquo;data observatories&amp;rsquo; to help companies, researchers, NGOs, and governments systematically collect data and knowledge.&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:65%&#34;&gt;The different observatories offer different types of knowledge products, such as statistical yearbooks, various apps, and database access.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Most of them use web 1.0 technologies, inefficient knowledge accumulation.  Already 20 of them have been discontinued.&lt;/td&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:65%&#34;&gt;We are developing software solutions that exploit our platforms: we harmonize surveys, statistical data, automate research reporting, elements of market monitoring or ESG reporting.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:65%&#34;&gt; We are currently building one prototype for the European Music Observatory financed by the European Union and music industry players (cc 3-4 million euros.)  We would like to take over existing or start new observatories  in 2 years at least 5) &lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Each observatory gives us intimidate customer access to 3-4 large universities, 1-2 large consultancies, and various specialist institutions. &lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;marketing-strategy&#34;&gt;Marketing strategy&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width:160px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;dmo_opening_page_20220920_16x9.png&#34; width=&#34;160&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;Buma/Stemra like copyright management agencies, music export offices, festivals and venues,  University of Amsterdam, Sant’Anna, Economic University of Bratislava, ministries of culture, grant agencies.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;ccsi_opening_page_20220920_16x9.png&#34; width=&#34;160&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;University of Amsterdam, Europeana, Sant’Anna, Hungarian Film Fund&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;gdo_opening_page_20220920_16x9.png&#34; width=&#34;160&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;Connected financial and sustainability reporting: bank consultancies, big four audit companies, large environmental NGOs.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;cdo_opening_page_20220920_16x9.png&#34; width=&#34;160&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;Antitrust agencies, law firms, economics consultancies working with mergers and other competition related issues.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;target-market-size&#34;&gt;Target market size&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:400px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;The observatory platforms usually have a build-up cost of about 3-5 million euros and an annual running costs of 0.1-3 million  euros.&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;We hope to gain at least 10% global market share on the observatory platform management market to pay our basic data science team and R&amp;amp;D. &lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt; Our existing observatories give us access to the market and public surveying markets (cc € 30-40 bn in the developed nations), particularly to  its software component (€ 10 billion euros). &lt;/p&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize&lt;/a&gt; integrates pre-existing questionnaire-based surveys and new surveys. We see interest from the biggest global players. &lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;Our existing observatories gave us access to environmental impact assessment and currently we build an ESG reporting tool with a central bank, a value bank, and a big four company. &lt;/p&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;Connected ESG reporting has a €4 bn market in the EU alone, and our &lt;a href=&#34;https://reprex.nl/apps/eviota/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eviota product&lt;/a&gt; is very competitive. Due to regulatory pressure, we can harvest a decent share if we are able to attract venture capital. &lt;p/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width:200px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;reprex_contributors_20220920_2_1.png&#34; width=&#34;200&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;The two co-founders, &lt;a href=&#34;https://reprex.nl/authors/daniel_antal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 Daniel Antal, CFA&lt;/a&gt; and &lt;a href=&#34;https://reprex.nl/authors/andres/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 Andrés García Molina, PhD&lt;/a&gt;, and the core team manage the ecosystems&amp;rsquo; development, develop knowledge management, and direct the software development. &lt;a href=&#34;https://reprex.nl/#team&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 Team on full screen&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;dmo_contributors_20220920_2_1.png&#34; width=&#34;200&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Each observatory has a broader team of users, data and knowledge curators, and developers. The most developed &lt;a href=&#34;https://music.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱️ Digital Music Observatory&lt;/a&gt; has 16 institutional users and a team of about 20 music and data professionals. The newer observatories have a smaller, initial service development and data curatorial team.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;traction&#34;&gt;Traction&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;💻 Our free scientific software products have a steadily growing user base (several thousand users globally.) &lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;📈  We are able to convert this to paying research automation services at a higher growth rate.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;🚀  We won four competitive tenders this year, but we feel that the slow tendering/acquisition/cash cycle is hampering our growth, we see far more opportunities that we can serve. Therefore we are looking for investors.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt; We have a good track record in EU tenders, but we would like to build up this reputation in the Netherlands, too, mainly for new platforms.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;We help our non-profit users, such as cultural heritage organizations, music export offices, collective rights management agencies to get funding to use our platforms and services&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;Our for profit-users need a more polished, user-friendlier front-end.  Some are interested in joint ventures (like exploiting our survey capabilities). Venture capital would be preferred, as demand outstrips growth.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;!---
+
+## Pool and take over work where humans fail 
+
+- The cost of questionnaire-based market research (survey) is increasing exponentially and offers mediocre results without an enormous question bank and harmonization with other surveys.
+- Manual data acquisition is an error-prone and boring task for humans that requires many working hours (often not credited in consultancies, law firms, or research institutes.)
+- Wrangling spreadsheet tables or word processor documents by people without data knowledge is the data Sisyphus.
+
+---
+
+## Open source software and open platform
+
+- Our survey harmonization tool offers hundreds of thousands of answers for your questionnaire item from dozens of countries and many years. We reduce the market research cost while exponentially increasing its value with data harmonization.
+- We use automated statistical software or web 3.0 technology to synchronize data automatically with our client&#39;s database, dashboard, or spreadsheet.
+- Our observatories automate repetitive processing tasks like re-formatting, currency translation, measurement units, documentation, bibliography, and hypertext link management with many computerized &#39;unit tests.&#39;  We let the computer do the work where humans often make errors or remain hopelessly slow.
+---
+
+## Shared evidence ecosystems: data observatories
+
+- Organizations that cannot afford to build a large enough data team to sustain consistent, extensive data collection and processing (many large institutions and companies)
+- Who cannot hire even a single data engineer or a data scientist
+- Who do not even have a permanent IT function (about 2 million European small enterprises and civil organizations)
+
+---
+---&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;contest-hague-award-2022.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+&lt;!---
+&lt;div class=&#34;r-stack&#34;&gt;
+  &lt;img class=&#34;fragment fade-out&#34; data-fragment-index=&#34;0&#34; src=&#34;https://placekitten.com/450/300&#34; width=&#34;450&#34; height=&#34;300&#34;&gt;
+  &lt;img class=&#34;fragment current-visible&#34; data-fragment-index=&#34;0&#34; src=&#34;https://placekitten.com/300/450&#34; width=&#34;300&#34; height=&#34;450&#34;&gt;
+  &lt;img class=&#34;fragment&#34; src=&#34;https://placekitten.com/400/400&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;/div&gt;
+
+---
+
+&lt;div class=&#34;r-stack&#34;&gt;
+  &lt;img class=&#34;fragment&#34; src=&#34;https://placekitten.com/450/300&#34; width=&#34;450&#34; height=&#34;300&#34;&gt;
+  &lt;img class=&#34;fragment&#34; src=&#34;https://placekitten.com/300/450&#34; width=&#34;300&#34; height=&#34;450&#34;&gt;
+  &lt;img class=&#34;fragment&#34; src=&#34;https://placekitten.com/400/400&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;/div&gt;
+
+---
+
+## What are data observatories?
+
+- There are more than 60 functional, and about 20 already discontinued data observatories, i.e. long-term, usually triangular (business, academic, policy) data collection institutions recognized by the EU, OECD or UNESCO, including the [European Observatory on Infringements of Intellectual Property Rights](https://single-market-economy.ec.europa.eu/industry/strategy/intellectual-property/enforcement-intellectual-property-rights/european-observatory-infringements-intellectual-property-rights_en#:~:text=The%20European%20Observatory%20on%20Infringements,countries%2C%20businesses%20and%20civil%20society.) of the EU or the [European Audiovisual Observatory](https://www.obs.coe.int/en/web/observatoire) of the Council of Europe.
+
+---
+---&gt;
+&lt;h2 id=&#34;do-it-smarter&#34;&gt;Do it Smarter&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;They usually do not exchange standard data with statistical agencies, they are not synchronized on knowledge graphs of the Europeana or national libraries, and their research output is usually not to be found on open science repositories.&lt;/li&gt;
+&lt;li&gt;The Hague is the winner of the &lt;a href=&#34;https://thehague.com/businessagency/the-hague-the-winner-world-smart-city-award-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Smart City Award 2021&lt;/a&gt;, and we would like to attract the planned European Music Observatory and other, EU/UNESCO recognized institutions into the town building on the innovations of Reprex and the ecosystem of the Hague.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://reprex.nl/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Email&lt;/a&gt; | &lt;a href=&#34;https://keybase.io/team/reprexcommunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keybase&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/antaldaniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Antal&lt;/a&gt; - &lt;a href=&#34;https://www.linkedin.com/company/68855596&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reprex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://reprex.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Home&lt;/a&gt; - &lt;a href=&#34;https://reprex.nl/talk/impactcity-startup-support-xl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;One Pager ImpactCity Startup Support XL&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://reprex.nl/slides/data-observatory/</link>
+      <pubDate>Wed, 17 Aug 2022 12:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/slides/data-observatory/</guid>
+      <description>&lt;h1 id=&#34;big-data-creates-inequalities&#34;&gt;Big Data Creates Inequalities&lt;/h1&gt;
+&lt;p&gt;Only the largest corporations, best-endowed universities, and rich governments can afford data collection and processing capacities that are large enough to harness the advantages of AI.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slide-navigation&#34;&gt;Slide navigation&lt;/h2&gt;
+&lt;p&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;&amp;gt;&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt; | Previous: &lt;code&gt;&amp;lt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt; | Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;|  Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-problems&#34;&gt;Data problems&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width:200px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;difficulty_bills_levels.jpg&#34; height=&#34;130&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;The cost of questionnaire-based market research (survey) is increasing exponentially and offers mediocre results without an enormous question bank and harmonization with other surveys.(See &lt;a href=&#34;https://reprex.nl/data/surveys/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 blogpost&lt;/a&gt;) &lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;photo-1490004047268-5259045aa2b4.jpg&#34; height=&#34;130&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Manual data acquisition is an error-prone and boring task for humans that requires many working hours (often not credited in consultancies, law firms, or research institutes.)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;Sisyphus_Bodleian_Library.png&#34;  height=&#34;130&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Wrangling spreadsheet tables or word processor documents by people without data knowledge is the &lt;a href=&#34;https://reprex.nl/post/2021-07-08-data-sisyphus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 data Sisyphus&lt;/a&gt;.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-observatories-30&#34;&gt;Data observatories 3.0&lt;/h2&gt;
+&lt;p style=&#34;font-size:90%&#34;&gt;Reprex is offering shared data ecosystems. Our observatories are great solutions for organizations without a data specialization:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;🌳 Organizations that cannot afford to build a large enough data team to sustain consistent, extensive data collection and processing (many large institutions and companies)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;🪴  Who cannot hire even a single data engineer or a data scientist (medium-sized companies, NGOs)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:75%&#34;&gt;🌱 Who do not even have a permanent IT function (about 2 million European small enterprises and civil society organizations)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width:200px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;observatory_collage_3x2_800.png&#34; height=&#34;140&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:60%&#34;&gt;The European Union, the World Bank, OECD, and UN have facilitated the creation of more than 80 so-called &amp;lsquo;data observatories&amp;rsquo; to help companies, researchers, NGOs, and governments systematically collect data and knowledge.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://placekitten.com/400/400&#34; width=&#34;140&#34; height=&#34;140&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:60%&#34;&gt;We are currently building one prototype for the European Music Observatory financed by the European Union and music industry players (cc 3-4 million euros.)  We would like to take over existing or start new observatories in 2 years at least 5)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://placekitten.com/400/400&#34; width=&#34;140&#34; height=&#34;140&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:60%&#34;&gt;Our observatories are competitive, because they use high-quality open source scientific software; they exploit the new Data Governance Act and Open Data Directive, deploy web 3.0 data synchronization, and offer great value-added research products.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Platform products&lt;/th&gt;
+&lt;th&gt;Value added data applications&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:75%&#34;&gt;The European Union, the World Bank, OECD, and UN have facilitated the creation of more than 80 so-called &amp;lsquo;data observatories&amp;rsquo; to help companies, researchers, NGOs, and governments systematically collect data and knowledge.&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:75%&#34;&gt;The different observatories offer different types of knowledge products, such as statistical yearbooks, various apps, and database access.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:75%&#34;&gt;Most of them use web 1.0 technologies, inefficient knowledge accumulation.  Already 20 of them have been discontinued.&lt;/td&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:75%&#34;&gt;We are developing software solutions that exploit our platforms: we harmonize surveys, statistical data, automate research reporting, elements of market monitoring or ESG reporting.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:75%&#34;&gt; We are currently building one prototype for the European Music Observatory financed by the European Union and music industry players (cc 3-4 million euros.)  We would like to take over existing or start new observatories  in 2 years at least 5) &lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:75%&#34;&gt;Each observatory gives us intimidate customer access to 3-4 large universities, 1-2 large consultancies, and various specialist institutions. &lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;marketing-strategy&#34;&gt;Marketing strategy&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width:160px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;dmo_opening_page_20220920_16x9.png&#34; width=&#34;160&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;Buma/Stemra like copyright management agencies, music export offices, festivals and venues,  University of Amsterdam, Sant’Anna, Economic University of Bratislava, ministries of culture, grant agencies.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;ccsi_opening_page_20220920_16x9.png&#34; width=&#34;160&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;University of Amsterdam, Europeana, Sant’Anna, Hungarian Film Fund&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;gdo_opening_page_20220920_16x9.png&#34; width=&#34;160&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;Connected financial and sustainability reporting: bank consultancies, big four audit companies, large environmental NGOs.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;cdo_opening_page_20220920_16x9.png&#34; width=&#34;160&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt;Antitrust agencies, law firms, economics consultancies working with mergers and other competition related issues.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;target-market-size&#34;&gt;Target market size&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:55%&#34;&gt;The observatory platforms usually have a build-up cost of about 3-5 million euros and an annual running costs of 0.1-3 million  euros.&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:55%&#34;&gt; Some of our basic products are included in the platform service. &lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:55%&#34;&gt; Our existing observatories give us access to the market and public surveying markets (cc 30-40 billion euros in the developed nations), particularly to  its software component (about 10 billion euros). &lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:55%&#34;&gt;&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize&lt;/a&gt; integrates pre-existing questionnaire-based surveys and new surveys. It is aimed at large, international survey companies (Kantar, Gfk) and large international survey programs (Eurostat, GESIS).&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;regions improves the granularity of existing market research with ‘small area statistics’.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:55%&#34;&gt;Our existing observatories gave us access to environmental impact assessment and currently we build an ESG reporting tool with a central bank, a value bank, and a big four company. &lt;/p&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p style=&#34;font-size:55%&#34;&gt;We hope to gain at least 10% global market share on the observatory platform management market to pay our basic data science team and R&amp;amp;D. &lt;/p&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width:200px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;reprex_contributors_20220920_2_1.png&#34; width=&#34;200&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;The two co-founders, &lt;a href=&#34;https://reprex.nl/authors/daniel_antal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 Daniel Antal, CFA&lt;/a&gt; and &lt;a href=&#34;https://reprex.nl/authors/andres/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 Andrés García Molina, PhD&lt;/a&gt;, and the core team manage the ecosystems&amp;rsquo; development, develop knowledge management, and direct the software development. &lt;a href=&#34;https://reprex.nl/#team&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 Team on full screen&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;dmo_contributors_20220920_2_1.png&#34; width=&#34;200&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Each observatory has a broader team of users, data and knowledge curators, and developers. The most developed &lt;a href=&#34;https://music.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱️ Digital Music Observatory&lt;/a&gt; has 16 institutional users and a team of about 20 music and data professionals. The newer observatories have a smaller, initial service development and data curatorial team.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;traction&#34;&gt;Traction&lt;/h2&gt;
+&lt;h2 id=&#34;we-have-a-good-organic-growth-but-we-mainly-work-with-very-large-private-and-public-entities-with-complicated-lengthy-and-not-startup-friendly-procurement-with-a-cash-conversion-cycle-of-up&#34;&gt;We have a good, organic growth, but we mainly work with very large private and public entities with complicated, lengthy and not startup-friendly procurement with a cash-conversion cycle of up&lt;/h2&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We have a good track record in EU tenders, but we would like to build up this reputation in the Netherlands, too, mainly for new platforms.&lt;/li&gt;
+&lt;li&gt;We help our non-profit users, such as cultural heritage organizations, music export offices, collective rights management agencies to get funding to use our platforms and services.  We have a track record in the EU, Slovakia, Lithuania, but not in the Netherlands.&lt;/li&gt;
+&lt;li&gt;Our for profit-users need a more polished, user-friendlier front-end.  Some are interested in joint ventures (like exploiting our survey capabilities). Venture capital would be preferred, as demand outstrips growth.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD&lt;/p&gt;
+&lt;!---
+=======
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
+=======
+&lt;!---
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 3f54846 (slide navigation)
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 492e595ef6d7e32fb335eebe67954d0d4bbcd7b9
+## Pool and take over work where humans fail 
+
+- The cost of questionnaire-based market research (survey) is increasing exponentially and offers mediocre results without an enormous question bank and harmonization with other surveys.
+- Manual data acquisition is an error-prone and boring task for humans that requires many working hours (often not credited in consultancies, law firms, or research institutes.)
+- Wrangling spreadsheet tables or word processor documents by people without data knowledge is the data Sisyphus.
+
+---
+
+## Open source software and open platform
+
+- Our survey harmonization tool offers hundreds of thousands of answers for your questionnaire item from dozens of countries and many years. We reduce the market research cost while exponentially increasing its value with data harmonization.
+- We use automated statistical software or web 3.0 technology to synchronize data automatically with our client&#39;s database, dashboard, or spreadsheet.
+- Our observatories automate repetitive processing tasks like re-formatting, currency translation, measurement units, documentation, bibliography, and hypertext link management with many computerized &#39;unit tests.&#39;  We let the computer do the work where humans often make errors or remain hopelessly slow.
+---
+
+## Shared evidence ecosystems: data observatories
+
+- Organizations that cannot afford to build a large enough data team to sustain consistent, extensive data collection and processing (many large institutions and companies)
+- Who cannot hire even a single data engineer or a data scientist
+- Who do not even have a permanent IT function (about 2 million European small enterprises and civil organizations)
+
+---
+---&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;contest-hague-award-2022.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+&lt;!---
+&lt;div class=&#34;r-stack&#34;&gt;
+  &lt;img class=&#34;fragment fade-out&#34; data-fragment-index=&#34;0&#34; src=&#34;https://placekitten.com/450/300&#34; width=&#34;450&#34; height=&#34;300&#34;&gt;
+  &lt;img class=&#34;fragment current-visible&#34; data-fragment-index=&#34;0&#34; src=&#34;https://placekitten.com/300/450&#34; width=&#34;300&#34; height=&#34;450&#34;&gt;
+  &lt;img class=&#34;fragment&#34; src=&#34;https://placekitten.com/400/400&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;/div&gt;
+
+---
+
+&lt;div class=&#34;r-stack&#34;&gt;
+  &lt;img class=&#34;fragment&#34; src=&#34;https://placekitten.com/450/300&#34; width=&#34;450&#34; height=&#34;300&#34;&gt;
+  &lt;img class=&#34;fragment&#34; src=&#34;https://placekitten.com/300/450&#34; width=&#34;300&#34; height=&#34;450&#34;&gt;
+  &lt;img class=&#34;fragment&#34; src=&#34;https://placekitten.com/400/400&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;/div&gt;
+
+---
+
+## What are data observatories?
+
+- There are more than 60 functional, and about 20 already discontinued data observatories, i.e. long-term, usually triangular (business, academic, policy) data collection institutions recognized by the EU, OECD or UNESCO, including the [European Observatory on Infringements of Intellectual Property Rights](https://single-market-economy.ec.europa.eu/industry/strategy/intellectual-property/enforcement-intellectual-property-rights/european-observatory-infringements-intellectual-property-rights_en#:~:text=The%20European%20Observatory%20on%20Infringements,countries%2C%20businesses%20and%20civil%20society.) of the EU or the [European Audiovisual Observatory](https://www.obs.coe.int/en/web/observatoire) of the Council of Europe.
+
+---
+---&gt;
+&lt;h2 id=&#34;do-it-smarter&#34;&gt;Do it Smarter&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;They usually do not exchange standard data with statistical agencies, they are not synchronized on knowledge graphs of the Europeana or national libraries, and their research output is usually not to be found on open science repositories.&lt;/li&gt;
+&lt;li&gt;The Hague is the winner of the &lt;a href=&#34;https://thehague.com/businessagency/the-hague-the-winner-world-smart-city-award-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Smart City Award 2021&lt;/a&gt;, and we would like to attract the planned European Music Observatory and other, EU/UNESCO recognized institutions into the town building on the innovations of Reprex and the ecosystem of the Hague.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://reprex.nl/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Email&lt;/a&gt; | &lt;a href=&#34;https://keybase.io/team/reprexcommunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keybase&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/antaldaniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Antal&lt;/a&gt; - &lt;a href=&#34;https://www.linkedin.com/company/68855596&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reprex&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jumping Ahead With the Digital Music Observatory</title>
+      <link>https://reprex.nl/post/2021-12-02-dmo-jump/</link>
+      <pubDate>Thu, 02 Dec 2021 13:00:00 +0100</pubDate>
+      <guid>https://reprex.nl/post/2021-12-02-dmo-jump/</guid>
+      <description>&lt;p&gt;Our &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt; project spent a year in the JUMP Music Market Accelerator&amp;rsquo;s program. Over the course of 9 months, co-founder Daniel Antal could meet many stakeholders from almost all European countries, meet other new music technology startups and projects, and got mentoring and other professional help to further develop the project.&lt;/p&gt;
+&lt;p&gt;The Digital Music Observatory is one of the several initiatives to fill the data gaps of the fragmented European music ecosystems.  While most of Europe’s music is available and promoted on data-heavy, AI-driven autonomous platforms like TikTok, Spotify, YouTube, Deezer, music labels, publishers, national export offices are lacking the necessary data solutions to remain competitive.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-daniel-is-pitching-for-partnership-with-music-tech-europe-on-linechech-and-finding-a-music-city-that-wants-to-be-the-seat-of-the-future-european-music-observatory-photo-wen-liuhttpwwwfestivalmarscomboard_memberwen-liu&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Daniel is pitching for partnership with Music Tech Europe on Linechech and finding a music city that wants to be the seat of the future European Music Observatory. Photo: [Wen Liu](http://www.festivalmars.com/?board_member=wen-liu/).&#34; srcset=&#34;
+               /media/img/blogposts_2021/Daniel_Antal_JUMP_Linecheck_20211124_hubb7c99a8a93f52fd801facb5ffd737fb_546622_3654cf264af950c9a3f1454f74ad2286.webp 400w,
+               /media/img/blogposts_2021/Daniel_Antal_JUMP_Linecheck_20211124_hubb7c99a8a93f52fd801facb5ffd737fb_546622_054325de11d3eb6a4b8bcdf23a093705.webp 760w,
+               /media/img/blogposts_2021/Daniel_Antal_JUMP_Linecheck_20211124_hubb7c99a8a93f52fd801facb5ffd737fb_546622_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/blogposts_2021/Daniel_Antal_JUMP_Linecheck_20211124_hubb7c99a8a93f52fd801facb5ffd737fb_546622_3654cf264af950c9a3f1454f74ad2286.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;557&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Daniel is pitching for partnership with Music Tech Europe on Linechech and finding a music city that wants to be the seat of the future European Music Observatory. Photo: &lt;a href=&#34;http://www.festivalmars.com/?board_member=wen-liu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wen Liu&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;One of the recurring themes of 2021 was the notion that the music streaming economy is broken. Several JUMP fellows are working on various projects that aim to fix this, and our Digital Music Observatory has both the data and track record to provide evidence and test ideas about possible solutions – change in pricing, better targeting in export and domestic markets, and checking for algorithmic biases. See what we have done in the field this year in the UK IPO-initiated &lt;a href=&#34;https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Creators&amp;rsquo; Earning&lt;/a&gt; project; &lt;a href=&#34;https://music.dataobservatory.eu/publication/listen_local_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;understanding algorithmic recommendation problems&lt;/a&gt;
+with the support of the Slovak Arts Council, and making recommendations about &lt;a href=&#34;https://music.dataobservatory.eu/publication/european_visibilitiy_2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;better music metadata and copyright regulation&lt;/a&gt; with our research consortium.&lt;/p&gt;
+&lt;p&gt;The other very interesting theme of the year was the emergence of new, immersive music tech companies.  We hope that our Digital Music Observatory can grow into a hub for their data needs, too. How is the world of 2.7 billion gamer and music lovers is forming a new market for &lt;a href=&#34;https://www.ristband.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ristband&lt;/a&gt;? We would also like to curate data about the healing effects of sound, and work in the future with immersive, functional music providers like &lt;a href=&#34;http://flowerofsound.machinejockey.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flower of Sound&lt;/a&gt; who place music and sound design into a less stressful, more healthy acoustic environment.&lt;/p&gt;
+&lt;p&gt;We were often criticized for placing too little emphasis on data visualization. Our next priority is to provide clear, beautiful infographs and charts to all of our datasets.&lt;/p&gt;
+&lt;p&gt;There were many professionals who helped us in the JUMP program. We are particularly thankful for Alessanra di Caro (partnership building), Elodie Crouzet (program coordination), &lt;a href=&#34;http://stevefarrismusic.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steve Farris&lt;/a&gt; (mentoring), &lt;a href=&#34;https://www.holz-consulting.de/en/veronique_friedrich/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Veronique Friedrich&lt;/a&gt; (team building), &lt;a href=&#34;https://speakerscoachbrussels.com/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thierry Giesler&lt;/a&gt; (improving our pitch) and Anna Zò (&lt;a href=&#34;https://musictecheurope.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Tech Europe&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Are you a data user? Give us some feedback! Shall we do some further automatic data enhancements with our datasets? Document with different metadata? Link more information for business, policy, or academic use? Please ive us any &lt;a href=&#34;https://reprex.nl/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;feedback&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How We Add Value to Public Data With Imputation and Forecasting</title>
+      <link>https://reprex.nl/post/2021-11-06-indicator_value_added/</link>
+      <pubDate>Mon, 08 Nov 2021 10:00:00 +0100</pubDate>
+      <guid>https://reprex.nl/post/2021-11-06-indicator_value_added/</guid>
+      <description>&lt;p&gt;Public data sources are often plagued by missng values. Naively you may think that you can ignore them, but think twice: in most cases, missing data in a table is not missing information, but rather malformatted information. This approach of ignoring or dropping missing values will not be feasible or robust when you want to make a beautiful visualization, or use data in a business forecasting model, a machine learning (AI) applicaton, or a more complex scientific model. All of the above require complete datasets, and naively discarding missing data points amounts to an excessive waste of information. In this example we are continuing the example a not-so-easy to find public dataset.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-in-the-previous-blogpostpost2021-11-08-indicator_findable-we-explained-how-we-added-value-by-documenting-data-following-the-fair-principle-and-with-the-professional-curatorial-work-of-placing-the-data-in-context-and-linking-it-to-other-information-sources-such-as-other-datasets-books-and-publications-regardless-of-their-natural-language-ie-whether-these-sources-are-described-in-english-german-portugese-or-croatian-photo-jack-sloophttpsunsplashcomphotoseywn81spkj8&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;[In the previous blogpost](/post/2021-11-08-indicator_findable/) we explained how we added value by documenting data following the *FAIR* principle and with the professional curatorial work of placing the data in context, and linking it to other information sources, such as other datasets, books, and publications, regardless of their natural language (i.e., whether these sources are described in English, German, Portugese or Croatian). Photo: [Jack Sloop](https://unsplash.com/photos/eYwn81sPkJ8).&#34; srcset=&#34;
+               /media/img/blogposts_2021/jack-sloop-eYwn81sPkJ8-unsplash_hu5d8f4a33b381dd8129d8c252a87ed0b3_4139695_6a66eba35e6a6a2451d2c0626a8d8b06.webp 400w,
+               /media/img/blogposts_2021/jack-sloop-eYwn81sPkJ8-unsplash_hu5d8f4a33b381dd8129d8c252a87ed0b3_4139695_7bf7f315b42bd4ba96d06a7c705ba035.webp 760w,
+               /media/img/blogposts_2021/jack-sloop-eYwn81sPkJ8-unsplash_hu5d8f4a33b381dd8129d8c252a87ed0b3_4139695_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/blogposts_2021/jack-sloop-eYwn81sPkJ8-unsplash_hu5d8f4a33b381dd8129d8c252a87ed0b3_4139695_6a66eba35e6a6a2451d2c0626a8d8b06.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://reprex.nl/post/2021-11-08-indicator_findable/&#34;&gt;In the previous blogpost&lt;/a&gt; we explained how we added value by documenting data following the &lt;em&gt;FAIR&lt;/em&gt; principle and with the professional curatorial work of placing the data in context, and linking it to other information sources, such as other datasets, books, and publications, regardless of their natural language (i.e., whether these sources are described in English, German, Portugese or Croatian). Photo: &lt;a href=&#34;https://unsplash.com/photos/eYwn81sPkJ8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jack Sloop&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;Completing missing datapoints requires statistical production information (why might the data be missing?) and data science knowhow (how to impute the missing value.) If you do not have a good statistician or data scientist in your team, you will need high-quality, complete datasets. This is what our automated data observatories provide.&lt;/p&gt;
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#why-is-data-missing&#34;&gt;Why is data missing?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#what-can-we-improve&#34;&gt;What can we improve?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#can-you-trust-our-data&#34;&gt;Can you trust our data?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#avoid-the-data-sisyphus&#34;&gt;Avoid the data Sisyphus&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#get-the-data&#34;&gt;Get the data&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#how-can-we-do-better&#34;&gt;How can we do better?&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;why-is-data-missing&#34;&gt;Why is data missing?&lt;/h2&gt;
+&lt;p&gt;International organizations offer many statistical products, but usually they are on an ‘as-is’ basis. For example, Eurostat is the world’s premiere statistical agency, but it has no right to overrule whatever data the member states of the European Union, and some other cooperating European countries give to them. And they cannot force these countries to hand over data if they fail to do so. As a result, there will be many data points that are missing, and often data points that have wrong (obsolete) descriptions or geographical dimensions. We will show the geographical aspect of the problem in a separate blogpost; for now, we only focus on missing data.&lt;/p&gt;
+&lt;p&gt;Some countries have only recently started providing data to the Eurostat umbrella organization, and it is likely that you will find few datapoints for North Macedonia or Bosnia-Herzegovina. Other countries provide data with some delay, and the last one or two years are missing. And there are gaps in some countries’ data, too.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-see-the-authoritative-copy-of-the-datasethttpszenodoorgrecord5652118yykhvmdmkuk&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;See the authoritative copy of the [dataset](https://zenodo.org/record/5652118#.YYkhVmDMKUk).&#34; srcset=&#34;
+               /media/img/blogposts_2021/trb_plot_hu2f07a4d8566fea4aefe16ab33a0f6ff8_386734_61f5b96b14ca649585f96612d0148277.webp 400w,
+               /media/img/blogposts_2021/trb_plot_hu2f07a4d8566fea4aefe16ab33a0f6ff8_386734_f9c7c983b2d12bac8c235d8f74c64b48.webp 760w,
+               /media/img/blogposts_2021/trb_plot_hu2f07a4d8566fea4aefe16ab33a0f6ff8_386734_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/blogposts_2021/trb_plot_hu2f07a4d8566fea4aefe16ab33a0f6ff8_386734_61f5b96b14ca649585f96612d0148277.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      See the authoritative copy of the &lt;a href=&#34;https://zenodo.org/record/5652118#.YYkhVmDMKUk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dataset&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;This is a headache if you want to use the data in some machine learning application or in a multiple or panel regression model. You can, of course, discard countries or years where you do not have full data coverage, but this approach usually wastes too much information&amp;ndash;if you work with 12 years, and only one data point is available, you would be discarding an entire country’s 11-years’ worth of data. Another option is to estimate the values, or otherwise impute the missing data, when this is possible with reasonable precision. This is where things get tricky, and you will likely need a statistician or a data scientist onboard.&lt;/p&gt;
+&lt;h2 id=&#34;what-can-we-improve&#34;&gt;What can we improve?&lt;/h2&gt;
+&lt;p&gt;Consider that the data is only missing from one year for a particular country, 2015. The naive solution would be to omit 2015 or the country at hand from the dataset. This is pretty destructive, because we know a lot about the radio market turnover in this country and in this year! But leaving 2015 blank will not look good on a chart, and will make your machine learning application or your regression model stop.&lt;/p&gt;
+&lt;p&gt;A statistician or a radio market expert will tell you that you know more-or-less the missing information: the total turnover was certainly not zero in that year.  With some statistical or radio domain-specific knowledge you will use the 2014, or 2016 value, or a combination of the two and keep the country and year in the dataset.&lt;/p&gt;
+&lt;p&gt;Our improved dataset added backcasted (using the best time series model fitting the country&amp;rsquo;s actually present data), forecasted (again, using the best time series model), and approximated data (using linear approximation.) In a few cases, we add the last or next known value.  To give a few quantiative indicators about our work:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Increased number of observations: 65%&lt;/li&gt;
+&lt;li&gt;Reduced missing values: -48.1%&lt;/li&gt;
+&lt;li&gt;Increased non-missing subset for regression or AI: +66.67%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If your organization is working with panel (longitudional multiple) regressions or various machine learning applications, then your team knows that not havint the +66.67% gain would be a deal-breaker in the choice of models and punctuality of estimates or KPIs or other quantiative products. And that they would spent about 90% of their data resources on achieving this +66.67% gain in usability.&lt;/p&gt;
+&lt;p&gt;If you happen to work in an NGO, a business unit or a research institute that does not employ data scientists, then it is likely that you can never achieve this improvement, and you have to give up on a number of quantitative tools or visualizations. If you  have a data scientist onboard, that professional can use our work as a starting point.&lt;/p&gt;
+&lt;h2 id=&#34;can-you-trust-our-data&#34;&gt;Can you trust our data?&lt;/h2&gt;
+&lt;p&gt;We believe that you can trust our data better than the original public source. We use statistical expertise to find out why data may be missing. Often, it is present in a wrong location (for example, the name of a region changed.)&lt;/p&gt;
+&lt;p&gt;If you are reluctant to use estimates, think about discarding known actual data from your forecast or visualization, because one data point is missing.  How do you provide more accurate information? By hiding known actual data, because one point is missing, or by using all known data and an estimate?&lt;/p&gt;
+&lt;p&gt;Our codebooks and our API uses the &lt;a href=&#34;https://sdmx.org/?page_id=3215/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistical Data and Metadata eXchange&lt;/a&gt; documentation standards to clearly indicate which data is observed, which is missing, which is estimated, and of course, also how it is estimated.
+This example highlights another important aspect of data trustworthiness. If you have a better idea, you can replace them with a better estimate.&lt;/p&gt;
+&lt;p&gt;Our indicators come with standardized codebooks that do not only contain the descriptive metadata, but administrative metadata about the history of the indicator values. You will find very important information about the statistical method we used the fill in the data gaps, and even link the reliable, the peer-reviewed scientific, statistical software that made the calculations. For data scientists, we record the plenty of information about the computing environment, too-–this can come handy if your estimates need external authentication, or you suspect a bug.&lt;/p&gt;
+&lt;h2 id=&#34;avoid-the-data-sisyphus&#34;&gt;Avoid the data Sisyphus&lt;/h2&gt;
+&lt;p&gt;If you work in an academic institution, in an NGO or a consultancy, you can never be sure who downloaded the &lt;a href=&#34;https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=sbs_na_1a_se_r2&amp;amp;lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Annual detailed enterprise statistics for services (NACE Rev. 2 H-N and S95)&lt;/a&gt; Eurostat folder from Eurostat. Did they modify the dataset? Did they already make corrections with the missing data? What method did they use? To prevent many potential problems, you will likely download it again, and again, and again&amp;hellip;&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-see-our-the-data-sisyphushttpsreprexnlpost2021-07-08-data-sisyphus-blogpost&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;See our [The Data Sisyphus](https://reprex.nl/post/2021-07-08-data-sisyphus/) blogpost.&#34; srcset=&#34;
+               /media/img/blogposts_2021/Sisyphus_Bodleian_Library_hu99f0c1d6c82963b9538437670b4d339d_1662894_cd48a6c374c9ff68a08abe79a6abf2f4.webp 400w,
+               /media/img/blogposts_2021/Sisyphus_Bodleian_Library_hu99f0c1d6c82963b9538437670b4d339d_1662894_a6eb1b13ff33a5c73aba34550964ff52.webp 760w,
+               /media/img/blogposts_2021/Sisyphus_Bodleian_Library_hu99f0c1d6c82963b9538437670b4d339d_1662894_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/blogposts_2021/Sisyphus_Bodleian_Library_hu99f0c1d6c82963b9538437670b4d339d_1662894_cd48a6c374c9ff68a08abe79a6abf2f4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      See our &lt;a href=&#34;https://reprex.nl/post/2021-07-08-data-sisyphus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Data Sisyphus&lt;/a&gt; blogpost.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;We have a better solution. You can always rely on our API to import directly the latest, best data, but if you want to be sure, you can use our &lt;a href=&#34;https://zenodo.org/record/5652118#.YYhGOGDMLIU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regular backups&lt;/a&gt; on Zenodo. Zenodo is an open science repository managed by CERN and supported by the European Union. On Zenodo, you can find an authoritative copy of our indicator (and its previous versions) with a digital object identifier, in this case, &lt;a href=&#34;https://doi.org/10.5281/zenodo.5652118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.5281/zenodo.5652118&lt;/a&gt;. These datasets will be preserved for decades, and nobody can manipulate them. You cannot accidentally overwrite them, and we have no backdoor access to modify them.&lt;/p&gt;
+&lt;h2 id=&#34;get-the-data&#34;&gt;Get the data&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.5281/zenodo.5652118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://zenodo.org/badge/DOI/10.5281/zenodo.5652118.svg&#34; alt=&#34;DOI&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;how-can-we-do-better&#34;&gt;How can we do better?&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
+  &lt;summary&gt;Are you a data user?&lt;/summary&gt;
+  &lt;p&gt;&lt;em&gt;Shall we do some further automatic data enhancements with our datasets? Document with different metadata? Link more information for business, policy, or academic use? Please get in touch with &lt;a href=&#34;https://reprex.nl/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;us&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenMusE Consortium</title>
+      <link>https://reprex.nl/project/openmuse/</link>
+      <pubDate>Thu, 06 May 2021 17:52:00 +0000</pubDate>
+      <guid>https://reprex.nl/project/openmuse/</guid>
+      <description>&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/blogposts_2022/logos_3_1.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;&lt;code&gt;OpenMusE&lt;/code&gt; brings together music industry stakeholders and researchers from 11 EU countries and Ukraine. Our consortium recognises that placing European music ecosystems on a more competitive, fair, and sustainable footing requires evidence-based policymaking, business planning, and accuracy.&lt;/p&gt;
+&lt;p&gt;We provide the data needed for these actions. Using transparent methods and tools, OpenMusE maps the policy and data landscape; bridges data gaps; and empowers stakeholders and policymakers to take data-driven actions. Our project is grounded on principles of open policy analysis, open science, and open-source software development. We work with stakeholders to identify data gaps on the EU, national, and regional levels; co-create indicators and methods for bridging them; develop free software tools for data collection and analysis; and report not just our findings, but every step taken to reach them.&lt;/p&gt;
+&lt;p&gt;This is the logic behind our &lt;code&gt;Open Music Observatory&lt;/code&gt; (OMO, developed from the earlier &lt;a href=&#34;https://music.dataobservatory.eu/usecase/ceemid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID&lt;/a&gt; and the &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt; concept), an open-source platform that provides 360-degree intelligence on the music industry by integrating numerous data sources. The OMO is highly automated, providing “living policy documents” that refresh when the backend datasets are updated: these datasets include official statistics on music goods and services; data on musical participation via pan-European surveys, rights-holder data voluntarily shared by industry partners, and streaming service data sampled using novel algorithms developed by our consortium. Using the OMO and our open-source software, music MSMEs without technical departments or expertise will be able to access and analyse open data; model volume and value, including of zero-price uses; create better business models; and generate corporate social responsibility and sustainability reports; all at a fraction of current costs. We validate these tools in four pilot studies that will bring concrete benefits to stakeholders within the project lifespan.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The &lt;code&gt;Open Music Observatory&lt;/code&gt; is not an alternative to the legal structure of the European Music Observatory. It is an open project that shows how the best practice of open knowledge managements, the use of the Open Data Directive and the Open Policy Analysis framework, with the new instruments of data altruism and the Data Governance Act can help building an observatory that can fulfill most of the purposes of the European Music Observatory&amp;mdash;and remain open for global music industry players, too. See our
+planned data correspondence to the planned European Music Observatory pillars at the end of this &lt;a href=&#34;#data-coverage&#34;&gt;document&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;open-collaboration&#34;&gt;Open collaboration&lt;/h2&gt;
+&lt;p&gt;Our project is based on open collaboration.  Our proposal, will provide us with resources to supply further music businesses, music civil society organizations and researchers with high-quality data (during the duration of the project for free.)  The open collaboration means that&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;we will ask all representative music organizations to join our advisory board and set priorities so that we can work for the benefit of all the European Music Ecosystem.&lt;/li&gt;
+&lt;li&gt;our improved valuation, ESG/SDG reporting, diversity promotion tools will be open for national public organizations and businesses to use;&lt;/li&gt;
+&lt;li&gt;for-profit and non-profit organizations &lt;em&gt;who are not members of our Consortium&lt;/em&gt; can solve in the form of public use case studies some of their valuation/ESG; reporting/diversity measurement issues provided that they pay for their own project management and translations costs;&lt;/li&gt;
+&lt;li&gt;our cases studies intended to improve the economic situation, resilience and diversity problems of organizations in the Consortium can be freely replicated with our online tools, live policy documents, and our &lt;code&gt;Open Data Observatory&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;See existing &lt;a href=&#34;#business-partners&#34;&gt;business partners&lt;/a&gt;, &lt;a href=&#34;#cso-partners&#34;&gt;civil society &amp;amp; social enterprise partners&lt;/a&gt; and &lt;a href=&#34;#academic-partners&#34;&gt;academic partners&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The project’s scoping aim is to create an open, scalable data-to-policy pipeline for European music ecosystems.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;#MAP&#34;&gt;MAP&lt;/a&gt; the policy and data landscape all over Europe, but with a focus on select countries&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;#BRIDGE&#34;&gt;BRIDGE&lt;/a&gt; data gaps with open data that anybody can use&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;#EMPOWER&#34;&gt;EMPOWER&lt;/a&gt; stakeholders and policymakers to take data-driven actions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The objectives are designed to advance the state of the art with regard to data collection, policymaking, and business practices in these three pillars of the music industry. Both the objectives and the outputs will be optimised for transferability to other cultural and creative industries.&lt;/p&gt;
+&lt;h2 id=&#34;MAP&#34;&gt;MAP the policy and data landscape all over Europe&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;“Develop indicators to better detect the performance of the European music sector and its contribution to economic and social development, as well as to sustainability”&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Develop policy-relevant indicators for the total &lt;code&gt;economic value of music&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Develop policy-relevant indicators for &lt;code&gt;music diversity and circulation&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Develop policy-relevant indicators for the &lt;code&gt;societal impact&lt;/code&gt; of music ecosystems, within an SDG framework&lt;/li&gt;
+&lt;li&gt;Develop policy-relevant indicators for the &lt;code&gt;resilience&lt;/code&gt; of music ecosystems, within an &lt;code&gt;SDG&lt;/code&gt; framework.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;“Provide new/improved methodologies for capturing the economic and societal value of music”&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Develop new software for &lt;code&gt;rendering fragmented and unharmonised/unprocessed data usable&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Implement &lt;code&gt;data-sharing cooperation&lt;/code&gt; to make hidden and restricted data accessible&lt;/li&gt;
+&lt;li&gt;Develop &lt;code&gt;new survey methods&lt;/code&gt; for capturing scarce data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These methodological innnovation build on the previous collaboration among many of the OpenMusE Consortium partners. For examples, see the &lt;a href=&#34;https://music.dataobservatory.eu/#featured&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publications&lt;/a&gt; section of the &lt;code&gt;Digital Music Observatory&lt;/code&gt; page.&lt;/p&gt;
+&lt;h2 id=&#34;BRIDGE&#34;&gt;BRIDGE data gaps with open data that anybody can use&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;“Promote standardised data collection about the music (sub-)sector(s) to measure the contribution of the EU music sector to the whole economy”&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Define and demonstrate best practices on &lt;code&gt;harmonisation of public data&lt;/code&gt; (e.g., Eurostat)&lt;/li&gt;
+&lt;li&gt;Define and demonstrate best practices on &lt;code&gt;harmonisation of proprietary data&lt;/code&gt; (e.g., CMO data)&lt;/li&gt;
+&lt;li&gt;Create and run &lt;code&gt;standardised enterprise surveys&lt;/code&gt; suitable for music MSMEs, that capture the contribution of numerous small players to the economy&lt;/li&gt;
+&lt;li&gt;Enable and promote &lt;code&gt;collection of streaming service data&lt;/code&gt; using novel sampling strategies.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;See &lt;a href=&#34;#data-we-can-offer&#34;&gt;data we can offer&lt;/a&gt; below.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Provide an estimation of the impact of music participation to the society”&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Create and run &lt;code&gt;standardised Cultural Access and Participation surveys&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Create and run &lt;code&gt;valuation models that incorporate zero-price music use&lt;/code&gt; (e.g., home copying, piracy)&lt;/li&gt;
+&lt;li&gt;Create and run &lt;code&gt;valuation models&lt;/code&gt; that synthesise &lt;code&gt;economic and non-economic societal values&lt;/code&gt; of music participation&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Report and visualise&lt;/code&gt; music valuation &lt;code&gt;data&lt;/code&gt; and &lt;code&gt;models&lt;/code&gt; in an automated, continually-updated &lt;code&gt;online dashboard&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;EMPOWER&#34;&gt;EMPOWER stakeholders and policymakers to take data-driven actions&lt;/h2&gt;
+&lt;p&gt;“Increase the transparency of the music industry, in particular the online/streaming business”&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Publish open-source software and econometric models for streaming music data valuation (demonstrated for at least one major provider and transferable to others)&lt;/li&gt;
+&lt;li&gt;Build awareness of industry conditions through regular face-to-face and online dissemination, communication, and exploitation activities&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;“Provide policymakers with effective tools for measuring and enhancing the impact of EU policy making”&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Develop an open-source online dashboard that continually aggregates and reports disparate music data, with “plug-and-play” functionality vis-a-vis national databases&lt;/li&gt;
+&lt;li&gt;Implement transferable pilot projects on music valuation (BG/HU), diversity (SK), social and environmental sustainability (IT), and technical innovation (DE)&lt;/li&gt;
+&lt;li&gt;Release policy reports and recommendations on Music Economy; Music Diversity and Circulation; Music, Society, and Citizenship; and Music Technology.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Our results will be published in the Open Music Observatory, which will follow the specificaiton of the &lt;a href=&#34;https://music.dataobservatory.eu/post/2020-11-16-european-music-observatory-feasibility/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feasibility Study on the Establishment of the European Music Observatory&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;data-we-can-offer&#34;&gt;Data that we can offer&lt;/h2&gt;
+&lt;p&gt;By providing continually updated data on five industry pillars – innovation, music and society, music economy, music diversity and circulation, and music policy – we will accurately capture the economic and social value created by the sector, as well as providing stakeholders with data-driven means of maximizing this value.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;For copyright and neighbouring rights-holders and their organizations&lt;/strong&gt;: Value of music, euro value of the value gap, private copying, privacy&amp;mdash;we have data and make estimates with all known music value estimation techniques.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;For live music organizations&lt;/strong&gt;: Pan-European audience surveys; demographic comparisons of all European audiences; attendance predictions, attendance profiling.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;For granting authorities&lt;/strong&gt;: we have the world&amp;rsquo;s largest survey-based dataset on how musicians work and live; we create ex ante needs assessment and grants evaluation indicators and ex-post grant evaluation indicators.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;For labels and music publishers&lt;/strong&gt;: we make big data understandable; we create price and volume indexes of streaming markets; we tell you about price developments and selection probabilities in different cities and countries; we understand the biases of the Spotify and YouTube algorithms; and we measure (meta)data problems and offer scalable solutions.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;For music export offices&lt;/strong&gt;: we measure domestic and foreign market shares in streaming; we create actionable key performance indicators; and we do geographical targeting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;service-development-project-management-coordination-and-dissemination&#34;&gt;Service Development, Project Management, Coordination and Dissemination&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://music.dataobservatory.eu/author/reprex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reprex&lt;/a&gt; is the originator of the OpenMusE project which builds on the achievements of the former CEEMID project, and provides leadership in WP Dissemination with building the Open Music Observatory, a full-fledged, open science-based statistical service that can complement the Eurostat Rest API and the future European Music Observatory on the basis of the Digital Music Observatory prototype validated in Yes!Delft AI+Blockchain Lab and the JUMP European Music Market Accelerator.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://music.dataobservatory.eu//author/sinus-institute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sinus-Institut&lt;/a&gt;, (DE) an innovative market- and policy research SME is the coordinator of the project, and provides leadership on WP Music, Society and Citizenship with promoting best, harmonized practices of the measurement of cultural access and participation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.synyo.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Synyo&lt;/a&gt;, (AT) an innovative research company is participating in the coordination and dissemination of the project.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;business-partners&#34;&gt;Business partners&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://music.dataobservatory.eu/author/soza/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOZA&lt;/a&gt; (SK), the representative organization of Slovak composers and lyricists, and the global composer community within Slovakia, will develop an impact assessment with us on the promotion of the Slovak music in radios (with local content quotas) and streaming platforms, and assist partners in various diversity related actions. SOZA is a founding partner of the &lt;a href=&#34;https://music.dataobservatory.eu/usecase/ceemid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID&lt;/a&gt; project.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.heardis.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HearDis!&lt;/a&gt; (DE), a German innovative music tech company is participating in building uses case of uses of music that harmoniously fit into the local music ecosystems and do not colonize lucrative uses of in-store and other public performance.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://music.dataobservatory.eu/author/aloaded/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aloaded&lt;/a&gt; (SE), a 100% independent Stockholm-based digital distributor is participating in the development of new streaming market transparency indexes. We will create stock-exchange like streaming price, volume indexes to increase the transparency and business development of small labels and self-released artists.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.artisjus.hu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artisjus&lt;/a&gt; (HU), the representative organization of Hungarian composers and lyricists, and the initiator of the &lt;a href=&#34;https://music.dataobservatory.eu/usecase/ceemid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID&lt;/a&gt; project, together with SOZA, will assist Musicautor to re-valuate the use of music in Bulgaria in a way that can be scaled to any European country, and try to improve probably the poorest markets revenues similarly to the good results of the former CEEMID in Hungary and Slovakia.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://music.dataobservatory.eu/author/musicautor-%D0%BC%D1%83%D0%B7%D0%B8%D0%BA%D0%B0%D1%83%D1%82%D0%BE%D1%80/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Musicautor&lt;/a&gt; (BG), the representative sister organization of Bulgarian rightsholders,  will validate the valuation methodologies of our projects with putting them in use, trying to replicate the double-digit growth from Hungary and Slovakia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our observatory follows the agile open collaboration method from open-source software development, and it has a triangular approach.  We believe that data which is created by peer-reviewed, open algorithms, and thus open for review from the business, policy and scientific community is the best addition to your business proprietary data.  By sharing data with us, we can build world-class KPIs that give you a competitive edge in the data-driven music industry.&lt;/p&gt;
+&lt;p&gt;For labels and music publishers: we make big data understandable; we create price and volume indexes of streaming markets; we tell you about price developments and selection probabilities in different cities and countries; we understand the biases of the Spotify and YouTube algorithms; and we measure (meta)data problems and offer scalable solutions.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    See &lt;a href=&#34;https://music.dataobservatory.eu/publication/listen_local_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feasibility Study On Promoting Slovak Music In Slovakia &amp;amp; Abroad&lt;/a&gt; - &lt;a href=&#34;https://music.dataobservatory.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Rerpot&lt;/a&gt; - business confidential repertoire valuations - predictive modelling.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-our-pioneering-streaming-volume-and-price-indexeshttpsceereport2020ceemideumarkethtmlceemid-ci-volume-indexes-are-similar-in-design-to-bond--and-stock-market-indexes&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/blogposts_2021/medianvalue-1.png&#34; alt=&#34;Our pioneering streaming volume and price [indexes](https://ceereport2020.ceemid.eu/market.html#ceemid-ci-volume-indexes) are similar in design to bond- and stock market indexes.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Our pioneering streaming volume and price &lt;a href=&#34;https://ceereport2020.ceemid.eu/market.html#ceemid-ci-volume-indexes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;indexes&lt;/a&gt; are similar in design to bond- and stock market indexes.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;h2 id=&#34;cso-patners&#34;&gt;Civil Society &amp;amp; Social Enterprise partners&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://music.us/supporters/icmp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICMP&lt;/a&gt; (Global, EU), the “global voice for music publishing,”, will be our partner to fill the data gaps identified by Feasibility Study on the Establishment of the European Music Observatory related to the publishing revenue stream of the European music business.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://music.dataobservatory.eu/author/music-innovation-hub/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Innovation Hub&lt;/a&gt; (IT), an Italian social enterprise, is validating our sustainability reporting tool.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://music.dataobservatory.eu/author/mxf-muzikos-eksporto-fondas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Exchange Fund&lt;/a&gt; (LT), a Lithuanian NGO that helps the promotion of Lithuanian artists abroad, will utilize the trustworthy AI and data management system originally developed by SOZA and Reprex to build a similar system in Lithuania and Ukraine.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://music.dataobservatory.eu/author/music-export-ukraine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Export Ukraine&lt;/a&gt; (UA), a Ukrainian NGO promoting the music export of Ukraine, will further develop the Ukraine Music Industry Databases and build a similar application to the Music Exchange Fund.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We want to demonstrate that we apply world-class research and the best and most data available to solve policy problems. If you bring your policy problem into an open collaboration with our Digital Music Observatory, you can rely on the expertise of eminent researchers in the field of economics, law, royalty finance, statistics, and valuable data. We want to demonstrate that we can offer the best value for money in data.&lt;/p&gt;
+&lt;p&gt;We believe that our offering is particularly valuable for music policy organizations who would like to be actively involved in the shaping of the future &lt;a href=&#34;https://music.dataobservatory.eu/post/2020-11-16-european-music-observatory-feasibility/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feasibility Study For The Establishment Of A European Music Observatory&lt;/a&gt;. Our Digital Music Observatory already contains much of the data gaps identified by stakeholders.  We have 7 years of working experience in the music industry, and we are familiar with data sharing and data governance solutions that manage well the conflicts of interests and strategic worries of the industry.&lt;/p&gt;
+&lt;p&gt;For copyright and neighbouring rights-holders and their organizations we can create music (royalty/tariff) valuations, euro value of the value gap, private copying, privacy – we have data and make estimates with all known music value estimation techniques. For live music organizations: Pan-European audience surveys; demographic comparisons of all European audiences; attendance predictions, attendance profiling. For granting authorities &amp;mdash;we have the world&amp;rsquo;s largest survey-based dataset on how musicians work and live; we create ex ante needs assessment and grants evaluation indicators and ex-post grant evaluation indicators. For music export offices we can measure domestic and foreign market shares in streaming; we create actionable key performance indicators; and we do geographical targeting.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-pitchinghttpsreprexnltalkdigital-music-observatory-on-the-mama-convention-2021-for-partnership-with-french-stakeholders-within-the-jump-european-music-market-acceleratorhttpsmusicdataobservatoryeupost2021-12-02-dmo-jump-where-our-digital-music-observatory-was-further-developed-to-meet-the-needs-of-european-partners&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/blogposts_2021/2021_10_18_MaMA_Pitch.jpg&#34; alt=&#34;[Pitching](https://reprex.nl/talk/digital-music-observatory-on-the-mama-convention-2021/) for partnership with French stakeholders within the [JUMP European Music Market Accelerator](https://music.dataobservatory.eu/post/2021-12-02-dmo-jump/), where our Digital Music Observatory was further developed to meet the needs of European partners.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://reprex.nl/talk/digital-music-observatory-on-the-mama-convention-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pitching&lt;/a&gt; for partnership with French stakeholders within the &lt;a href=&#34;https://music.dataobservatory.eu/post/2021-12-02-dmo-jump/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JUMP European Music Market Accelerator&lt;/a&gt;, where our Digital Music Observatory was further developed to meet the needs of European partners.
+    &lt;/figcaption&gt;&lt;/figure&gt; &lt;/td&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    See &lt;a href=&#34;https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Creators&amp;rsquo; Earnings in the UK - An Empirical Analysis of Music Streaming Revenues and Their Distribution&lt;/a&gt; - &lt;a href=&#34;https://music.dataobservatory.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak Music Indsutry Report&lt;/a&gt; - &lt;a href=&#34;https://music.dataobservatory.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Private Copying in Croatia&lt;/a&gt; - &lt;a href=&#34;https://music.dataobservatory.eu/post/2015-04-27-proart_report_15/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hungarian Music Industry Report&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;academic-partners&#34;&gt;Academic partners&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://datascience.utu.fi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Turku Data Science Group&lt;/a&gt; (FI)at the University of Turku will lead the WP Innovation and build an ecosystem of open source applications within the &lt;a href=&#34;https://music.dataobservatory.eu/author/ropengov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenGov&lt;/a&gt; open collaboration platform with Reprex that enable the music industry to create a self-service, Open Music Observatory that will produce statistical products in a similar quality, form, and service level like the Eurostat Rest API.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://music.dataobservatory.eu/author/institute-for-information-law/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute for Information Law&lt;/a&gt; (IViR) of the University of Amsterdam, will lead the WP Economy of Consortium, including scaleable, standardized valuations that can be placed in use anywhere in Europe, conduct research in the market value of metadata, and provide leadership in economic methodologies.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://music.dataobservatory.eu/author/scuola-superiore-santanna/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sant&amp;rsquo;Anna School of Advanced Studies&lt;/a&gt; (IT) of the University of Pisa will lead the WP Diversity and provide leadership in creating methodologies, indicators and open policy recommendations that can support the circulation of European music and the measurement and promotion of local and national repertoires in broadcasting, streaming and retransmission.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://music.dataobservatory.eu/author/university-of-economics-in-bratislava/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Economics in  Bratislava&lt;/a&gt; (SK) will develop indicators and validate our results in a national policy setting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We provide scientific access (with priority given to our Consortium partners) to highly valuable quantitative datasets in music, particularly nationally representative audience surveys, nationally representative music creator surveys, and large music streaming data. We provide know-how and data science infrastructure that facilitates data collection via surveys or big data by utilizing pre-existing open science or open government sources.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-compare-nationally-representative-music-audience-general-population-and-music-creator-data&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/blogposts_2021/difficulty_bills_levels.jpg&#34; alt=&#34;Compare nationally representative music audience, general population and music creator data.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Compare nationally representative music audience, general population and music creator data.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;We will provide researchers with data according to their needs, and make sure that their quantitative research will have the best scientific and policy impact. Our goal is to ensure our datasets meet higher quality standards than governmental statistics, and that they are the most findable open science resources in music globally.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    See &lt;a href=&#34;https://music.dataobservatory.eu/publication/european_visibilitiy_2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ensuring the Visibility and Accessibility of European Creative Content on the World Market&lt;/a&gt; - &lt;a href=&#34;https://music.dataobservatory.eu/publication/music_level_playing_field_2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Streaming: Is It a Level Playing Field?&lt;/a&gt; - &lt;a href=&#34;https://music.dataobservatory.eu/publication/made_in_hungary/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Growth of the Hungarian Popular Music Repertoire&lt;/a&gt; - &lt;a href=&#34;https://reprex.nl/publication/scholarly_pirate_libraries_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Can scholarly pirate libraries bridge the knowledge access gap?&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;data-coverage&#34;&gt;Data Coverage&lt;/h2&gt;
+&lt;p&gt;Our research project contributes to all of the expected outcomes of the
+call. Our ambition is to develop an open science and open data service
+which complements the existing statistical service of Eurostat. In
+partnership with key music industry and policy partners, we are going to
+fill approximately 41 data gaps within the policy context of &lt;em&gt;Music
+Moves Europe&lt;/em&gt;, as identified by the &lt;em&gt;Feasibility Study for a European
+Music Observatory&lt;/em&gt;, with about 120 high-value indicators. We will
+&lt;strong&gt;develop key performance indicators&lt;/strong&gt; for music businesses and &lt;strong&gt;policy
+indicators&lt;/strong&gt; to “better detect the performance of the European music
+sector and its contribution to economic and social development, as well
+as to sustainability.”&lt;/p&gt;
+&lt;p&gt;We believe that existing data availability is better than that described
+in the &lt;em&gt;Feasibility study&lt;/em&gt;. As stated in this final report, the 2019
+Open Data Directive further extended the availability of re-usable
+public sector information (PSI) with open science data. In PSI, open
+government data, and open science data, there is a huge potential to
+fill in the data gaps without new data collection—the fact that data can
+be reused instead of being recollected is the main aim of the directive.
+These open data sources are legally open but are not accessible without
+further investment; our Consortium wants to make this investment, and
+produce about 50% of all the data needs of the future European Music
+Observatory.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt;,
+which was called &lt;a href=&#34;https://reprex.nl/project/ceemid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID&lt;/a&gt; at the time
+of the creation of the &lt;em&gt;Feasiblity Study&lt;/em&gt;, has 7 years of experience in
+filling in data gaps with open data. It has created metadata maps to
+more than 1000 indicators, covering almost all of the data gaps in the
+&lt;em&gt;Feasiblity Study&lt;/em&gt;. We know where to locate data, and now we have to
+invest in processing, validating, documenting, and making it available
+for the European music sector.&lt;/p&gt;
+&lt;h2 id=&#34;pillar-1-music-economy&#34;&gt;Pillar 1: Music Economy&lt;/h2&gt;
+&lt;p&gt;In the case of &lt;code&gt;Pillar 1 – Music &amp;amp; Economy&lt;/code&gt;, we are usually able to
+locate the source of the data, and we have some experience in processing
+the data and bringing it to light. We have mapped many perceived data
+gaps to the various data harmonization projects of GESAC and CISAC, and
+we will seek cooperation with these organizations and their members to
+find a secure and voluntary way to retrieve the data.&lt;/p&gt;
+&lt;p&gt;In other cases, we will rely on on the 2019/1024/EU &lt;a href=&#34;%28https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019L1024%29&#34;&gt;Open Data
+Directive&lt;/a&gt;
+to access, process, document, and disseminate the data.&lt;/p&gt;
+&lt;p&gt;The only data gap that we do not intent do address is the “impact of the
+non-profit sector”.&lt;/p&gt;
+&lt;table class=&#34; lightable-classic lightable-striped&#34; style=&#34;font-size: 14px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Source Sans Pro&amp;quot;, sans-serif; width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; font-weight: bold; font-size: 24px;&#34; colspan=&#34;4&#34;&gt;
+&lt;p&gt;Pillar 1 - Music Economy&lt;/p&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; text-decoration: underline; font-size: 18px;&#34; colspan=&#34;2&#34;&gt;
+&lt;p&gt;Topic&lt;/p&gt;
+&lt;/th&gt;
+&lt;th style=&#34;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; text-decoration: underline; font-size: 18px;&#34; colspan=&#34;2&#34;&gt;
+&lt;p&gt;Description&lt;/p&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+pillar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+problem
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+availability
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+feasibility
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Value of music sector
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+One-off
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+EY study on the cultural and creative industries (2015)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Value of music sector
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+One-off or one recast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+CEEMID studies on national music economies
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #3EA135 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Employment
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+One-off
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+EY study on the cultural and creative industries (2015)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #3EA135 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Employment
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+One-off or one recast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+CEEMID national music industry reports
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #BAC615 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Employment
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Annual
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Eurostat, lacking granularity
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #FAE000 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Employment
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Absence of granularity on the employment of the various sub-sectors, in
+particular in defining the roles of the various sub-sectors and the
+importance of the not-for-profit sector in terms of employment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #FAE000 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Employment
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+HU, SK pilot successful to add granularity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #BAC615 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Value of music sector
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+No EU-level assessment since 2015
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #3EA135 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Strucutre of the market
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Absence of pan-European data detailing the number of companies,
+employees, revenues for the sector and the subsectors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #007CBB !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+The impact of the not-forprofit sector on the overall economy of the
+music sector
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+No data available on the specific impact of the not-for-profit sector,
+especially in the live music sub-sector
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #3EA135 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Recorded music
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Subject to partnership with IFPI
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+IFPI
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #3EA135 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Authors and publisher’s stream
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+CISAC partnership
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+CISAC
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #3EA135 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Authors and publisher’s stream
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+GESAC
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+GESAC
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #FAE000 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Recorded music stream - performer rights
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+No aggregated data on neighbouring rights collections Partner with
+AEPO-ARTIS and SCAP.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #BAC615 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Music publishing
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+No aggregated data on the music European music publishing business
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #BAC615 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Synchronisation rights
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+IFPI data available on the recorded music side but not on the publishing
+side.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #FAE000 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Independent music companies
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+No aggregated data on the independent music sector (value, number of
+companies, employees, etc.)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #BAC615 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Live music
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Some data is compiled by Live DMA, ETEP or Yourope, but there is no
+aggregated data on the pan-European live music sector listing the value
+of the market, the number and size of venues and shows, number of
+festivals, share of European artists, among other data points.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Exports
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+No pan-European data on the export flows between EU countries and
+outside the EU.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #3EA135 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Exports
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Embedded cultural tourism export.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #FAE000 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Music retail
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Granular data on some countries via retail associations (UK, France,
+Germany) but no pan-European aggregated data.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #FAE000 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Financing of the music sector
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+No aggregated data on how the sector is financed (from investment fund
+to bank loans and subsidies).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #BAC615 !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Live music regulation
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+No aggregated information available on the various legal and tax systems
+within the EU applied to the live music sector.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;&#34;&gt;Pillar
+1&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Copyright regulations and evolution of copyright regimes
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Although many copyright laws applicable in Europe originate from the
+Commission, there are few instruments available to monitor the state of
+copyright regulation across the EU
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;pillar-2-music-circulation--diversity&#34;&gt;Pillar 2: Music Circulation &amp;amp; Diversity&lt;/h2&gt;
+&lt;p&gt;We will address the music circulation problems with our WP big data.
+Together with our leading statistical experts, data scientists, and
+reproducible research experts we will create sampling techniques that
+allow to make representative indicators from streaming data. Streaming
+data is largely accessible, but not in a representative manner. Using
+advanced statistical methodologies like inverse reverse sampling—which
+is often used in quantitative finance to analyze large problems—we will
+create representative data following our pioneering work made in the
+Central European Music Industry Report and later the Digital Music
+Creators’ Project initiated by the UK Intellectual Property Office.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/blogposts_2022/mean_price_plot.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;table class=&#34; lightable-classic lightable-striped&#34; style=&#34;font-size: 14px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Source Sans Pro&amp;quot;, sans-serif; width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; font-weight: bold; font-size: 24px;&#34; colspan=&#34;4&#34;&gt;
+&lt;p&gt;Pillar 2 - Circulation &amp;amp; Diversity&lt;/p&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; text-decoration: underline; font-size: 18px;&#34; colspan=&#34;2&#34;&gt;
+&lt;p&gt;Topic&lt;/p&gt;
+&lt;/th&gt;
+&lt;th style=&#34;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; text-decoration: underline; font-size: 18px;&#34; colspan=&#34;2&#34;&gt;
+&lt;p&gt;Description&lt;/p&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+pillar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+problem
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+availability
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+feasibility
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;&#34;&gt;Pillar
+2&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Streaming activity - volumes
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Due to the huge volumes of streaming data and the difficulties of
+accessing this data, monitoring streaming activity could be a challenge.
+However, the recent announcement by ielsen that they are now providing a
+global streaming chart, but also national streaming charts, should
+provide EMO with a potential tool to monitor this activity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #BAC615 !important;font-size: 16px;&#34;&gt;Pillar
+2&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Live music cross-border activity
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+At this stage there are no pan-European tools that allow for analysis of
+the cross-border activity of European artists. Listings from Liveurope,
+ETEP and other exchange programmes will be a good place to start, but
+these are far from geographically comprehensive and it will be necessary
+to build a tool to monitor the circulation of European artists.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;&#34;&gt;Pillar
+2&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Streaming activity - prices
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Due to the huge volumes of streaming data and the difficulties of
+accessing this data, monitoring streaming activity could be a challenge.
+However, the recent announcement by ielsen that they are now providing a
+global streaming chart, but also national streaming charts, should
+provide EMO with a potential tool to monitor this activity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;&#34;&gt;Pillar
+2&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Streaming activity - exports
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Due to the huge volumes of streaming data and the difficulties of
+accessing this data, monitoring streaming activity could be a challenge.
+However, the recent announcement by ielsen that they are now providing a
+global streaming chart, but also national streaming charts, should
+provide EMO with a potential tool to monitor this activity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #BAC615 !important;font-size: 16px;&#34;&gt;Pillar
+2&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Live music cross-border audiences
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+At this stage there are no pan-European tools that allow for analysis of
+the cross-border activity of European artists. Listings from Liveurope,
+ETEP and other exchange programmes will be a good place to start, but
+these are far from geographically comprehensive and it will be necessary
+to build a tool to monitor the circulation of European artists.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #BAC615 !important;font-size: 16px;&#34;&gt;Pillar
+2&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Live music cross-border revenues
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+At this stage there are no pan-European tools that allow for analysis of
+the cross-border activity of European artists. Listings from Liveurope,
+ETEP and other exchange programmes will be a good place to start, but
+these are far from geographically comprehensive and it will be necessary
+to build a tool to monitor the circulation of European artists.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;We will address diversity issues with recycled and harmonized surveys.&lt;/p&gt;
+&lt;h2 id=&#34;pillar-3-music--society&#34;&gt;Pillar 3: Music &amp;amp; Society&lt;/h2&gt;
+&lt;p&gt;We will mainly rely on the integration of existing, but fragmented and
+not well-formatted data, and existing, but not processed and not
+published data to create pan-European indicators for the music and
+society section.&lt;/p&gt;
+&lt;table class=&#34; lightable-classic lightable-striped&#34; style=&#34;font-size: 14px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Source Sans Pro&amp;quot;, sans-serif; width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; font-weight: bold; font-size: 24px;&#34; colspan=&#34;4&#34;&gt;
+&lt;p&gt;Pillar 3 - Music &amp;amp; Society&lt;/p&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; text-decoration: underline; font-size: 18px;&#34; colspan=&#34;2&#34;&gt;
+&lt;p&gt;Topic&lt;/p&gt;
+&lt;/th&gt;
+&lt;th style=&#34;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; text-decoration: underline; font-size: 18px;&#34; colspan=&#34;2&#34;&gt;
+&lt;p&gt;Description&lt;/p&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+pillar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+problem
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+availability
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+feasibility
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;&#34;&gt;Pillar
+3&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Music schools and conservatories
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+National statistical institutes, government data
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;&#34;&gt;Pillar
+3&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Music education - formal practices
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+National statistical institutes, government data, European Association
+for Music in Schools.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #BAC615 !important;font-size: 16px;&#34;&gt;Pillar
+3&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Music education - informal practices
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+The Feasibility Study did not address this, but in popular music,
+informal learning practices are far-far more important. We will address
+this issues.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #FAE000 !important;font-size: 16px;&#34;&gt;Pillar
+3&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Training schemes for music professionals
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Lack of European data on the state of training for music professionals
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #FAE000 !important;font-size: 16px;&#34;&gt;Pillar
+3&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Training schemes for artist
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Lack of European data on the state of training for artists.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #FAE000 !important;font-size: 16px;&#34;&gt;Pillar
+3&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Music education
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Lack of European data on the state of music education.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;&#34;&gt;Pillar
+3&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Consumer patterns regarding piracy and its impact on the music sector
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Available
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Some countries like France with Hadopi have attempted to evaluate the
+way consumers access illegally music while setting up educational
+campaigns on piracy, similar to the UK initiative Get It Right.
+Materials/studies are also provided by EUIPO.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;&#34;&gt;Pillar
+3&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+EU consumers and music
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+No authoritative assessment of the relationship between consumers and
+music at pan-European level
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;&#34;&gt;Pillar
+3&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Social networks and music
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+No authoritative assessment of how European consumers interact with
+music on social networks
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;&#34;&gt;Pillar
+3&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Consumer patterns regarding piracy and its impact on the music sector
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Available
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Limited pan-European data on the impact of piracy but also on the
+motivations to consumer music content via illegal sources. EUIPO does
+have some data on the economic cost of IPR infringement in the recorded
+music industry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #DB001C !important;font-size: 16px;&#34;&gt;Pillar
+3&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Scope of the not-for-profit sector in Europe
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+No mapping of the not-for-profit music sector in Europe, in particular
+in exposing new talent and forging social cohesion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #FAE000 !important;font-size: 16px;&#34;&gt;Pillar
+3&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Social impact of music in communities
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Although there is some academic research available, there is no
+co-ordination of research on the social impact of music in Europe.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;pillar-4-music--innovation&#34;&gt;Pillar 4: Music &amp;amp; Innovation&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;We will connect to several innovation topics in music by providing
+research, data, and evidence. Building on the work of the
+&lt;a href=&#34;https://www.ivir.nl/projects/blockchain-society/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blockchain &amp;amp; Society&lt;/a&gt; research
+project of our Consortium member, the Institute for Information Law
+&lt;a href=&#34;https://www.ivir.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IViR&lt;/a&gt; at the University of Amsterdam, we will
+address issues related to NFT and blockchain technologies in music.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Connecting to the work of various music stakeholders in Finland, we
+will experiment with the safe data sharing of confidential data,
+avoiding the extreme pitfalls of ‘radical openness’ and ‘closed
+data’. With the University of Bologna, and eight years of experience
+in sensitive data sharing with the &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music
+Observatory&lt;/a&gt; (formerly:
+&lt;a href=&#34;https://reprex.nl/project/ceemid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID&lt;/a&gt;), we will create various
+statistical methods to create anonymized and synthetic datasets that
+do not endanger business or private data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We are going to design indicators and carry out a landscape mapping
+with &lt;a href=&#34;https://www.musictecheuropeacademy.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Tech Europe&lt;/a&gt;, a
+new organization that aims to become the representative of music
+startups and music ecosystems in the European Union.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;table class=&#34; lightable-classic lightable-striped&#34; style=&#34;font-size: 14px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Source Sans Pro&amp;quot;, sans-serif; width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; font-weight: bold; font-size: 24px;&#34; colspan=&#34;4&#34;&gt;
+&lt;p&gt;Pillar 4 - Music &amp;amp; Innovation&lt;/p&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; text-decoration: underline; font-size: 18px;&#34; colspan=&#34;2&#34;&gt;
+&lt;p&gt;Topic&lt;/p&gt;
+&lt;/th&gt;
+&lt;th style=&#34;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; text-decoration: underline; font-size: 18px;&#34; colspan=&#34;2&#34;&gt;
+&lt;p&gt;Description&lt;/p&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+pillar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+problem
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+availability
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+feasibility
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #007CBB !important;font-size: 16px;&#34;&gt;Pillar
+4&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Several reports cover the evolution of music and tec
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Available
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Music Ally, Midia Research…
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;&#34;&gt;Pillar
+4&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Blockchain and music
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+No authoritative assessment of the impact of Blockchain on the music
+sector and of the EU-powered initiatives linking Blockchain and music.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #BAC615 !important;font-size: 16px;&#34;&gt;Pillar
+4&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Artificial intelligence, machine learning and music
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+No authoritative assessment of the impact of AI and machine learning on
+the music sector and of the EUpowered initiatives linking AI and music.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;&#34;&gt;Pillar
+4&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Future of streaming
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+No authoritative assessment of the future development of streaming and
+its impact on the EU music sector
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #3EA135 !important;font-size: 16px;&#34;&gt;Pillar
+4&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Digital revenues in the music sector and the relevant business models
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+In the UK the report ‘Dissecting the digital dollar’ commission by the
+MMF to CMU, but no similar European study.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #3EA135 !important;font-size: 16px;&#34;&gt;Pillar
+4&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Mapping the flow of digital revenues in the music sector and the
+relevant business models in Europe
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Digital distribution of music has introduced new complex business models
+that are not always transparent.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #007CBB !important;font-size: 16px;&#34;&gt;Pillar
+4&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Music start-ups in the EU
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+No authoritative mapping of start-ups involved in music at EU level.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #3EA135 !important;font-size: 16px;&#34;&gt;Pillar
+4&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+The impact of artists’ ‘do it yourself’ culture on the economy of the
+sector
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+Although more artists are going to market with their music without the
+traditional support of labels, there is no overview of how deep the
+trend is, how it affects the music ecosystem or what policy frameworks
+can or should support such activity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;width: 10em; font-family: monospace;&#34;&gt;
+&lt;span
+style=&#34;     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #DB001C !important;font-size: 16px;&#34;&gt;Pillar
+4&lt;/span&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 15em; font-family: monospace;&#34;&gt;
+Funding mechanisms for music
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 20em; &#34;&gt;
+Data gap
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;width: 60em; &#34;&gt;
+No regular overview of the funding schemes in Europe relevant to the
+music business.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Launching Our Demo Music Observatory</title>
+      <link>https://reprex.nl/post/2020-09-15-music-observatory-launch/</link>
+      <pubDate>Tue, 15 Sep 2020 08:00:39 +0000</pubDate>
+      <guid>https://reprex.nl/post/2020-09-15-music-observatory-launch/</guid>
+      <description>&lt;p&gt;Today, on 15 September 2020, we officially launched our &lt;code&gt;minimal viable product&lt;/code&gt; as we promised to partners back in February. This was a particularly difficult period for everybody. We aspired to deliver by September in a very different environment, our hopes for commissioned work went up in flames with the pandemic, and our targeted users, musicians and music entrepreneurs, talent managers, music venues lost most of their income. The organizations helping them, granting authorities, export offices and collective management societies are overwhelmed with the problem. During these troublesome times, our team expanded, attracted great new talent, and kept working.&lt;/p&gt;
+&lt;p&gt;Our first product is the &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt;, a collaborative, automated research-based &lt;a href=&#34;https://dataobservatory.eu/faq/observatories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;observatory&lt;/a&gt; for the music industry, one that is particularly hard hit by the COVID19 crisis. Not only great artists, composers, technicians, managers fell victim to the virus, but musicians lost about 50–90% of their income from live music. This translates to a 100% loss for the live music technicians and managers.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fQJHflWPS34&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+See our &lt;a href=&#34;https://dataobservatory.eu/post/2020-09-11-creating-automated-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier blogpost&lt;/a&gt; on what you see on the video.&lt;/p&gt;
+&lt;p&gt;The music industry was never a place for great job security. For putting up a show, you usually need a network of 10–200 artists, technicians and managers to work together as freelancers without all those social benefits that many people enjoy in other walks of life. We have been trying to figure out how to help this microenterprise and freelancer-network based industry with research for five years. Our aim is to make them competitive when they are talking with their buyers: Google, Apple, Spotify, who are really heavy-weight data and AI pros. Our better plan their tours, when they will be back on the road, to understand what sort of audiences and purchasing power waits for them in different European cities.&lt;/p&gt;
+&lt;p&gt;We are launching at a time when the music industry is crying for help.Therefore, we have decided to make our demo observatory open and unfinished. Over the last 7 years, we have built up about 2000 music and creative sector indicators to be used for business KPIs, forecasting targets, grant evaluations, royalty valuations, concert demography target group analysis and other professional uses. We would like to open up, based on your needs, about 50 well-designed indicators, and pledge to keep it daily refreshed, corrected, documented, citaable, downloadable. Also, feel free to use our most valuable source code—use it for your own purposes, even modify it, as long as you keep it open.&lt;/p&gt;
+&lt;p&gt;For our smaller partners, we follow what musicians do these days on Bandcamp: name your price. We make a pledge to our small partners: if you need reliable data to plan your next grant calls, calculate royalties, compensations, predict hit candidates, give us the job—and name your price. Post-corona, you can take for a dollar the best music from Bandcamp. You can take our research products, for a limited period, for any amount you name, as long as  it is for a good cause and serves the industry, musicians, technicians or managers. In return, we ask for your feedback. Help us validate whether we are on the right track, tell us how we can cooperate after the pandemic, in better times.&lt;/p&gt;
+&lt;p&gt;Our larger and better funded partners? We ask you to pay the price we name, because we believe that it is a well-justified, fair and competitive price, set by pricing experts.&lt;/p&gt;
+&lt;p&gt;We appreciate it if you take a look at our offering, or if you pass this blogpost on to your colleagues in the industry.  Our main target audience initially are music professional in broader Europe, but we are planning to cover all major global markets very soon, too. Feedback from the U.S., Australia, Canada, Colombia, Brazil &amp;amp; Argentina is particularly welcome as we have great plans over there!&lt;/p&gt;
+&lt;h2 id=&#34;who-we-are&#34;&gt;Who we are?&lt;/h2&gt;
+&lt;p&gt;We &lt;a href=&#34;https://dataobservatory.eu/post/2020-08-24-start-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;started&lt;/a&gt; our operations on 1 September 2020 on the basis of &lt;a href=&#34;http://documentation.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID&lt;/a&gt;, a pan-European data observatory that created about 2000 music and creative industry indicators for its users. In the coming days, we are gradually opening up about 50 &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music industry&lt;/a&gt; and 50 broader creative industry indicators in a fully reproducible workflow, with daily re-freshed, re-processed, well-formatted and documented indicators for business and policy decisions.&lt;/p&gt;
+&lt;p&gt;We would like to validate this approach in one of the world&amp;rsquo;s most prestigious university-backed incubator programs, in the &lt;a href=&#34;https://www.yesdelft.com/yes-programs/ai-blockchain-validation-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI/Blockchain Validation Lab&lt;/a&gt;. We&amp;rsquo;re finalist on their selection, and all help before 23 September from our friends in the music industry is more than appreciated. If we get there, we can rely on probably the best pros in Europe to make our offering better tailored and financially sustainable.&lt;/p&gt;
+&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in touch!&lt;/h2&gt;
+&lt;p&gt;We use the very simple and extremely secure &lt;strong&gt;keybase.io&lt;/strong&gt;, a kind of mix of Whatsapp, Skype, Google Drive, One Drive and zoom. You can get in touch on that platform with us in anytime &lt;a href=&#34;https://keybase.io/team/reprexcommunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can easily contact on LinkedIn &lt;a href=&#34;https://www.linkedin.com/in/antaldaniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel&lt;/a&gt; or &lt;a href=&#34;https://www.linkedin.com/in/k%C3%A1tya-nagy-a9447730/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kátya&lt;/a&gt; and of course, we have a usually working &lt;a href=&#34;https://dataobservatory.eu/#about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;email contact form&lt;/a&gt;, too. Our email is name.surname at our main domain.&lt;/p&gt;
+&lt;h2 id=&#34;video-credits&#34;&gt;Video credits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Data acquisition and processing: Daniel Antal, CFA and Marta Kołczyńska, PhD (&lt;a href=&#34;https://music.dataobservatory.eu/economy.html#demand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;survey data&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Documentation automation: Sandor Budai&lt;/li&gt;
+&lt;li&gt;Video art: Line Matson&lt;/li&gt;
+&lt;li&gt;Music: &lt;a href=&#34;https://www.youtube.com/moonmoonmoon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CEEMID</title>
+      <link>https://reprex.nl/project/ceemid/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/project/ceemid/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;CEEMID&lt;/strong&gt; was multi-country project that was a predecessor of Reprex’s &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt;. It transferred thousands of indicators to the Digital Music Observatory and offered it to the future European Music Observatory.&lt;/p&gt;
+&lt;p&gt;The CEEMID project (2014-2020) formed the basis of our first data observatory &amp;mdash; the challenges of a 12-country data collection and sharing project forced our team to find novel software, data governance and data processing solution that fitted a very fragmented, multi-language music industry with many internal and external challenges.  We showed that we can provide reach, data-driven evidence in seemingly data poor countries. We can find alternative data sources when there are no data vendors, no official government statistics are present, or when important data assets cannot be used due to business confidentiality clauses.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-central-european-music-industry-report-2020httpsceereport2020ceemideu-concluded-the-ceemid-project-showing-that-building-meaningful-statistical-indicators-for-the-live-performance-recording-and-publishing-sides-of-the-music-industry-is-possible-even-in-seemingly-data-poor-emerging-and-future-markets-our-report-was-presented-as-a-best-practicehttpsmusicdataobservatoryeupost2020-01-30-ceereport-by-the-european-commission-and-the-geothe-institute-in-2020&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The [Central European Music Industry Report 2020](https://ceereport2020.ceemid.eu/) concluded the CEEMID project showing that building meaningful statistical indicators for the live performance, recording and publishing sides of the music industry is possible even in seemingly data poor emerging and future markets. Our Report was presented as a [best practice](https://music.dataobservatory.eu/post/2020-01-30-ceereport/) by the European Commission and the Geothe Institute in 2020.&#34; srcset=&#34;
+               /media/img/reports/ceereport_2020/frontcover_wide_hu0a0f30584267a2cdec6691beefdbbc9f_34932_9ec4301f74d6efc3db691db5b5db6a66.webp 400w,
+               /media/img/reports/ceereport_2020/frontcover_wide_hu0a0f30584267a2cdec6691beefdbbc9f_34932_e012b143d3ea788b7a97acc9447d0897.webp 760w,
+               /media/img/reports/ceereport_2020/frontcover_wide_hu0a0f30584267a2cdec6691beefdbbc9f_34932_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/reports/ceereport_2020/frontcover_wide_hu0a0f30584267a2cdec6691beefdbbc9f_34932_9ec4301f74d6efc3db691db5b5db6a66.webp&#34;
+               width=&#34;400&#34;
+               height=&#34;200&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The &lt;a href=&#34;https://ceereport2020.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report 2020&lt;/a&gt; concluded the CEEMID project showing that building meaningful statistical indicators for the live performance, recording and publishing sides of the music industry is possible even in seemingly data poor emerging and future markets. Our Report was presented as a &lt;a href=&#34;https://music.dataobservatory.eu/post/2020-01-30-ceereport/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;best practice&lt;/a&gt; by the European Commission and the Geothe Institute in 2020.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;In 2019 we offered CEEMID as one possible alternative to building the European Music Observatory. In our experience and understanding, the music industry has many failed international data projects because of the inherent conflicts of interests among big and large countries, authors and producers, producers, and performers, and in 2020 we launched our &lt;a href=&#34;https://reprex.nl/observatories/music&#34;&gt;Digital Music Observatory&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;From an early stage, there has been an interest in our solutions from newer and newer industries. During the validation of our observatory’s product/market fit, we realized that we gave a novel solution to a problem that is not at all unique to the music industry. The fragmentation of data assets among the institutional boundaries of small enterprises and NGOs, the fragmentation of research budgets that disallow comprehensive data collection problems, the reliance on questionable quality and hard-to-integrate public and third-party data is present in almost all business and policy domains.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-case-study-in-belgiumhttpsgreendealdataobservatoryeupost2021-04-23-belgium-flood-insurance-brings-together-open-data-in-a-novel-way-from-satellite-hydrological-opinion-polling-and-tax-administration-data-to-show-the-geographical-overlap-of-catastrophic-drought-and-flood-risk-with-the-local-political-awareness-and-financial-capacity-to-manage-it-our-approach-to-music-data-turned-out-to-be-applicable-in-many-situations-when-the-data-and-the-research-capacities-are-fragmented&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The [Case Study in Belgium](https://greendeal.dataobservatory.eu/post/2021-04-23-belgium-flood-insurance/) brings together open data in a novel way from satellite, hydrological, opinion polling and tax administration data to show the geographical overlap of catastrophic drought and flood risk with the local political awareness and financial capacity to manage it. Our approach to music data turned out to be applicable in many situations when the data and the research capacities are fragmented.&#34; srcset=&#34;
+               /media/slides/Crunchconf_2021/Slide6_hu0af4a93231d6f282471b1ca73533e509_486981_7b5fa0d4e7334a14dac31c4342cb051b.webp 400w,
+               /media/slides/Crunchconf_2021/Slide6_hu0af4a93231d6f282471b1ca73533e509_486981_32bd08887b964300ff44300fa3635464.webp 760w,
+               /media/slides/Crunchconf_2021/Slide6_hu0af4a93231d6f282471b1ca73533e509_486981_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/slides/Crunchconf_2021/Slide6_hu0af4a93231d6f282471b1ca73533e509_486981_7b5fa0d4e7334a14dac31c4342cb051b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The &lt;a href=&#34;https://greendeal.dataobservatory.eu/post/2021-04-23-belgium-flood-insurance/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Case Study in Belgium&lt;/a&gt; brings together open data in a novel way from satellite, hydrological, opinion polling and tax administration data to show the geographical overlap of catastrophic drought and flood risk with the local political awareness and financial capacity to manage it. Our approach to music data turned out to be applicable in many situations when the data and the research capacities are fragmented.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;We developed reliable software tools and know-how bring up reusable open government and open science data, which are available upon request in developed countries like raw diamonds, without the polishing of data scientists, documentation, or modern databases. We learned how to build a decentralized approach to data sharing and resource pooling using the agile open collaboration method of open-source software development. We became experts in handling legally open data and freedom of information requests on an industrial scale.  After the launch of the Digital Music Observatory, we started building three new observatories with various partners in Computational Antitrust, Green Deal (climate change) and the broader Cultural Creative Sectors &amp;amp; Industries.&lt;/p&gt;
+&lt;p&gt;CEEMID did not only work with public and openly accessible data.  We used these novel sources when other data was not available, legally could not be used, or it was prohibitively expensive.  But most of the value we created for music rightsholders required the management of highly confidential data. We know that a public data observatory is not ideal for all potential users.  We are piloting fully private observatories, and a blend of pubic (and therefore widely trustworthy) and proprietary hybrid observatories based on the experience of the ‘public’  and ‘private’ layers of CEEMID.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-historically-ceemid-started-out-as-the-_central-and-eastern-european-music-industry-databases_-out-of-necessity-following-a-cisac-good-governance-seminar-for-european-societieshttpsceemideupost2013-11-18_cisac_goodgov-in-2013-and-eventually-grew-out-of-an-abandoned-gesac-project-the-adoption-of-european-single-market-and-copyright-rules-and-the-increased-activity-of-competition-authority-and-regulators-required-a-more-structured-approach-to-set-collective-royalty-and-compensations-tariffs-in-a-region-that-was-regarded-traditionally-as-data-poor-with-lower-quantity-of-industry-and-government-data-sources-available&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Historically CEEMID started out as the _Central and Eastern European Music Industry Databases_ out of necessity following a [CISAC Good Governance Seminar for European Societies](https://ceemid.eu/post/2013-11-18_cisac_goodgov/) in 2013, and eventually grew out of an abandoned GESAC project. The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in a region that was regarded traditionally as data-poor with lower quantity of industry and government data sources available.&#34; srcset=&#34;
+               /media/img/slides/cisac_good_governance_2013_hub4b4b5255bd977bbebff8bcf47ad0e98_125454_2a3799832a54545b105f9274407e0bd6.webp 400w,
+               /media/img/slides/cisac_good_governance_2013_hub4b4b5255bd977bbebff8bcf47ad0e98_125454_a0e06b6864abe2a0479b94c611245453.webp 760w,
+               /media/img/slides/cisac_good_governance_2013_hub4b4b5255bd977bbebff8bcf47ad0e98_125454_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/slides/cisac_good_governance_2013_hub4b4b5255bd977bbebff8bcf47ad0e98_125454_2a3799832a54545b105f9274407e0bd6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;526&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Historically CEEMID started out as the &lt;em&gt;Central and Eastern European Music Industry Databases&lt;/em&gt; out of necessity following a &lt;a href=&#34;https://ceemid.eu/post/2013-11-18_cisac_goodgov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CISAC Good Governance Seminar for European Societies&lt;/a&gt; in 2013, and eventually grew out of an abandoned GESAC project. The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in a region that was regarded traditionally as data-poor with lower quantity of industry and government data sources available.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;In 2014 three societies, Artisjus, HDS and SOZA realized that need to make further efforts to modernize the way they measure their own economic impact, the economic value of their licenses to remain competitive in advocating the interests vis-à-vis domestic governments, international organizations like CISAC and GESAC and the European Union. They signed a Memorandum of Understanding with their consultant to set up the CEEMID databases and to harmonize their efforts. The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in a region that was regarded traditionally as data-poor with lower quantity of industry and government data sources available, but quickly covered the whole European area (Read more about our &lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Main_Page#Data_Coverage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data coverage&lt;/a&gt; and our pan-European &lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Main_Page#Geographic_Coverage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;geographical coverage&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;We believe that CEEMID could fulfill the functions of the European Music Industry if it would find a sustainable financing that makes access to all our data open. We need to be able to avoid the &lt;a href=&#34;https://en.wikipedia.org/wiki/Tragedy_of_the_commons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tragedy of the commons&lt;/a&gt;, where only a few industry users contribute to the financing of thousands of indicators that could potentially benefits tens of thousands of stakeholders in the EU.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

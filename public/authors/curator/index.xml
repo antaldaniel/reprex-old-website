@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Curators | Reprex</title>
+    <link>https://reprex.nl/authors/curator/</link>
+      <atom:link href="https://reprex.nl/authors/curator/index.xml" rel="self" type="application/rss+xml" />
+    <description>New Curators</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://reprex.nl/authors/curator/avatar_hud49689ee361d8b05520f3cd2b8cff0b5_11992_270x270_fill_lanczos_center_3.png</url>
+      <title>New Curators</title>
+      <link>https://reprex.nl/authors/curator/</link>
+    </image>
+    
+  </channel>
+</rss>

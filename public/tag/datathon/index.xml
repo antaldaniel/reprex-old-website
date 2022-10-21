@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datathon | Reprex</title>
+    <link>https://reprex.nl/tag/datathon/</link>
+      <atom:link href="https://reprex.nl/tag/datathon/index.xml" rel="self" type="application/rss+xml" />
+    <description>datathon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jun 2021 16:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>datathon</title>
+      <link>https://reprex.nl/tag/datathon/</link>
+    </image>
+    
+    <item>
+      <title>Economic and Environment Impact Analysis, Automated for Data-as-Service</title>
+      <link>https://reprex.nl/post/2021-06-03-iotables-release/</link>
+      <pubDate>Thu, 03 Jun 2021 16:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/post/2021-06-03-iotables-release/</guid>
+      <description>&lt;p&gt;We have released a new version of
+&lt;a href=&#34;https://iotables.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iotables&lt;/a&gt; as part of the
+&lt;a href=&#34;http://ropengov.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenGov&lt;/a&gt; project. The package, as the name
+suggests, works with European symmetric input-output tables (SIOTs).
+SIOTs are among the most complex governmental statistical products. They
+show how each country’s 64 agricultural, industrial, service, and
+sometimes household sectors relate to each other. They are estimated
+from various components of the GDP, tax collection, at least every five
+years.&lt;/p&gt;
+&lt;p&gt;SIOTs offer great value to policy-makers and analysts to make more than
+educated guesses on how a million euros, pounds or Czech korunas spent
+on a certain sector will impact other sectors of the economy, employment
+or GDP. What happens when a bank starts to give new loans and advertise
+them? How is an increase in economic activity going to affect the amount
+of wages paid and and where will consumers most likely spend their
+wages? As the national economies begin to reopen after COVID-19 pandemic
+lockdowns, is to utilize SIOTs to calculate direct and indirect
+employment effects or value added effects of government grant programs
+to sectors such as cultural and creative industries or actors such as
+venues for performing arts, movie theaters, bars and restaurants.&lt;/p&gt;
+&lt;p&gt;Making such calculations requires a bit of matrix algebra, and
+understanding of input-output economics, direct, indirect effects, and
+multipliers. Economists, grant designers, policy makers have those
+skills, but until now, such calculations were either made in cumbersome
+Excel sheets, or proprietary software, as the key to these calculations
+is to keep vectors and matrices, which have at least one dimension of
+64, perfectly aligned. We made this process reproducible with
+&lt;a href=&#34;https://iotables.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iotables&lt;/a&gt; and
+&lt;a href=&#34;https://CRAN.R-project.org/package=eurostat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurostat&lt;/a&gt; on
+&lt;a href=&#34;http://ropengov.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenGov&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-our-iotables-package-creates-direct-indirect-effects-and-multipliers-programatically-our-observatory-will-make-those-indicators-available-for-all-european-countries&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/package_screenshots/iotables_0_4_5.png&#34; alt=&#34;Our iotables package creates direct, indirect effects and multipliers programatically. Our observatory will make those indicators available for all European countries.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Our iotables package creates direct, indirect effects and multipliers programatically. Our observatory will make those indicators available for all European countries.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;accessing-and-tidying-the-data-programmatically&#34;&gt;Accessing and tidying the data programmatically&lt;/h2&gt;
+&lt;p&gt;The iotables package is in a way an extension to the &lt;em&gt;eurostat&lt;/em&gt; R
+package, which provides a programmatic access to the
+&lt;a href=&#34;https://ec.europa.eu/eurostat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurostat&lt;/a&gt; data warehouse. The reason for
+releasing a new package is that working with SIOTs requires plenty of
+meticulous data wrangling based on various &lt;em&gt;metadata&lt;/em&gt; sources, apart
+from actually accessing the &lt;em&gt;data&lt;/em&gt; itself. When working with matrix
+equations, the bar is higher than with tidy data. Not only your rows and
+columns must match, but their ordering must strictly conform the
+quadrants of the a matrix system, including the connecting trade or tax
+matrices.&lt;/p&gt;
+&lt;p&gt;When you download a country’s SIOT table, you receive a long form data
+frame, a very-very long one, which contains the matrix values and their
+labels like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;## Table naio_10_cp1700 cached at C:\Users\...\Temp\RtmpGQF4gr/eurostat/naio_10_cp1700_date_code_FF.rds
+
+# we save it for further reference here 
+saveRDS(naio_10_cp1700, &amp;quot;not_included/naio_10_cp1700_date_code_FF.rds&amp;quot;)
+
+# should you need to retrieve the large tempfiles, they are in 
+dir (file.path(tempdir(), &amp;quot;eurostat&amp;quot;))
+
+dplyr::slice_head(naio_10_cp1700, n = 5)
+
+## # A tibble: 5 x 7
+##   unit    stk_flow induse  prod_na geo       time        values
+##   &amp;lt;chr&amp;gt;   &amp;lt;chr&amp;gt;    &amp;lt;chr&amp;gt;   &amp;lt;chr&amp;gt;   &amp;lt;chr&amp;gt;     &amp;lt;date&amp;gt;       &amp;lt;dbl&amp;gt;
+## 1 MIO_EUR DOM      CPA_A01 B1G     EA19      2019-01-01 141873.
+## 2 MIO_EUR DOM      CPA_A01 B1G     EU27_2020 2019-01-01 174976.
+## 3 MIO_EUR DOM      CPA_A01 B1G     EU28      2019-01-01 187814.
+## 4 MIO_EUR DOM      CPA_A01 B2A3G   EA19      2019-01-01      0 
+## 5 MIO_EUR DOM      CPA_A01 B2A3G   EU27_2020 2019-01-01      0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The metadata reads like this: the units are in millions of euros, we are
+analyzing domestic flows, and the national account items &lt;code&gt;B1-B2&lt;/code&gt; for the
+industry &lt;code&gt;A01&lt;/code&gt;. The information of a 64x64 matrix (the SIOT) and its
+connecting matrices, such as taxes, or employment, or &lt;em&gt;C**O&lt;/em&gt;&lt;sub&gt;2&lt;/sub&gt;
+emissions, must be placed exactly in one correct ordering of columns and
+rows. Every single data wrangling error will usually lead in an error
+(the matrix equation has no solution), or, what is worse, in a very
+difficult to trace algebraic error. Our package not only labels this
+data meaningfully, but creates very tidy data frames that contain each
+necessary matrix of vector with a key column.&lt;/p&gt;
+&lt;p&gt;iotables package contains the vocabularies (abbreviations and human
+readable labels) of three statistical vocabularies: the so called
+&lt;code&gt;COICOP&lt;/code&gt; product codes, the &lt;code&gt;NACE&lt;/code&gt; industry codes, and the vocabulary of
+the &lt;code&gt;ESA2010&lt;/code&gt; definition of national accounts (which is the government
+equivalent of corporate accounting).&lt;/p&gt;
+&lt;p&gt;Our package currently solves all equations for direct, indirect effects,
+multipliers and inter-industry linkages. Backward linkages show what
+happens with the suppliers of an industry, such as catering or
+advertising in the case of music festivals, if the festivals reopen. The
+forward linkages show how much extra demand this creates for connecting
+services that treat festivals as a ‘supplier’, such as cultural tourism.&lt;/p&gt;
+&lt;h2 id=&#34;lets-seen-an-example&#34;&gt;Let’s seen an example&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;## Downloading employment data from the Eurostat database.
+
+## Table lfsq_egan22d cached at C:\Users\...\Temp\RtmpGQF4gr/eurostat/lfsq_egan22d_date_code_FF.rds
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;and match it with the latest structural information on from the
+&lt;a href=&#34;http://appsso.eurostat.ec.europa.eu/nui/show.do?wai=true&amp;amp;dataset=naio_10_cp1700&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symmetric input-output table at basic prices (product by
+product)&lt;/a&gt;
+Eurostat product. A quick look at the Eurostat website already shows
+that there is a lot of work ahead to make the data look like an actual
+Symmetric input-output table. Download it with &lt;code&gt;iotable_get()&lt;/code&gt; which
+does basic labelling and preprocessing on the raw Eurostat files.
+Because of the size of the unfiltered dataset on Eurostat, the following
+code may take several minutes to run.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;sk_io &amp;lt;-  iotable_get ( labelled_io_data = NULL, 
+                        source = &amp;quot;naio_10_cp1700&amp;quot;, geo = &amp;quot;SK&amp;quot;, 
+                        year = 2015, unit = &amp;quot;MIO_EUR&amp;quot;, 
+                        stk_flow = &amp;quot;TOTAL&amp;quot;,
+                        labelling = &amp;quot;iotables&amp;quot; )
+
+## Reading cache file C:\Users\..\Temp\RtmpGQF4gr/eurostat/naio_10_cp1700_date_code_FF.rds
+
+## Table  naio_10_cp1700  read from cache file:  C:\Users\..\Temp\RtmpGQF4gr/eurostat/naio_10_cp1700_date_code_FF.rds
+
+## Saving 808 input-output tables into the temporary directory
+## C:\Users\...\Temp\RtmpGQF4gr
+
+## Saved the raw data of this table type in temporary directory C:\Users\...\Temp\RtmpGQF4gr/naio_10_cp1700.rds.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The &lt;code&gt;input_coefficient_matrix_create()&lt;/code&gt; creates the input coefficient
+matrix, which is used for most of the analytical functions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;a&lt;/em&gt;&lt;sub&gt;&lt;em&gt;i**j&lt;/em&gt;&lt;/sub&gt; = &lt;em&gt;X&lt;/em&gt;&lt;sub&gt;&lt;em&gt;i**j&lt;/em&gt;&lt;/sub&gt; / &lt;em&gt;x&lt;/em&gt;&lt;sub&gt;&lt;em&gt;j&lt;/em&gt;&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;It checks the correct ordering of columns, and furthermore it fills up 0
+values with 0.000001 to avoid division with zero.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;input_coeff_matrix_sk &amp;lt;- input_coefficient_matrix_create(
+  data_table = sk_io
+)
+
+## Columns and rows of real_estate_imputed_a, extraterriorial_organizations are all zeros and will be removed.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then you can create the Leontieff-inverse, which contains all the
+structural information about the relationships of 64x64 sectors of the
+chosen country, in this case, Slovakia, ready for the main equations of
+input-output economics.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;I_sk &amp;lt;- leontieff_inverse_create(input_coeff_matrix_sk)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;And take out the primary inputs:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;primary_inputs_sk &amp;lt;- coefficient_matrix_create(
+  data_table = sk_io, 
+  total = &#39;output&#39;, 
+  return = &#39;primary_inputs&#39;)
+
+## Columns and rows of real_estate_imputed_a, extraterriorial_organizations are all zeros and will be removed.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now let’s see if there the government tries to stimulate the economy in
+three sectors, agricultulre, car manufacturing, and R&amp;amp;D with a billion
+euros. Direct effects measure the initial, direct impact of the change
+in demand and supply for a product. When production goes up, it will
+create demand in all supply industries (backward linkages) and create
+opportunities in the industries that use the product themselves (forward
+linkages.)&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;direct_effects_create( primary_inputs_sk, I_sk ) %&amp;gt;%
+  select ( all_of(c(&amp;quot;iotables_row&amp;quot;, &amp;quot;agriculture&amp;quot;,
+                    &amp;quot;motor_vechicles&amp;quot;, &amp;quot;research_development&amp;quot;))) %&amp;gt;%
+  filter (.data$iotables_row %in% c(&amp;quot;gva_effect&amp;quot;, &amp;quot;wages_salaries_effect&amp;quot;, 
+                                    &amp;quot;imports_effect&amp;quot;, &amp;quot;output_effect&amp;quot;))
+
+##            iotables_row agriculture motor_vechicles research_development
+## 1        imports_effect   1.3684350       2.3028203            0.9764921
+## 2 wages_salaries_effect   0.2713804       0.3183523            0.3828014
+## 3            gva_effect   0.9669621       0.9790771            0.9669467
+## 4         output_effect   2.2876287       3.9840251            2.2579634
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Car manufacturing requires much imported components, so each extra
+demand will create a large importing activity. The R&amp;amp;D will create a the
+most local wages (and supports most jobs) because research is
+job-intensive. As we can see, the effect on imports, wages, gross value
+added (which will end up in the GDP) and output changes are very
+different in these three sectors.&lt;/p&gt;
+&lt;p&gt;This is not the total effect, because some of the increased production
+will translate into income, which in turn will be used to create further
+demand in all parts of the domestic economy. The total effect is
+characterized by multipliers.&lt;/p&gt;
+&lt;p&gt;Then solve for the multipliers:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;multipliers_sk &amp;lt;- input_multipliers_create( 
+  primary_inputs_sk %&amp;gt;%
+    filter (.data$iotables_row == &amp;quot;gva&amp;quot;), I_sk ) 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;And select a few industries:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;set.seed(12)
+multipliers_sk %&amp;gt;% 
+  tidyr::pivot_longer ( -all_of(&amp;quot;iotables_row&amp;quot;), 
+                        names_to = &amp;quot;industry&amp;quot;, 
+                        values_to = &amp;quot;GVA_multiplier&amp;quot;) %&amp;gt;%
+  select (-all_of(&amp;quot;iotables_row&amp;quot;)) %&amp;gt;%
+  arrange( -.data$GVA_multiplier) %&amp;gt;%
+  dplyr::sample_n(8)
+
+## # A tibble: 8 x 2
+##   industry               GVA_multiplier
+##   &amp;lt;chr&amp;gt;                           &amp;lt;dbl&amp;gt;
+## 1 motor_vechicles                  7.81
+## 2 wood_products                    2.27
+## 3 mineral_products                 2.83
+## 4 human_health                     1.53
+## 5 post_courier                     2.23
+## 6 sewage                           1.82
+## 7 basic_metals                     4.16
+## 8 real_estate_services_b           1.48
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;vignettes&#34;&gt;Vignettes&lt;/h2&gt;
+&lt;p&gt;The &lt;a href=&#34;https://iotables.dataobservatory.eu/articles/germany_1990.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Germany
+1990&lt;/a&gt;
+provides an introduction of input-output economics and re-creates the
+examples of the &lt;a href=&#34;https://iotables.dataobservatory.eu/articles/germany_1990.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurostat Manual of Supply, Use and Input-Output
+Tables&lt;/a&gt;,
+by Jörg Beutel (Eurostat Manual).&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://iotables.dataobservatory.eu/articles/united_kingdom_2010.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;United Kingdom Input-Output Analytical Tables Daniel Antal, based
+on the work edited by Richard
+Wild&lt;/a&gt;
+is a use case on how to correctly import data from outside Eurostat
+(i.e. not with &lt;code&gt;eurostat::get_eurostat()&lt;/code&gt;) and join it properly to a
+SIOT. We also used this example to create unit tests of our functions
+from a published, official government statistical release.&lt;/p&gt;
+&lt;p&gt;Finally, &lt;a href=&#34;https://iotables.dataobservatory.eu/articles/working_with_eurostat.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Working With Eurostat
+Data&lt;/a&gt;
+is a detailed use case of working with all the current functionalities
+of the package by comparing two economies, Czechia and Slovakia and
+guides you through a lot more examples than this short blogpost.&lt;/p&gt;
+&lt;p&gt;Our package was originally developed to calculate GVA and employment
+effects for the Slovak music industry (see our &lt;a href=&#34;https://music.dataobservatory.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak Music Industry Report&lt;/a&gt;), and similar calculations for the
+Hungarian film tax shelter. We can now programatically create
+reproducible multipliers for all European economies in the &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital
+Music Observatory&lt;/a&gt;, and create
+further indicators for economic policy making in the &lt;a href=&#34;https://economy.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Economy Data
+Observatory&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;environmental-impact-analysis&#34;&gt;Environmental Impact Analysis&lt;/h2&gt;
+&lt;p&gt;Our package allows the calculation of various economic policy scenarios,
+such as changing the VAT on meat or effects of re-opening music
+festivals on aggregate demand, GDP, tax revenues, or employment. But
+what about the &lt;em&gt;C**O&lt;/em&gt;&lt;sub&gt;2&lt;/sub&gt;, methane and other greenhouse gas
+effects of the reopening festivals, or the increasing meat prices?&lt;/p&gt;
+&lt;p&gt;Technically our package can already calculate such effects, but to do
+so, you have to carefully match further statistical vocabulary items
+used by the European Environmental Agency about air pollutants and
+greenhouse gases.&lt;/p&gt;
+&lt;p&gt;The last released version of &lt;em&gt;iotables&lt;/em&gt; is Importing and Manipulating
+Symmetric Input-Output Tables (Version 0.4.4). Zenodo.
+&lt;a href=&#34;https://zenodo.org/record/4897472&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5281/zenodo.4897472&lt;/a&gt;,
+but we are alread working on a new major release. In that release, we
+are planning to build in the necessary vocabulary into the metadata
+functions to increase the functionality of the package, and create new
+indicators for our &lt;a href=&#34;https://greendeal.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Deal Data
+Observatory&lt;/a&gt;. This experimental
+data observatory is creating new, high quality statistical indicators
+from open governmental and open science data sources that has not seen
+the daylight yet.&lt;/p&gt;
+&lt;h2 id=&#34;ropengov-and-the-eu-datathon-challenges&#34;&gt;rOpenGov and the EU Datathon Challenges&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-ropengov-reprex-and-other-open-collaboration-partners-teamed-up-to-build-on-our-expertise-of-open-source-statistical-software-development-further-we-want-to-create-a-technologically-and-financially-feasible-data-as-service-to-put-our-reproducible-research-products-into-wider-user-for-the-business-analyst-scientific-researcher-and-evidence-based-policy-design-communities&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/partners/rOpenGov-intro.png&#34; alt=&#34;rOpenGov, Reprex, and other open collaboration partners teamed up to build on our expertise of open source statistical software development further: we want to create a technologically and financially feasible data-as-service to put our reproducible research products into wider user for the business analyst, scientific researcher and evidence-based policy design communities.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      rOpenGov, Reprex, and other open collaboration partners teamed up to build on our expertise of open source statistical software development further: we want to create a technologically and financially feasible data-as-service to put our reproducible research products into wider user for the business analyst, scientific researcher and evidence-based policy design communities.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&#34;http://ropengov.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenGov&lt;/a&gt; is a community of open governmental
+data and statistics developers with many packages that make programmatic
+access and work with open data possible in the R language.
+&lt;a href=&#34;https://reprex.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reprex&lt;/a&gt; is a Dutch-startup that teamed up with
+rOpenGov and other open collaboration partners to create a
+technologically and financially feasible service to exploit reproducible
+research products for the wider business, scientific and evidence-based
+policy design community. Open data is a legal concept - it means that
+you have the rigth to reuse the data, but often the reuse requires
+significant programming and statistical know-how. We entered into the
+annual &lt;a href=&#34;https://reprex.nl/project/eu-datathon_2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EU Datathon&lt;/a&gt;
+competition in all three challenges with our applications to not only
+provide open-source software, but daily updated, validated, documented,
+high-quality statistical indicators as open data in an open database.
+Our &lt;a href=&#34;https://iotables.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iotables&lt;/a&gt; package is one of
+our many open-source building blocks to make open data more accessible
+to all.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Join our open collaboration Digital Music Observatory team as a &lt;a href=&#34;https://music.dataobservatory.eu/authors/curator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data curator&lt;/a&gt;, &lt;a href=&#34;https://music.dataobservatory.eu/authors/developer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;developer&lt;/a&gt; or &lt;a href=&#34;https://music.dataobservatory.eu/authors/team&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;business developer&lt;/a&gt;. More interested in environmental impact analysis? Try our &lt;a href=&#34;https://greendeal.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Deal Data Observatory&lt;/a&gt; team! Or economic policies, particularly computation antitrust, innovation and small enterprises? Check out our &lt;a href=&#34;https://economy.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Economy Music Observatory&lt;/a&gt; team!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reprex is Contesting all Three Challenges of the EU Datathon 2021 Prize</title>
+      <link>https://reprex.nl/post/2021-05-21-eu-datathon-2021/</link>
+      <pubDate>Fri, 21 May 2021 20:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/post/2021-05-21-eu-datathon-2021/</guid>
+      <description>&lt;p&gt;Reprex, a Dutch start-up enterprise formed to utilize open source software and open data, is looking for partners in an agile, open collaboration to win at least one of the three EU Datathon Prizes. We are looking for policy partners, academic partners and a consultancy partner. Our project is based on agile, open collaboration with three types of contributors.&lt;/p&gt;
+&lt;p&gt;With our competing prototypes we want to show that we have a research automation technology that can find open data, process it and validate it into high-quality business, policy or scientific indicators, and release it with daily refreshments in a modern API.&lt;/p&gt;
+&lt;p&gt;We are looking for institutions to challenge us with their data problems, and sponsors to increase our capacity. Over then next 5 months, we need to find a sustainable business model for a high-quality and open alternative to other public data programs.&lt;/p&gt;
+&lt;h2 id=&#34;the-eu-datathon-2021-challenge&#34;&gt;The EU Datathon 2021 Challenge&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;To take part, you should propose the development of an application that links and uses open datasets.&lt;/em&gt; - our &lt;a href=&#34;https://music.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data curator team&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Your application &amp;hellip; is also expected to find suitable new approaches and solutions to help Europe achieve important goals set by the European Commission through the use of open data.&lt;/em&gt;” - this application is developed by our &lt;a href=&#34;https://greendeal.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;technology contributors&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Your application should showcase opportunities for concrete business models or social enterprises.&lt;/em&gt; - our &lt;a href=&#34;https://economy.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;service development team&lt;/a&gt; is working to make this happen!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We use open source software and open data. The applications are hosted on the cloud resources of &lt;a href=&#34;#reprex&#34;&gt;Reprex&lt;/a&gt;, an early-stage technology startup currently building a viable, open-source, open-data business model to create reproducible research products.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We are working together with experts in the domain as curators (check out our guidelines if you want to join: &lt;a href=&#34;https://curators.dataobservatory.eu/data-curators.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Curators: Get Inspired!&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Our development team works on an open collaboration basis. Our indicator R packages, and our services are developed together with &lt;a href=&#34;https://music.dataobservatory.eu/author/ropengov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenGov&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;mission-statement&#34;&gt;Mission statement&lt;/h2&gt;
+&lt;p&gt;We want to win an &lt;a href=&#34;https://op.europa.eu/en/web/eudatathon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EU Datathon prize&lt;/a&gt; by processing the vast, already-available governmental and scientific open data made usable for policy-makers, scientific researchers, and business researcher end-users.&lt;/p&gt;
+&lt;p&gt;“&lt;em&gt;To take part, you should propose the development of an application that links and uses open datasets. Your application should showcase opportunities for concrete business models or social enterprises. It is also expected to find suitable new approaches and solutions to help Europe achieve important goals set by the European Commission through the use of open data.&lt;/em&gt;”&lt;/p&gt;
+&lt;p&gt;We aim to win at least one first prize in the EU Datathon 2021. We are contesting &lt;strong&gt;all three&lt;/strong&gt; challenges, which are related to the EU’s official strategic policies for the coming decade.&lt;/p&gt;
+&lt;h2 id=&#34;challenge-1-a-european-grean-deel&#34;&gt;Challenge 1: A European Grean Deel&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-our-green-deal-data-observatory-connects-socio-economic-and-environmental-data-to-help-understanding-and-combating-climate-change&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/observatory_screenshots/GD_Observatory_opening_page.png&#34; alt=&#34;Our Green Deal Data Observatory connects socio-economic and environmental data to help understanding and combating climate change.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Our Green Deal Data Observatory connects socio-economic and environmental data to help understanding and combating climate change.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Challenge 1: &lt;a href=&#34;https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A European Green Deal&lt;/a&gt;, with a particular focus on the &lt;a href=&#34;https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2323&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The European Climate Pact&lt;/a&gt;, the &lt;a href=&#34;https://ec.europa.eu/info/food-farming-fisheries/farming/organic-farming/organic-action-plan_en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Organic Action Plan&lt;/a&gt;, and the &lt;a href=&#34;https://ec.europa.eu/commission/presscorner/detail/en/IP_21_111&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New European Bauhaus&lt;/a&gt;, i.e., mitigation strategies.&lt;/p&gt;
+&lt;p&gt;Climate change and environmental degradation are an existential threat to Europe and the world. To overcome these challenges, the European Union created the European Green Deal strategic plan, which aims to make the EU’s economy sustainable by turning climate and environmental challenges into opportunities and making the transition just and inclusive for all.&lt;/p&gt;
+&lt;p&gt;Our &lt;a href=&#34;http://greendeal.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Deal Data Observatory&lt;/a&gt; is a modern reimagination of existing ‘data observatories’; currently, there are over 70 permanent international data collection and dissemination points. One of our objectives is to understand why the dozens of the EU’s observatories do not use open data and reproducible research. We want to show that open governmental data, open science, and reproducible research can lead to a higher quality and faster data ecosystem that fosters growth for policy, business, and academic data users.&lt;/p&gt;
+&lt;p&gt;We provide high quality, tidy data through a modern API which enables data flows between public and proprietary databases. We believe that introducing Open Policy Analysis standards with open data, open-source software, and research automation, can help the Green Deal policymaking process. Our collaboration is open for individuals, citizens scientists, research institutes, NGOS, and companies.&lt;/p&gt;
+&lt;h2 id=&#34;challenge-2-a-europe-fit-for-the-digital-age&#34;&gt;Challenge 2: A Europe fit for the digital age&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-our-economy-data-observatory-will-focus-on-competition-small-and-medium-sized-enterprizes-and-robotization&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/observatory_screenshots/edo_opening_page.jpg&#34; alt=&#34;Our Economy Data Observatory will focus on competition, small and medium sized enterprizes and robotization.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Our Economy Data Observatory will focus on competition, small and medium sized enterprizes and robotization.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Challenge 2: &lt;a href=&#34;https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people_en#:~:text=Individuals%20and%20businesses%20in%20the,needs%20of%20the%20EU%27s%20citizens.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An economy that works for people&lt;/a&gt;, with a particular focus on the &lt;a href=&#34;https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people/internal-market_en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Single market strategy&lt;/a&gt;, and particular attention to the strategy’s goals of 1. Modernising our standards system, 2. Consolidating Europe’s intellectual property framework, and 3. Enabling the balanced development of the collaborative economy strategic goals.&lt;/p&gt;
+&lt;p&gt;Big data and automation create new inequalities and injustices and have the potential to create a jobless growth economy. Our &lt;a href=&#34;https://economy.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Economy Data Observatory&lt;/a&gt; is a fully automated, open source, open data observatory that produces new indicators from open data sources and experimental big data sources, with authoritative copies and a modern API.&lt;/p&gt;
+&lt;p&gt;Our observatory monitors the European economy to protect consumers and small companies from unfair competition, both from data and knowledge monopolization and robotization. We take a critical Small and Medium-Sized Enterprises (SME)-, intellectual property, and competition policy point of view of automation, robotization, and the AI revolution on the service-oriented European social market economy.&lt;/p&gt;
+&lt;p&gt;We would like to create early-warning, risk, economic effect, and impact indicators that can be used in scientific, business, and policy contexts for professionals who are working on re-setting the European economy after a devastating pandemic in the age of AI. We are particularly interested in designing indicators that can be early warnings for killer acquisitions, algorithmic and offline discrimination against consumers based on nationality or place of residence, and signs of undermining key economic and competition policy goals. Our goal is to help small and medium-sized enterprises and start-ups to grow, and to furnish data that encourages the financial sector to provide loans and equity funds for their growth.&lt;/p&gt;
+&lt;h2 id=&#34;challenge-3-a-europe-fit-for-the-digital-age&#34;&gt;Challenge 3: A Europe fit for the digital age&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-our-digital-music-observatory-is-not-only-a-demo-of-the-european-music-observatory-but-a-testing-ground-for-data-governance-digital-servcies-act-and-trustworthy-ai-problems&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/observatory_screenshots/dmo_opening_screen.png&#34; alt=&#34;Our Digital Music Observatory is not only a demo of the European Music Observatory, but a testing ground for data governance, Digital Servcies Act, and trustworthy AI problems.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Our Digital Music Observatory is not only a demo of the European Music Observatory, but a testing ground for data governance, Digital Servcies Act, and trustworthy AI problems.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Challenge 3: &lt;a href=&#34;https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age_en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Europe fit for the digital age&lt;/a&gt;, with a particular focus &lt;a href=&#34;https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/excellence-trust-artificial-intelligence_en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificial Intelligence&lt;/a&gt;, the &lt;a href=&#34;https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Data Strategy&lt;/a&gt;, the &lt;a href=&#34;https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-services-act-ensuring-safe-and-accountable-online-environment_en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Services Act&lt;/a&gt;, &lt;a href=&#34;https://digital-strategy.ec.europa.eu/en/policies/digital-skills-and-jobs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Skills&lt;/a&gt; and &lt;a href=&#34;https://digital-strategy.ec.europa.eu/en/policies/connectivity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Connectivity&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt; (DMO) is a fully automated, open source, open data observatory that creates public datasets to provide a comprehensive view of the European music industry. It provides high-quality and timely indicators in all four pillars of the planned official European Music Observatory as a modern, open source and largely open data-based, automated, API-supported alternative solution for this planned observatory. The insight and methodologies we are refining in the DMO are applicable and transferable to about 60 other data observatories funded by the EU which do not currently employ governmental or scientific open data.&lt;/p&gt;
+&lt;p&gt;Music is one of the most data-driven service industries where most sales are currently executed by AI-driven autonomous systems that influence market shares and intellectual property remuneration. We provide a template that enables making these AI-driven systems accountable and trustworthy, with the goal of re-balancing the legitimate interests of creators, distributors, and consumers. Within Europe, this new balance will be an important use case of the European Data Strategy and the Digital Services Act.&lt;/p&gt;
+&lt;p&gt;The DMO is a fully functional service that can serve as a testing ground of the European Data Strategy. It can showcase the ways in which the music industry is affected by the problems that the Digital Services Act and European Trustworthy AI initiatives attempt to regulate. It is being built in open collaboration with national music stakeholders, NGOs, academic institutions, and industry groups.&lt;/p&gt;
+&lt;p&gt;Our Product/Market Fit was validated in the world’s 2nd ranked university-backed incubator program, the &lt;a href=&#34;https://music.dataobservatory.eu/post/2020-09-25-yesdelft-validation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI Validation Lab&lt;/a&gt;. We are currently developing this project with the help of the &lt;a href=&#34;https://www.jumpmusic.eu/fellow2021/automated-music-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JUMP European Music Market Accelerator&lt;/a&gt; program.&lt;/p&gt;
+&lt;h2 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h2&gt;
+&lt;p&gt;The EU has an 18-year-old open data regime and it makes public taxpayer-funded data in the values of tens of billions of euros per year; the Eurostat program alone handles 20,000 international data products, including at least 5,000 pan-European environmental indicators.&lt;/p&gt;
+&lt;p&gt;As open science principles gain increased acceptance, scientific researchers are making hundreds of thousands of valuable datasets public and available for replication every year.&lt;/p&gt;
+&lt;p&gt;The EU, the OECD, and UN institutions run around 100 data collection programs, so-called ‘data observatories’ that more or less avoid touching this data, and buy proprietary data instead. Annually, each observatory spends between 50 thousand and 3 million EUR on collecting untidy and proprietary data of inconsistent quality, while never even considering open data.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-our-automated-data-observatories-are-modern-reimaginations-of-the-existing-observatories-that-do-not-use-open-data-and-research-automation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/observatory_screenshots/observatory_collage_16x9_800.png&#34; alt=&#34;Our automated data observatories are modern reimaginations of the existing observatories that do not use open data and research automation.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Our automated data observatories are modern reimaginations of the existing observatories that do not use open data and research automation.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The problem with the current EU data strategy is that while it produces enormous quantities of valuable open data, in the absence of common basic data science and documentation principles, it seems often cheaper to create new data than to put the existing open data into shape.&lt;/p&gt;
+&lt;p&gt;This is an absolute waste of resources and efforts. With a few R packages and our deep understanding of advanced data science techniques, we can create valuable datasets from unprocessed open data. In most domains, we are able to repurpose data originally created for other purposes at a historical cost of several billions of euros, converting these unused data assets into valuable datasets that can replace tens of millions’ worth of proprietary data.&lt;/p&gt;
+&lt;p&gt;What we want to achieve with this project – and we believe such an accomplishment would merit one of the first prizes - is to add value to a significant portion of pre-existing EU open data (for example, available on &lt;a href=&#34;https://data.europa.eu/data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data.europa.eu/data&lt;/a&gt;) by re-processing and integrating them into a modern, tidy database with an API access, and to find a business model that emphasises a triangular use of data in 1. business, 2. science and 3. policy-making. Our mission is to modernize the concept of &lt;code&gt;data observatories.&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

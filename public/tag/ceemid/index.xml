@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CEEMID | Reprex</title>
+    <link>https://reprex.nl/tag/ceemid/</link>
+      <atom:link href="https://reprex.nl/tag/ceemid/index.xml" rel="self" type="application/rss+xml" />
+    <description>CEEMID</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>CEEMID</title>
+      <link>https://reprex.nl/tag/ceemid/</link>
+    </image>
+    
+    <item>
+      <title>CEEMID</title>
+      <link>https://reprex.nl/project/ceemid/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/project/ceemid/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;CEEMID&lt;/strong&gt; was multi-country project that was a predecessor of Reprex’s &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt;. It transferred thousands of indicators to the Digital Music Observatory and offered it to the future European Music Observatory.&lt;/p&gt;
+&lt;p&gt;The CEEMID project (2014-2020) formed the basis of our first data observatory &amp;mdash; the challenges of a 12-country data collection and sharing project forced our team to find novel software, data governance and data processing solution that fitted a very fragmented, multi-language music industry with many internal and external challenges.  We showed that we can provide reach, data-driven evidence in seemingly data poor countries. We can find alternative data sources when there are no data vendors, no official government statistics are present, or when important data assets cannot be used due to business confidentiality clauses.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-central-european-music-industry-report-2020httpsceereport2020ceemideu-concluded-the-ceemid-project-showing-that-building-meaningful-statistical-indicators-for-the-live-performance-recording-and-publishing-sides-of-the-music-industry-is-possible-even-in-seemingly-data-poor-emerging-and-future-markets-our-report-was-presented-as-a-best-practicehttpsmusicdataobservatoryeupost2020-01-30-ceereport-by-the-european-commission-and-the-geothe-institute-in-2020&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The [Central European Music Industry Report 2020](https://ceereport2020.ceemid.eu/) concluded the CEEMID project showing that building meaningful statistical indicators for the live performance, recording and publishing sides of the music industry is possible even in seemingly data poor emerging and future markets. Our Report was presented as a [best practice](https://music.dataobservatory.eu/post/2020-01-30-ceereport/) by the European Commission and the Geothe Institute in 2020.&#34; srcset=&#34;
+               /media/img/reports/ceereport_2020/frontcover_wide_hu0a0f30584267a2cdec6691beefdbbc9f_34932_9ec4301f74d6efc3db691db5b5db6a66.webp 400w,
+               /media/img/reports/ceereport_2020/frontcover_wide_hu0a0f30584267a2cdec6691beefdbbc9f_34932_e012b143d3ea788b7a97acc9447d0897.webp 760w,
+               /media/img/reports/ceereport_2020/frontcover_wide_hu0a0f30584267a2cdec6691beefdbbc9f_34932_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/reports/ceereport_2020/frontcover_wide_hu0a0f30584267a2cdec6691beefdbbc9f_34932_9ec4301f74d6efc3db691db5b5db6a66.webp&#34;
+               width=&#34;400&#34;
+               height=&#34;200&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The &lt;a href=&#34;https://ceereport2020.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report 2020&lt;/a&gt; concluded the CEEMID project showing that building meaningful statistical indicators for the live performance, recording and publishing sides of the music industry is possible even in seemingly data poor emerging and future markets. Our Report was presented as a &lt;a href=&#34;https://music.dataobservatory.eu/post/2020-01-30-ceereport/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;best practice&lt;/a&gt; by the European Commission and the Geothe Institute in 2020.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;In 2019 we offered CEEMID as one possible alternative to building the European Music Observatory. In our experience and understanding, the music industry has many failed international data projects because of the inherent conflicts of interests among big and large countries, authors and producers, producers, and performers, and in 2020 we launched our &lt;a href=&#34;https://reprex.nl/observatories/music&#34;&gt;Digital Music Observatory&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;From an early stage, there has been an interest in our solutions from newer and newer industries. During the validation of our observatory’s product/market fit, we realized that we gave a novel solution to a problem that is not at all unique to the music industry. The fragmentation of data assets among the institutional boundaries of small enterprises and NGOs, the fragmentation of research budgets that disallow comprehensive data collection problems, the reliance on questionable quality and hard-to-integrate public and third-party data is present in almost all business and policy domains.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-case-study-in-belgiumhttpsgreendealdataobservatoryeupost2021-04-23-belgium-flood-insurance-brings-together-open-data-in-a-novel-way-from-satellite-hydrological-opinion-polling-and-tax-administration-data-to-show-the-geographical-overlap-of-catastrophic-drought-and-flood-risk-with-the-local-political-awareness-and-financial-capacity-to-manage-it-our-approach-to-music-data-turned-out-to-be-applicable-in-many-situations-when-the-data-and-the-research-capacities-are-fragmented&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The [Case Study in Belgium](https://greendeal.dataobservatory.eu/post/2021-04-23-belgium-flood-insurance/) brings together open data in a novel way from satellite, hydrological, opinion polling and tax administration data to show the geographical overlap of catastrophic drought and flood risk with the local political awareness and financial capacity to manage it. Our approach to music data turned out to be applicable in many situations when the data and the research capacities are fragmented.&#34; srcset=&#34;
+               /media/slides/Crunchconf_2021/Slide6_hu0af4a93231d6f282471b1ca73533e509_486981_7b5fa0d4e7334a14dac31c4342cb051b.webp 400w,
+               /media/slides/Crunchconf_2021/Slide6_hu0af4a93231d6f282471b1ca73533e509_486981_32bd08887b964300ff44300fa3635464.webp 760w,
+               /media/slides/Crunchconf_2021/Slide6_hu0af4a93231d6f282471b1ca73533e509_486981_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/slides/Crunchconf_2021/Slide6_hu0af4a93231d6f282471b1ca73533e509_486981_7b5fa0d4e7334a14dac31c4342cb051b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The &lt;a href=&#34;https://greendeal.dataobservatory.eu/post/2021-04-23-belgium-flood-insurance/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Case Study in Belgium&lt;/a&gt; brings together open data in a novel way from satellite, hydrological, opinion polling and tax administration data to show the geographical overlap of catastrophic drought and flood risk with the local political awareness and financial capacity to manage it. Our approach to music data turned out to be applicable in many situations when the data and the research capacities are fragmented.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;We developed reliable software tools and know-how bring up reusable open government and open science data, which are available upon request in developed countries like raw diamonds, without the polishing of data scientists, documentation, or modern databases. We learned how to build a decentralized approach to data sharing and resource pooling using the agile open collaboration method of open-source software development. We became experts in handling legally open data and freedom of information requests on an industrial scale.  After the launch of the Digital Music Observatory, we started building three new observatories with various partners in Computational Antitrust, Green Deal (climate change) and the broader Cultural Creative Sectors &amp;amp; Industries.&lt;/p&gt;
+&lt;p&gt;CEEMID did not only work with public and openly accessible data.  We used these novel sources when other data was not available, legally could not be used, or it was prohibitively expensive.  But most of the value we created for music rightsholders required the management of highly confidential data. We know that a public data observatory is not ideal for all potential users.  We are piloting fully private observatories, and a blend of pubic (and therefore widely trustworthy) and proprietary hybrid observatories based on the experience of the ‘public’  and ‘private’ layers of CEEMID.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-historically-ceemid-started-out-as-the-_central-and-eastern-european-music-industry-databases_-out-of-necessity-following-a-cisac-good-governance-seminar-for-european-societieshttpsceemideupost2013-11-18_cisac_goodgov-in-2013-and-eventually-grew-out-of-an-abandoned-gesac-project-the-adoption-of-european-single-market-and-copyright-rules-and-the-increased-activity-of-competition-authority-and-regulators-required-a-more-structured-approach-to-set-collective-royalty-and-compensations-tariffs-in-a-region-that-was-regarded-traditionally-as-data-poor-with-lower-quantity-of-industry-and-government-data-sources-available&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Historically CEEMID started out as the _Central and Eastern European Music Industry Databases_ out of necessity following a [CISAC Good Governance Seminar for European Societies](https://ceemid.eu/post/2013-11-18_cisac_goodgov/) in 2013, and eventually grew out of an abandoned GESAC project. The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in a region that was regarded traditionally as data-poor with lower quantity of industry and government data sources available.&#34; srcset=&#34;
+               /media/img/slides/cisac_good_governance_2013_hub4b4b5255bd977bbebff8bcf47ad0e98_125454_2a3799832a54545b105f9274407e0bd6.webp 400w,
+               /media/img/slides/cisac_good_governance_2013_hub4b4b5255bd977bbebff8bcf47ad0e98_125454_a0e06b6864abe2a0479b94c611245453.webp 760w,
+               /media/img/slides/cisac_good_governance_2013_hub4b4b5255bd977bbebff8bcf47ad0e98_125454_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/slides/cisac_good_governance_2013_hub4b4b5255bd977bbebff8bcf47ad0e98_125454_2a3799832a54545b105f9274407e0bd6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;526&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Historically CEEMID started out as the &lt;em&gt;Central and Eastern European Music Industry Databases&lt;/em&gt; out of necessity following a &lt;a href=&#34;https://ceemid.eu/post/2013-11-18_cisac_goodgov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CISAC Good Governance Seminar for European Societies&lt;/a&gt; in 2013, and eventually grew out of an abandoned GESAC project. The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in a region that was regarded traditionally as data-poor with lower quantity of industry and government data sources available.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;In 2014 three societies, Artisjus, HDS and SOZA realized that need to make further efforts to modernize the way they measure their own economic impact, the economic value of their licenses to remain competitive in advocating the interests vis-à-vis domestic governments, international organizations like CISAC and GESAC and the European Union. They signed a Memorandum of Understanding with their consultant to set up the CEEMID databases and to harmonize their efforts. The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in a region that was regarded traditionally as data-poor with lower quantity of industry and government data sources available, but quickly covered the whole European area (Read more about our &lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Main_Page#Data_Coverage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data coverage&lt;/a&gt; and our pan-European &lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Main_Page#Geographic_Coverage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;geographical coverage&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;We believe that CEEMID could fulfill the functions of the European Music Industry if it would find a sustainable financing that makes access to all our data open. We need to be able to avoid the &lt;a href=&#34;https://en.wikipedia.org/wiki/Tragedy_of_the_commons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tragedy of the commons&lt;/a&gt;, where only a few industry users contribute to the financing of thousands of indicators that could potentially benefits tens of thousands of stakeholders in the EU.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

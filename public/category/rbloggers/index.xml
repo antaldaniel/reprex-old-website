@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rbloggers | Reprex</title>
+    <link>https://reprex.nl/category/rbloggers/</link>
+      <atom:link href="https://reprex.nl/category/rbloggers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rbloggers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2022 08:13:55 +0200</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>Rbloggers</title>
+      <link>https://reprex.nl/category/rbloggers/</link>
+    </image>
+    
+    <item>
+      <title>iotables: Integrate Data from Reliable Statistical Sources for Economic and Environmental Impact Analysis</title>
+      <link>https://reprex.nl/post/2022-09-24_iotables_release/</link>
+      <pubDate>Sat, 24 Sep 2022 08:13:55 +0200</pubDate>
+      <guid>https://reprex.nl/post/2022-09-24_iotables_release/</guid>
+      <description>&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-download-iotableshttpsiotablesdataobservatoryeu&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Download [iotables](https://iotables.dataobservatory.eu/)&#34; srcset=&#34;
+               /media/img/screenshots/iotables_16x9_20220924_hu4b2e6c38561a6427131d3d3870d829af_142818_6985e8c665c26941f85a6f35ad86086e.webp 400w,
+               /media/img/screenshots/iotables_16x9_20220924_hu4b2e6c38561a6427131d3d3870d829af_142818_d4ef3da6ab4fb4f7314ccecbc6dde91c.webp 760w,
+               /media/img/screenshots/iotables_16x9_20220924_hu4b2e6c38561a6427131d3d3870d829af_142818_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/screenshots/iotables_16x9_20220924_hu4b2e6c38561a6427131d3d3870d829af_142818_6985e8c665c26941f85a6f35ad86086e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Download &lt;a href=&#34;https://iotables.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iotables&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;The iotables R package is an open-source, scientifically validated package that collects and integrates data from reliable statistical sources and performs economic and environmental impact analysis. It is the backbone of our connected financial-sustainability reporting tool, Eviota, because it can analyze the value chains of 64 industries in every European country for free. It is your starting point to calculate employment, tax, or greenhouse gas multipliers for various policy actions in your country.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The 0.9.1 version of iotables was released today on CRAN. This new minor release contains a bug fix reported by a user and some documentation improvements. Check out our &lt;a href=&#34;https://iotables.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;product page&lt;/a&gt; and our &lt;a href=&#34;https://iotables.dataobservatory.eu/articles/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;examples&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;The iotables package works with the open-source R statistical environment. We programmed every example of the &lt;a href=&#34;https://ec.europa.eu/eurostat/documents/3859598/5902113/KS-RA-07-013-EN.PDF/b0b3d71e-3930-4442-94be-70b36cea9b39?version=1.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurostat Manual of Supply, Use and Input-Output Tables&lt;/a&gt;, which can be used both as a control tool for our package and as a comprehensive, extended handbook on use.&lt;/li&gt;
+&lt;li&gt;We have also started to meet the demands of a more global audience by adding more and more examples from the  &lt;a href=&#34;https://unstats.un.org/unsd/nationalaccount/docs/SUT_IOT_HB_Final_Cover.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Handbook on Supply and Use Tables and Input-Output Tables with Extensions and Applications&lt;/a&gt; published by the United Nations. Our goal is to make both our iotables a free analytic and data processing tool and our premium Eviota ESG reporting premium solution applicable anywhere in the world.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# From CRAN:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;install.packages&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;iotables&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# From Github (development version)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;devtools&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;install_github&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;rOpenGov/iotables&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# with vignettes:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;devtools&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;install_github&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;rOpenGov/iotables&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;build_vignettes&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;TRUE&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The iotables tool has hundreds of technical and professional users in the world. We know that it is not for the faint heart. In 2022 we started the development of a tool that will create impact assessments for small companies or civil society organizations without the need to learn and use R.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learn R with Reprex</title>
+      <link>https://reprex.nl/slides/learnr-with-reprex/</link>
+      <pubDate>Wed, 21 Sep 2022 16:00:00 +0200</pubDate>
+      <guid>https://reprex.nl/slides/learnr-with-reprex/</guid>
+      <description>&lt;h1 id=&#34;big-data-creates-inequalities&#34;&gt;Big Data Creates Inequalities&lt;/h1&gt;
+&lt;p&gt;Only the largest corporations, best-endowed universities, and rich governments can afford data collection and processing capacities that are large enough to harness the advantages of AI.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slide-navigation&#34;&gt;Slide navigation&lt;/h2&gt;
+&lt;p&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;️&amp;gt;&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt; | Previous :️&lt;code&gt;&amp;lt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt; | Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;|  Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click 🖱️&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;big-data-that-works-for-all&#34;&gt;Big data that works for all&lt;/h1&gt;
+&lt;p&gt;Reprex: No matter how big is the problem or how small is your team, we fill your reports, dashboards, newsletters, books with data and its visualization.&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;retroharmonize_example_1.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;retroharmonize_example_2.webp&#34;
+  &gt;
+
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;retroharmonize_readme.webp&#34;
+  &gt;
+
+&lt;h2 id=&#34;run-code-from-tutorials&#34;&gt;Run code from tutorials&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;github_issues_spotifyR&#34;
+  &gt;
+
+&lt;h2 id=&#34;find-help-ask-for-help-reprex&#34;&gt;Find help, ask for help: reprex&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;retroharmonize_tutorials.webp&#34;
+  &gt;
+
+&lt;h2 id=&#34;documentation-for-better-tutorials&#34;&gt;Documentation for better tutorials&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;retroharmonize_r_testthat.webp&#34;
+  &gt;
+
+&lt;h2 id=&#34;debugging-and-testing-code&#34;&gt;Debugging and testing code&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;retroharmonize_r_documentation.webp&#34;
+  &gt;
+
+&lt;h2 id=&#34;contribute-to-documentation&#34;&gt;Contribute to documentation&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;retroharmonize_r_code.webp&#34;
+  &gt;
+
+&lt;h2 id=&#34;r-is-a-functional-language&#34;&gt;R is a functional language&lt;/h2&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;rmd_example.webp&#34;
+  &gt;
+
+&lt;h2 id=&#34;r--yaml--markdown--web-ready&#34;&gt;R + YAML + markdown = web ready&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;retroharmonize_website.webp&#34;
+  &gt;
+
+&lt;h2 id=&#34;package-and-release-a-team-effort&#34;&gt;Package and release: a team effort&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-problems-reprex&#34;&gt;Data problems: Reprex&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:95%&#34;&gt;Most SMEs, and civil society organizations do not have a data scientist/engineer in their team, maybe not even an IT person or a HR professional to make such a hire.&lt;/p?
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:95%&#34;&gt;When these organizations must solve novel problems, like connecting their financial accounts with environmental and social impact data or connecting to automated transaction systems (like in music), they need novel solutions that do not require managing a database within their organization.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-problems-eviota&#34;&gt;Data problems: Eviota&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:95%&#34;&gt;Most SMEs, and civil society organizations do not have a data scientist/engineer in their team, maybe not even an IT person or a HR professional to make such a hire.&lt;/p?
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:95%&#34;&gt;To access green bank loans, insurance products, subsidies, or investments, or to keep track of their sustainability goals in line with the Paris Accord or gender equality plan, organizations must connect their accounting system to external environmental data.  We connect their accounts with impact estimates from reliable scientific sources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-problems-examples&#34;&gt;Data problems (examples)&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width:200px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;difficulty_bills_levels.jpg&#34; height=&#34;130&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;The cost of questionnaire-based market research (survey) is increasing exponentially and offers mediocre results without an enormous question bank and harmonization with other surveys.(See &lt;a href=&#34;https://reprex.nl/data/surveys/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 blogpost&lt;/a&gt;) &lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;photo-1490004047268-5259045aa2b4.jpg&#34; height=&#34;130&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Manual data acquisition is an error-prone and boring task for humans that requires many working hours (often not credited in consultancies, law firms, or research institutes.)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;Sisyphus_Bodleian_Library.png&#34;  height=&#34;130&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;p style=&#34;font-size:65%&#34;&gt;Wrangling spreadsheet tables or word processor documents by people without data knowledge is the &lt;a href=&#34;https://reprex.nl/post/2021-07-08-data-sisyphus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;🖱 data Sisyphus&lt;/a&gt;.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;our-solution-reprex&#34;&gt;Our solution: Reprex&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;We create data ecosystems with the modernization of the EU/OECD/UN-endorsed &#39;data observatory&#39; concept. Our data observatory 3.0 uses the knowledge graphs of the web of data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;We acquire and process data on a scale in our data observatories. We acquire and process data on a scale in our data observatories. Our approach significantly reduces the cost of data acquisition and opens invisible, reliable governmental and scientific data sources. We are currently building five observatories, and one of them is already mature enough to be considered for official EU recognition (serving the music industry).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;We provide applications, for example, our Eviota application, which connects financial accounts with environmental and social data, and crates reliable indicators and benchmarks for the requirements of the sustainable finance package. &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;our-solution-eviota-non-financial&#34;&gt;Our solution: Eviota (Non-Financial)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:80%&#34;&gt;We create data ecosystems with the modernization of the EU/OECD/UN-endorsed &#39;data observatory&#39; concept. Our Green Deal Data Observatory uses the knowledge graphs of the web of data and gives access to reliable, often unseen, hard-to-access ESG data sources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;We acquire and process data on a scale in our data observatories. Our approach significantly reduces the cost of data acquisition and opens invisible, reliable governmental and scientific data sources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:85%&#34;&gt;We provide applications, for example, our Eviota application, which connects financial accounts with environmental and social data, and crates reliable indicators and benchmarks for the requirements of the sustainable finance package.  Unlike our competitors, we can serve SMEs, too, at a competitive cost.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;our-solution-eviota-for-banks&#34;&gt;Our solution: Eviota (For Banks)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:70%&#34;&gt;We create data ecosystems with the modernization of the EU/OECD/UN-endorsed &#39;data observatory&#39; concept. Our Green Deal Data Observatory uses the knowledge graphs of the web of data and gives access to reliable, often unseen, hard-to-access ESG data sources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:70%&#34;&gt;We acquire and process data on a scale in our data observatories. Our approach significantly reduces the cost of data acquisition and opens invisible, reliable governmental and scientific data sources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&#34;font-size:70%&#34;&gt;We provide applications, for example, our Eviota application, which connects financial accounts with environmental and social data, and crates reliable indicators and benchmarks for the requirements of the sustainable finance package. We are validating our product in the regulatory sandbox of a central bank to show that we provide a cost-effective solution to many regulatory problems opened by the new [sustainable finance package of the EU](https://finance.ec.europa.eu/publications/sustainable-finance-package_en).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://reprex.nl/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Email&lt;/a&gt; | &lt;a href=&#34;https://keybase.io/team/reprexcommunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keybase&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/antaldaniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Antal&lt;/a&gt; - &lt;a href=&#34;https://www.linkedin.com/company/68855596&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reprex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://reprex.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Home&lt;/a&gt; - &lt;a href=&#34;https://reprex.nl/talk/impactcity-startup-support-xl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;One Pager ImpactCity Startup Support XL&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

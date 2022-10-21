@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trustworthy-ai | Reprex</title>
+    <link>https://reprex.nl/tag/trustworthy-ai/</link>
+      <atom:link href="https://reprex.nl/tag/trustworthy-ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>trustworthy-ai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jun 2021 07:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>trustworthy-ai</title>
+      <link>https://reprex.nl/tag/trustworthy-ai/</link>
+    </image>
+    
+    <item>
+      <title>Open Data is Like Gold in the Mud Below the Chilly Waves of Mountain Rivers</title>
+      <link>https://reprex.nl/post/2021-06-10-founder-daniel-antal/</link>
+      <pubDate>Thu, 10 Jun 2021 07:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/post/2021-06-10-founder-daniel-antal/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-open-data-is-like-gold-in-the-mud-below-the-chilly-waves-of-mountain-rivers-panning-it-out-requires-a-lot-of-patience-or-a-good-machine&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Open data is like gold in the mud below the chilly waves of mountain rivers. Panning it out requires a lot of patience, or a good machine.&#34; srcset=&#34;
+               /media/img/slides/gold_panning_slide_notitle_hu8f7296f20da8c17f972a0534c44322c2_1382486_b042523dffe8143dea3d8c8c9c3262f4.webp 400w,
+               /media/img/slides/gold_panning_slide_notitle_hu8f7296f20da8c17f972a0534c44322c2_1382486_faa00e96d3d0b700cfcf1daa513f3ad2.webp 760w,
+               /media/img/slides/gold_panning_slide_notitle_hu8f7296f20da8c17f972a0534c44322c2_1382486_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/slides/gold_panning_slide_notitle_hu8f7296f20da8c17f972a0534c44322c2_1382486_b042523dffe8143dea3d8c8c9c3262f4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Open data is like gold in the mud below the chilly waves of mountain rivers. Panning it out requires a lot of patience, or a good machine.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;As the founder of the automated data observatories that are part of Reprex’s core activities, what type of data do you usually use in your day-to-day work?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The automated data observatories are results of syndicated research, data pooling, and other creative solutions to the problem of missing or hard-to-find data. The music industry is a very fragmented industry, where market research budgets and data are scattered in tens of thousands of small organizations in Europe. Working for the music and film industry as a data analyst and economist was always a pain because most of the efforts went into trying to find any data that can be analyzed. I spent most of the last 7-8 years trying to find any sort of information—from satellites to government archives—that could be formed into actionable data. I see three big sources of information: textual,numeric, and continuous recordings for on-site, offsite, and satellite sensors. I am much better with numbers than with natural language processing, and I am &lt;a href=&#34;https://greendeal.dataobservatory.eu/post/2021-06-06-tutorial-cds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;improving with sensory sources&lt;/a&gt;. But technically, I can mint any systematic information—the text of an old book, a satellite image, or an opinion poll—into datasets.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For you, what would be the ultimate dataset, or datasets that you would like to see in the Economy Data Observatory?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I am a data scientist now, but I used to be a regulatory economist, and I have worked a lot with competition policy and monopoly regulation issues. Our observatories can automatically monitor market and environmental processes, which would allow us to get into computational antitrust. Peter Ormosi, our competition curator, is particularly &lt;a href=&#34;https://economy.dataobservatory.eu/post/2021-06-02-data-curator-peter-ormosi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;interested in&lt;/a&gt; killer acquisitions: approved mergers of big companies that end up piling up patents that are not used. I am more interested in describing systematically which markets are getting more concentrated and more competitive, in real time. Does data concentration coincide with market concentration?&lt;/p&gt;
+&lt;p&gt;To bring an example from the realm of our &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt;, which was a prototype to this one, I have been working for some time on creating streaming volume and price indexes, like the &lt;em&gt;Dow Jones Industrial Average&lt;/em&gt; or the various bond market indexes, that talk more about price, demand, and potential revenue in music streaming markets all over the world. We did a first take on this in the &lt;a href=&#34;https://ceereport2020.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report&lt;/a&gt; and recently we iterated on the model for the &lt;em&gt;UK Intellectual Property Office&lt;/em&gt; and the &lt;em&gt;UK Music Creators’ Earnings&lt;/em&gt; project. We want to take this further to create a pan-Europe streaming market index, and we will be probably the first to actually be able to report on music market concentrations, and in fact, more or less in a real-time mode.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-we-would-like-to-further-developer-our-20-country-streaming-indexeshttpsceereport2020ceemideumarkethtmlceemid-ci-volume-indexes-into-a-global-music-market-index&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;We would like to further developer our 20-country [streaming indexes]((https://ceereport2020.ceemid.eu/market.html#ceemid-ci-volume-indexes)) into a global music market index.&#34; srcset=&#34;
+               /media/img/blogposts_2021/medianvalue-1_hu5941f179e15628adbbb6d4dc0db86cd1_46382_59d954e926db1ce3ce9376aac454a3aa.webp 400w,
+               /media/img/blogposts_2021/medianvalue-1_hu5941f179e15628adbbb6d4dc0db86cd1_46382_75d58bfbbfae9d25c5551030d6d4206a.webp 760w,
+               /media/img/blogposts_2021/medianvalue-1_hu5941f179e15628adbbb6d4dc0db86cd1_46382_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/blogposts_2021/medianvalue-1_hu5941f179e15628adbbb6d4dc0db86cd1_46382_59d954e926db1ce3ce9376aac454a3aa.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      We would like to further developer our 20-country &lt;a href=&#34;%28https://ceereport2020.ceemid.eu/market.html#ceemid-ci-volume-indexes%29&#34;&gt;streaming indexes&lt;/a&gt; into a global music market index.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Is there a number or piece of information that recently surprised you? If so, what was it?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There were a few numbers that surprised me, and some of them were brought up by our observatory teams. Karel is &lt;a href=&#34;post/2021-06-08-data-curator-karel-volckaert/&#34;&gt;talking&lt;/a&gt; about the fact that not all green energy is green at all: many hydropower stations contribute to the greenhouse effect and not reduce it. Annette brought up the growing interest in the &lt;a href=&#34;https://reprex.nl/post/2021-06-09-team-annette-wong/&#34;&gt;Dalmatian breed&lt;/a&gt; after the Disney &lt;em&gt;101 Dalmatians&lt;/em&gt; movies, and it reminded me of the astonishing growth in interest for chess sets, chess tutorials, and platform subscriptions after the success of Netflix’s &lt;em&gt;The Queen’s Gambit&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-queens-gambit-chess-boom-moves-online-by-rachael-dottle-on-bloombergcomhttpswwwbloombergcomgraphics2020-chess-boom&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*The Queen’s Gambit’ Chess Boom Moves Online By Rachael Dottle* on [bloomberg.com](https://www.bloomberg.com/graphics/2020-chess-boom/)&#34; srcset=&#34;
+               /media/img/blogposts_2021/queens_gambit_bloomberg_hub50434a1789646b36daf41ad10e65b52_92708_4fc47acea402086dd3891772877289db.webp 400w,
+               /media/img/blogposts_2021/queens_gambit_bloomberg_hub50434a1789646b36daf41ad10e65b52_92708_b60a154be5ab781fb70d16f62f39966c.webp 760w,
+               /media/img/blogposts_2021/queens_gambit_bloomberg_hub50434a1789646b36daf41ad10e65b52_92708_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/blogposts_2021/queens_gambit_bloomberg_hub50434a1789646b36daf41ad10e65b52_92708_4fc47acea402086dd3891772877289db.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      &lt;em&gt;The Queen’s Gambit’ Chess Boom Moves Online By Rachael Dottle&lt;/em&gt; on &lt;a href=&#34;https://www.bloomberg.com/graphics/2020-chess-boom/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bloomberg.com&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Annette is talking about the importance of cultural influencers, and on that theme, what could be more exciting that &lt;a href=&#34;https://www.netflix.com/nl-en/title/80234304&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netflix’s biggest success&lt;/a&gt; so far is not a detective series or a soap opera but a coming-of-age story of a female chess prodigy. Intelligence is sexy, and we are in the intelligence business.&lt;/p&gt;
+&lt;p&gt;But to tell a more serious and more sobering number, I recently read with surprise that there are &lt;a href=&#34;https://www.theguardian.com/society/2021/may/27/number-of-smokers-has-reached-all-time-high-of-11-billion-study-finds&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;more people smoking cigarettes&lt;/a&gt; on Earth in 2021 than in 1990. Population growth in developing countries replaced the shrinking number of developed country smokers. While I live in Europe, where smoking is strongly declining, it reminds me that Europe’s population is a small part of the world. We cannot take for granted that our home-grown experiences about the world are globally valid.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Do you have a good example of really good, or really bad use of data?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://fivethirtyeight.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FiveThirtyEight.com&lt;/a&gt; had a wonderful podcast series, produced by Jody Avirgan, called &lt;em&gt;What’s the Point&lt;/em&gt;.  It is exactly about good and bad uses of data, and each episode is super interesting. Maybe the most memorable is &lt;em&gt;Why the Bronx Really Burned&lt;/em&gt;. New York City tried to measure fire response times, identify redundancies in service, and close or re-allocate fire stations accordingly. What resulted, though, was a perfect storm of bad data: The methodology was flawed, the analysis was rife with biases, and the results were interpreted in a way that stacked the deck against poorer neighborhoods. It is similar to many stories told in a very compelling argument by Catherine D’Ignazio and Lauren F. Klein in their much celebrated book,  &lt;em&gt;Data Feminism&lt;/em&gt;. Usually, the bad use of data starts with a bad data collection practice. Data analysts in corporations, NGOs, public policy organizations and even in science usually analyze the data that is available.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can find these examples, together with many more that our contributors recommend, in the motivating examples of &lt;a href=&#34;https://contributors.dataobservatory.eu/data-curators.html#create-new-datasets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Create New Datasets&lt;/a&gt; and the &lt;a href=&#34;https://contributors.dataobservatory.eu/data-curators.html#critical-attitude&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Remain Critical&lt;/a&gt; parts of our onboarding material. We hope that more and more professionals and citizen scientist will help us to create high-quality and open data.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The real power lies in designing a data collection program. A consistent data collection program usually requires an investment that only powerful organizations, such as government agencies, very large corporations, or the richest universities can afford. You cannot really analyze the data that is not collected and recorded; and usually what is not recorded is more interesting than what is. Our observatories want to democratize the data collection process and make it more available, more shared with research automation and pooling.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-you-cannot-really-analyze-the-data-that-is-not-collected-and-recorded-and-usually-what-is-not-recorded-is-more-interesting-than-what-is-our-observatories-want-to-democratize-the-data-collection-process-and-make-it-more-available-more-shared-with-research-automation-and-pooling&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/slides/value_added_from_automation.png&#34; alt=&#34;You cannot really analyze the data that is not collected and recorded; and usually what is not recorded is more interesting than what is. Our observatories want to democratize the data collection process and make it more available, more shared with research automation and pooling.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      You cannot really analyze the data that is not collected and recorded; and usually what is not recorded is more interesting than what is. Our observatories want to democratize the data collection process and make it more available, more shared with research automation and pooling.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;From your perspective, what do you see being the greatest problem with open data in 2021?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I have been involved with open data policies since 2004. The problem has not changed much: more and more data are available from governmental and scientific sources, but in a form that makes them useless. Data without clear description and clear processing information is useless for analytical purposes: it cannot be integrated with other data, and it cannot be trusted and verified. If researchers or government entities that fall under the &lt;a href=&#34;https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.172.01.0056.01.ENG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Directive&lt;/a&gt; release data for reuse in a way that does not have descriptive or processing metadata, it is almost as if they did not release anything. You need this additional information to make valid analyses of the data, and to reverse-engineer them may cost more than to recollect the data in a properly documented process. Our developers, particularly &lt;a href=&#34;https://reprex.nl/post/2021-06-04-developer-leo-lahti/&#34;&gt;Leo&lt;/a&gt; and &lt;a href=&#34;post/2021-06-07-data-curator-pyry-kantanen/&#34;&gt;Pyry&lt;/a&gt; are talking eloquently about why you have to be careful even with governmental statistical products, and constantly be on the watch out for data quality.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-our-apidata-is-not-only-publishing-descriptive-and-processing-metadata-alongside-with-our-data-but-we-also-make-all-critical-elements-of-our-processing-code-available-for-peer-review-on-ropengovauthorsropengov&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/observatory_screenshots/EDO_API_metadata_table.png&#34; alt=&#34;Our [API](/#data) is not only publishing descriptive and processing metadata alongside with our data, but we also make all critical elements of our processing code available for peer-review on [rOpenGov](/authors/ropengov/)&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Our &lt;a href=&#34;https://reprex.nl/#data&#34;&gt;API&lt;/a&gt; is not only publishing descriptive and processing metadata alongside with our data, but we also make all critical elements of our processing code available for peer-review on &lt;a href=&#34;https://reprex.nl/authors/ropengov/&#34;&gt;rOpenGov&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;What do you think the Economy Data Observatory, and our other automated observatories do, to make open data more credible in the European economic policy community and be accepted as verified information?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Most of our work is in research automation, and a very large part of our efforts are aiming to reverse engineer missing descriptive and processing metadata. In a way, I like to compare ourselves to the working method of the open-source intelligence platform &lt;a href=&#34;https://www.bellingcat.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bellingcat&lt;/a&gt;. They were able to use publicly available, &lt;a href=&#34;https://www.bellingcat.com/category/resources/case-studies/?fwp_tags=mh17&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scattered information from satellites and social media&lt;/a&gt; to identify each member of the Russian military company that illegally entered the territory of Ukraine and shot down the Malaysian Airways MH17 with 297, mainly Dutch, civilians on board.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-how-we-create-value-for-research-oriented-consultancies-public-policy-institutes-university-research-teams-journalists-or-ngos&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/slides/automated_observatory_value_chain.jpg&#34; alt=&#34;How we create value for research-oriented consultancies, public policy institutes, university research teams, journalists or NGOs.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      How we create value for research-oriented consultancies, public policy institutes, university research teams, journalists or NGOs.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;We do not do such investigations but work very similarly to them in how we are filtering through many data sources and attempting to verify them when their descriptions and processing history is unknown. In the last years, we were able to estore the metadata of many European and African open data surveys, economic impact, and environmental impact data, or many other open data that was lying around for many years without users.&lt;/p&gt;
+&lt;p&gt;Open data is like gold in the mud below the chilly waves of mountain rivers. Panning it out requires a lot of patience, or a good machine. I think we will come to as surprising and strong findings as Bellingcat, but we are not focusing on individual events and stories, but on social and environmental processes and changes.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-join-our-open-collaboration-economy-data-observatory-team-as-a-data-curatorauthorscurator-developerauthorsdeveloper-or-business-developerauthorsteam-or-share-your-data-in-our-public-repository-economy-data-observatory-on-zenodohttpszenodoorgcommunitieseconomy_observatory&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/observatory_screenshots/edo_and_zenodo.png&#34; alt=&#34;Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository [Economy Data Observatory on Zenodo](https://zenodo.org/communities/economy_observatory/)&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Join our open collaboration Economy Data Observatory team as a &lt;a href=&#34;https://reprex.nl/authors/curator&#34;&gt;data curator&lt;/a&gt;, &lt;a href=&#34;https://reprex.nl/authors/developer&#34;&gt;developer&lt;/a&gt; or &lt;a href=&#34;https://reprex.nl/authors/team&#34;&gt;business developer&lt;/a&gt;, or share your data in our public repository &lt;a href=&#34;https://zenodo.org/communities/economy_observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Economy Data Observatory on Zenodo&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;join-us&#34;&gt;Join us&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Join our open collaboration Economy Data Observatory team as a &lt;a href=&#34;https://reprex.nl/authors/curator&#34;&gt;data curator&lt;/a&gt;, &lt;a href=&#34;https://reprex.nl/authors/developer&#34;&gt;developer&lt;/a&gt; or &lt;a href=&#34;https://reprex.nl/authors/team&#34;&gt;business developer&lt;/a&gt;. More interested in environmental impact analysis? Try our &lt;a href=&#34;https://greendeal.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Deal Data Observatory&lt;/a&gt; team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our &lt;a href=&#34;https://music.dataobservatory.eu/#contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt; team!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recommendation Systems: What can Go Wrong with the Algorithm?</title>
+      <link>https://reprex.nl/post/2021-05-16-recommendation-outcomes/</link>
+      <pubDate>Thu, 06 May 2021 07:10:00 +0000</pubDate>
+      <guid>https://reprex.nl/post/2021-05-16-recommendation-outcomes/</guid>
+      <description>&lt;p&gt;Traitors in a war used to be executed by firing squad, and it was a psychologically burdensome task for soldiers to have to shoot former comrades. When a 10-marksman squad fired 8 blank and 2 live ammunition, the traitor would be 100% dead, and the soldiers firing would walk away with a semblance of consolation in the fact they had an 80% chance of not having been the one that killed a former comrade. This is a textbook example of assigning responsibility and blame in systems. AI-driven systems such as the YouTube or Spotify recommendation systems, the shelf organization of Amazon books, or the workings of a stock photo agency come together through complex processes, and when they produce undesirable results, or, on the contrary, they improve life, it is difficult to assign blame or credit.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This is the edited text of my presentation on Copyright Data Improvement in the EU – Towards Better Visibility of European
+Content and Broader Licensing Opportunities in the Light of New Technologies&lt;/em&gt; - &lt;a href=&#34;https://reprex.nl/documents/Copyright_Data_Improvement_Workshop_Programme.pdf&#34; target=&#34;_blank&#34;&gt;download the entire webinar&amp;rsquo;s agenda&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-assigning-and-avoding-blame&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/presentations/D_Antal_IVIR_Webinar_2021-05-06/Slide2.PNG&#34; alt=&#34;Assigning and avoding blame.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Assigning and avoding blame.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;If you do not see enough women on streaming charts, or if you think that the percentage of European films on your favorite streaming provider—or Slovak music on your music streaming service—is too low, you have to be able to distribute the blame in more precise terms than just saying “it’s the system” that is stacked up against women, small countries, or other groups. We need to be able to point the blame more precisely in order to effect change through economic incentives or legal constraints.&lt;/p&gt;
+&lt;p&gt;This is precisely the type of work we are doing with the continued support of the Slovak national rightsholder organizations, as well as in our research in the United Kingdom. We try to understand why classical musicians are paid less, or why 15% of Slovak, Estonian, Dutch, and Hungarian artists never appear on anybody’s personalized recommendations. We need to understand how various AI-driven systems operate, and one approach would at the very least model and assign blame for undesirable outcomes in probabilistic terms. The problem is usually not that an algorithm is nasty and malicious; Algorithms are often trained through “machine learning” techniques, and often, machines “learn” from biased, faulty, or low-quality information.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-outcomes-what-can-go-wrong-with-a-recommendation-system&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/presentations/D_Antal_IVIR_Webinar_2021-05-06/Slide3.PNG&#34; alt=&#34;Outcomes: What Can Go Wrong With a Recommendation System?&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Outcomes: What Can Go Wrong With a Recommendation System?
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;In complex systems there are hardly ever singular causes that explain undesired outcomes; in the case of algorithmic bias in music streaming, there is no single bullet that eliminates women from charts or makes Slovak or Estonian language content less valuable than that in English. Some apparent causes may in fact be “blank cartridges,” and the real fire might come from unexpected directions. Systematic, robust approaches are needed in order to understand what it is that may be working against female or non-cisgender artists, long-tail works, or small-country repertoires.&lt;/p&gt;
+&lt;p&gt;Some examples of “undesirable outcomes” in recommendation engines might include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Recommending too small a proportion of female or small country artists; or recommending artists that promote hate and violence.&lt;/li&gt;
+&lt;li&gt;Placing Slovak books on lower shelves.&lt;/li&gt;
+&lt;li&gt;Making the works of major labels easier to find than those of independent labels.&lt;/li&gt;
+&lt;li&gt;Placing a lower number of European works on your favorite video or music streaming platform’s start window than local television or radio regulations would require.&lt;/li&gt;
+&lt;li&gt;Filling up your social media newsfeed with fake news about covid-19 spread by some malevolent agents.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These undesirable outcomes are sometimes illegal as they may go against non-discrimination or competition law. (See our ideas on what can go wrong &amp;ndash; &lt;a href=&#34;https://dataandlyrics.com/publication/music_level_playing_field_2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Streaming: Is It a Level Playing Field?&lt;/a&gt;) They may undermine national or EU-level cultural policy goals, media regulation, child protection rules, and fundamental rights protection against discrimination without basis. They may make Slovak artists earn significantly less than American artists.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-metadata-problems-no-single-bullet-theory&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/presentations/D_Antal_IVIR_Webinar_2021-05-06/Slide4.PNG&#34; alt=&#34;Metadata problems: no single bullet theory&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Metadata problems: no single bullet theory
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;In our &lt;a href=&#34;https://dataandlyrics.com/publication/listen_local_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;work in Slovakia&lt;/a&gt;, we reverse engineered some of these undesirable outcomes. Popular video and music streaming recommendation systems have at least three major components based on machine learning:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;The users’ history – Is it that users’ history is sexist, or perhaps the training metadata database is skewed against women?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The works’ characteristics – are Dvorak’s works as well documented for the algorithm as Taylor Swift’s or Drake’s?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Independent information from the internet – Does the internet write less about women artists?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In the making of a recommendation or an autonomous playlist, these sources of information can be seen as “metadata” concerning a copyright-protected work (as well as its right-protected recorded fixation.) More often than not, we are not facing a malicious algorithm when we see undesirable system outcomes. The usual problem is that the algorithm is learning from data that is historically biased against women or biased for British and American artists, or that it is only able to find data in English language film and music reviews.
+Metadata plays an incredibly important role in supporting or undermining general music education, media policy, copyright policy, or competition rules. If a video or music steaming platform’s algorithm is unaware of the music that music educators find suitable for Slovak or Estonian teenagers, then it will not recommend that music to your child.&lt;/p&gt;
+&lt;p&gt;Furthermore, metadata is very costly. In the case of cultural heritage, European states and the EU itself have been traditionally investing in metadata with each technological innovation. For Dvorak’s or Beethoven’s works, various library descriptions were made in the analogue world, then work and recording identifiers were assigned to CDs and mp3s, and eventually we must describe them again in a way intelligible for contemporary autonomous systems. In the case of classical music and literature, early cinema, or reproductions of artworks, we have public funding schemes for this work.  But this seems not to be enough. In the current economy of streaming, the increasingly low income generated by  most European works is insufficient to even cover the cost of proper documentation, which then sends that part of the European repertoire into a self-fulfilling oblivion: the algorithm cannot “learn” its properties and it never shows these works to users and audiences.&lt;/p&gt;
+&lt;p&gt;Until now, in most cases, it was assumed that it is the artists or their representative’s duty to provide high quality metadata, but in the analogue era, or in the era of individual digital copies, we did not anticipate that the sales value will not even cover the documentation cost. We must find technical solutions with interoperability and new economic incentives to create proper metadata for Europe’s cultural products. With that, we can cover one area out of the three possible problem terrains.&lt;/p&gt;
+&lt;p&gt;But this is not enough. We need to address the question of how new, better Algorithms can learn from user history and avoid amplifying pre-existing bias against women or hateful speech. We need to make sure that when Algorithms are “scraping” the internet, they do so in an accountable way that does not make small language repertoires vulnerable.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-incentives-and-investments-into-metadata&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/presentations/D_Antal_IVIR_Webinar_2021-05-06/Slide5.PNG&#34; alt=&#34;Incentives and investments into metadata&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Incentives and investments into metadata
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&#34;https://dataandlyrics.com/publication/european_visibilitiy_2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In our paper&lt;/a&gt; we argue for new regulatory considerations to create a better, and more accountable playing field for deploying Algorithms in a quasi-autonomous system, and we suggest further research to align economic incentives with the creation of higher quality and less biased metadata. The need for further research on how these large systems affect various fundamental rights, consumer or competition rights, or cultural and media policy goals cannot be overstated. The first step is to open and understand these autonomous systems. It is not enough to say that the firing squads of Big Tech are shooting women out from charts, ethnic minority artists from screens, and small language authors from the virtual bookshelves. We must put a lot more effort on researching the sources of the problems that make machine learning Algorithms behave in a way that is not compatible with our European values or regulations.&lt;/p&gt;
+&lt;p&gt;*&lt;em&gt;This blogpost was first published on our general interest blog &lt;a href=&#34;https://dataandlyrics.com/post/2021-05-16-recommendation-outcomes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data &amp;amp; Lyrics&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feasibility Study On Promoting Slovak Music In Slovakia &amp; Abroad</title>
+      <link>https://reprex.nl/post/2021-03-26-listen-local-feasibility/</link>
+      <pubDate>Thu, 25 Mar 2021 11:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/post/2021-03-26-listen-local-feasibility/</guid>
+      <description>&lt;h2 id=&#34;how-to-help-promote-local-music&#34;&gt;How to help promote local music?&lt;/h2&gt;
+&lt;p&gt;The new study opens the question of the local music promotion within the digital environment.
+The Slovak Performing and Mechanical Rights Society (SOZA), the State51 music group in the United Kingdom, and the Slovak Arts Council commissioned Reprex to created a feasibility study which provides recommendations for better use of quotas for Slovak radio stations and which also maps the share and promotion of Slovak music within large streaming and media platforms such as Spotify.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-what-should-a-good-local-content-policy-radio-quota-recommendation-system-streaming-quota-achieve&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/streaming/mind_map_goal_setting.jpg&#34; alt=&#34;What should a good local content policy (radio quota, recommendation system, streaming quota) achieve?&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      What should a good local content policy (radio quota, recommendation system, streaming quota) achieve?
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The study proposes best practices for the introduction of mandatory quotas for Slovak radio stations and points out how current recommendation systems used by large platforms such as Spotify, YouTube, or Apple hardly consider local music from smaller countries. Local music stands against competition consisting of million songs from the whole world, and for ordinary Slovak musicians, whose music doesn&amp;rsquo;t belong to the global hits playlists, it is almost impossible to get recommended by the recommendation systems of large platforms.&lt;/p&gt;
+&lt;h2 id=&#34;listen-local-app-for-discovering-new-music&#34;&gt;Listen Local App for discovering new music&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-we-aimed-to-create-a-demo-version-of-a-utility-based-transparent-accountable-recommendation-system&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/streaming/mind_map_recommendations.jpg&#34; alt=&#34;We aimed to create a demo version of a utility-based, transparent, accountable recommendation system.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      We aimed to create a demo version of a utility-based, transparent, accountable recommendation system.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The solution to this problem could be the Listen Local App, built on a comprehensive reference database of local music, which we created as a demo version within the study. The app aims to help listeners discover more local music; the app also presents new and alternative ways for large digital platforms to recommend local artists. Through Listen Local, listeners search for artists and bands based on their taste and the city they are situated in. In this way, listeners can easily search for music by artists from particular cities or from the town they are about to visit.
+We are releasing today the feasibility study in English and Slovak. We call for an open consultation to evaluate the results of this work and continue developing the Slovak Music Database, the Listen Local recommendation, and the AI validation system.&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href=&#34;https://listenlocal.community/project/demo-app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Listen Local App&lt;/a&gt;. We explain here &lt;a href=&#34;https://listenlocal.community/post/2020-11-23-alternative-recommendations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;why&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-screenshot-of-the-first-verison-of-the-demo-app&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/img/streaming/listen_local_app_1.png&#34; alt=&#34;Screenshot of the first verison of the demo app.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Screenshot of the first verison of the demo app.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;database&#34;&gt;Database&lt;/h2&gt;
+&lt;p&gt;The Slovak Music Database is connected to Reprex&amp;rsquo;s flagship project, the Demo Music Observatory, an open collaboration-based demo version of the planned European Music Observatory, currently being further developed in the JUMP Music Market Accelerator Programme supported by Music Moves Europe.&lt;/p&gt;
+&lt;p&gt;The project website contains the &lt;a href=&#34;https://listenlocal.community/project/demo-sk-music-db/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;demo version of the Slovak Music Database&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;download-the-study&#34;&gt;Download the Study&lt;/h2&gt;
+&lt;p&gt;You can download the study here&lt;a href=&#34;https://reprex.nl/publications/Listen_Local_Feasibility_Study_2020_SK.pdf&#34; target=&#34;_blank&#34;&gt;in Slovak&lt;/a&gt; or &lt;a href=&#34;https://reprex.nl/publications/Listen_Local_Feasibility_Study_2020_EN.pdf&#34; target=&#34;_blank&#34;&gt;in English&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;next-steps&#34;&gt;Next steps&lt;/h2&gt;
+&lt;p&gt;In the next phase of the work, we add further data to our Slovak Demo Music Database and carry out more and more experiments and educational activities to understand how Slovak music can become more visible and targeted. We are also bringing this project into an international collaboration for better utilization of R&amp;amp;D efforts and experiences throughout Europe. This agile project method originated in reproducible scientific practice and open-source software development and allows participation in large projects on any scale: from individual musicians and educators to large research universities and music distributors. Anyone can join in on the effort.&lt;/p&gt;
+&lt;p&gt;Reprex is looking for further international partners; Reprex is currently part of the &lt;a href=&#34;https://reprex.nl/post/2021-02-16-nlaic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dutch AI Coalition&lt;/a&gt; and the &lt;a href=&#34;https://digital-strategy.ec.europa.eu/en/policies/european-ai-alliance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European AI Alliance&lt;/a&gt; project. SOZA and Reprex are committed to opening this project for international collaboration while ensuring that a significant part of the R&amp;amp;D activities remains in the Slovak Republic.&lt;/p&gt;
+&lt;p&gt;We are preparing informal, online information sessions for artists, promoters, researchers, and developers to join our project.&lt;/p&gt;
+&lt;h2 id=&#34;contributors&#34;&gt;Contributors&lt;/h2&gt;
+&lt;p&gt;The Reprex team who contributed to the English version:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Budai, Sándor&lt;/strong&gt;, programming and deployment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Emily H. Clarke&lt;/strong&gt;, musicologist&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stef Koenis&lt;/strong&gt;, musicologist, musician&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Andrés Garcia Molina&lt;/strong&gt;, data scientist, musicologist, editor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kátya Nagy&lt;/strong&gt;, music journalist, research assistant;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;and the Slovak version:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dáša Bulíková&lt;/strong&gt;, musician, translator&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dominika Semaňáková&lt;/strong&gt;, musicologist, editor, layout.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Special thanks to &lt;a href=&#34;https://dataandlyrics.com/post/2020-11-30-youniverse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tammy Nižňanska &amp;amp; the Youniverse&lt;/a&gt; for the case study.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Music Streaming: Is It a Level Playing Field?</title>
+      <link>https://reprex.nl/publication/music_level_playing_field_2021/</link>
+      <pubDate>Tue, 23 Feb 2021 11:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/publication/music_level_playing_field_2021/</guid>
+      <description>&lt;p&gt;Our article, &lt;a href=&#34;https://www.competitionpolicyinternational.com/music-streaming-is-it-a-level-playing-field/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Streaming: Is It a Level Playing Field?&lt;/a&gt; is published in the February 2021 issue of CPI Antitrust Chronicle, which is fully devoted to competition policy issues in the music industry.&lt;/p&gt;
+&lt;p&gt;The dramatic growth of music streaming over recent years is potentially very positive. Streaming provides consumers with low cost, easy access to a wide range of music, while it provides music creators with low cost, easy access to a potentially wide audience. But many creators are unhappy about the major streaming platforms. They consider that they act in an unfair way, create an unlevel playing field and threaten long-term creativity in the music industry.&lt;/p&gt;
+&lt;p&gt;Our paper describes and assesses the basis for one element of these concerns, competition between recordings on streaming platforms. We argue that fair competition is restricted by the nature of the remuneration arrangements between creators and the streaming platforms, the role of playlists, and the strong negotiating power of the major labels. It concludes that urgent consideration should be given to a user-centric payment system, as well as greater transparency of the factors underpinning playlist creation and of negotiated agreements.&lt;/p&gt;
+&lt;p&gt;You can read the entire issue and the full text of our article on &lt;a href=&#34;https://www.competitionpolicyinternational.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Competition Policy International&lt;/a&gt; in &lt;a href=&#34;https://www.competitionpolicyinternational.com/wp-content/uploads/2021/02/2-Music-Streaming-Is-It-a-Level-Playing-Field-By-Daniel-Antal-Amelia-Fletcher-14-Peter-L.-Ormosi.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ensuring the Visibility and Accessibility of European Creative Content on the World Market: The Need for Copyright Data Improvement in the Light of New Technologies</title>
+      <link>https://reprex.nl/post/2021-02-13-european-visibility/</link>
+      <pubDate>Sat, 13 Feb 2021 18:10:00 +0200</pubDate>
+      <guid>https://reprex.nl/post/2021-02-13-european-visibility/</guid>
+      <description>&lt;p&gt;The majority of music sales in the world is driven by AI-algorithm powered robots that create personalized playlists, recommendations and help programming radio music streams or festival lineups. It is critically important that an artist’s work is documented, described in a way that the algorithm can work with it.&lt;/p&gt;
+&lt;p&gt;In our research paper – soon to be published – made for the Listen Local Initiative we found that 15% of Dutch, Estonian, Hungarian, or Slovak artists had no chance to be recommended, and they usually end up on &lt;a href=&#34;post/2020-11-17-recommendation-analysis/&#34;&gt;Forgetify&lt;/a&gt;, an app that lists never-played songs of Spotify. In another project with rights management organizations, we found that about half of the rightsholders are at risk of not getting all their royalties from the platforms because of poor documentation.&lt;/p&gt;
+&lt;p&gt;But how come that distributors give streaming platforms songs that are not properly documented?  What sort of information is missing for the European repertoire’s visibility?  Reprex is exploring this problem in a practical cooperation with SOZA, the Slovak Performing and Mechanical Rights Society, and in an academic cooperation that involves leading researchers in the field. A manuscript co-authored Martin Senftleben, director of the &lt;a href=&#34;https://www.ivir.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute for Information Law&lt;/a&gt; in Amsterdam, and eminent researchers in copyright law and music economics, Reprex’s co-founder makes the case that Europe must invest public money to resolve this problem, because in the current scenario, the documentation costs of a song exceed the expected income from streaming platforms.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the European Strategy for Data, the European Commission highlighted the EU’s ambition to acquire a leading role in the data economy. At the same time, the Commission conceded that the EU would have to increase its pools of quality data available for use and re-use. In the creative industries, this need for enhanced data quality and interoperability is particularly strong. Without data improvement, unprecedented opportunities for monetising the wide variety of EU creative and making this content available for new technologies, such as artificial intelligence training systems, will most probably be lost. The problem has a worldwide dimension. While the US have already taken steps to provide an integrated data space for music as of 1 January 2021, the EU is facing major obstacles not only in the field of music but also in other creative industry sectors. Weighing costs and benefits, there can be little doubt that new data improvement initiatives and sufficient investment in a better copyright data infrastructure should play a central role in EU copyright policy. A trade-off between data harmonisation and interoperability on the one hand, and transparency and accountability of content recommender systems on the other, could pave the way for successful new initiatives. &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3785272&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download the manuscript from SSRN&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Our &lt;a href=&#34;post/2020-12-17-demo-slovak-music-database/&#34;&gt;Slovak Demo Music Database&lt;/a&gt; project is a best example for this. We started systematically collect publicly available information from Slovak artists (in our write-in process) and ask them to give GDPR-protected further data (in our opt-in process) to create a comprehensive database that can help recommendation engines as well as market-targeting or educational AI apps.&lt;/p&gt;
+&lt;p&gt;We believe that one of the problems of current AI algorithms that they solely or almost only work with English language documentation, putting other, particularly small language repertoires at risk of being buried below well-documented music mainly arriving from the United States.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We are looking for rightsholders and their organizations, artists,
+researchers to work with us to find out how we can increase the visibility of European music.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ensuring the Visibility and Accessibility of European Creative Content on the World Market: The Need for Copyright Data Improvement in the Light of New Technologies</title>
+      <link>https://reprex.nl/publication/european_visibilitiy_2022/</link>
+      <pubDate>Sat, 13 Feb 2021 11:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/publication/european_visibilitiy_2022/</guid>
+      <description>&lt;p&gt;In the European Strategy for Data, the European Commission highlighted the EU’s ambition to acquire a leading role in the data economy. At the same time, the Commission conceded that the EU would have to increase its pools of quality data available for use and re-use. In the creative industries, this need for enhanced data quality and interoperability is particularly strong. Without data improvement, unprecedented opportunities for monetising the wide variety of EU creative and making this content available for new technologies, such as artificial intelligence training systems, will most probably be lost. The problem has a worldwide dimension. While the US have already taken steps to provide an integrated data space for music as of 1 January 2021, the EU is facing major obstacles not only in the field of music but also in other creative industry sectors. Weighing costs and benefits, there can be little doubt that new data improvement initiatives and sufficient investment in a better copyright data infrastructure should play a central role in EU copyright policy. A trade-off between data harmonisation and interoperability on the one hand, and transparency and accountability of content recommender systems on the other, could pave the way for successful new initiatives.&lt;/p&gt;
+&lt;p&gt;The published article:
+&lt;a href=&#34;https://www.jipitec.eu/issues/jipitec-13-1-2022/5515&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.jipitec.eu/issues/jipitec-13-1-2022/5515&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;preprint-version&#34;&gt;Preprint version&lt;/h2&gt;
+&lt;p&gt;The earlier preprint version on &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3785272&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt; our for &lt;a href=&#34;https://reprex.nl/media/publications/SSRN-id3785272.pdf&#34; target=&#34;_blank&#34;&gt;direct download&lt;/a&gt; here on Data &amp;amp; Lyrics.
+Senftleben, Martin and Margoni, Thomas and Antal, Daniel and Bodó, Balázs and Gompel, Stef van and Handke, Christian and Kretschmer, Martin and Poort, Joost and Quintais, João and Schwemer, Sebastian Felix, &lt;em&gt;Ensuring the Visibility and Accessibility of European Creative Content on the World Market - The Need for Copyright Data Improvement in the Light of New Technologies and the Opportunity Arising from Article 17 of the CDSM Directive&lt;/em&gt; (February 12, 2021). Available at SSRN: &lt;a href=&#34;https://ssrn.com/abstract=3785272&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ssrn.com/abstract=3785272&lt;/a&gt; or &lt;a href=&#34;http://dx.doi.org/10.2139/ssrn.3785272&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://dx.doi.org/10.2139/ssrn.3785272&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feasibility Study On Promoting Slovak Music In Slovakia &amp; Abroad</title>
+      <link>https://reprex.nl/publication/listen_local_2020/</link>
+      <pubDate>Sun, 27 Dec 2020 11:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/publication/listen_local_2020/</guid>
+      <description>&lt;p&gt;Download the study &lt;a href=&#34;https://zenodo.org/record/6427556/files/Listen_Local_Feasibility_Study_2020_SK.pdf?download=1&#34; target=&#34;_blank&#34;&gt;in Slovak&lt;/a&gt; or &lt;a href=&#34;https://zenodo.org/record/6427514/files/Listen_Local_Feasibility_Study_2020_EN.pdf?download=1&#34; target=&#34;_blank&#34;&gt;in English&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In 2015, realizing the low visibility and income-generating potential of Slovak music, the legislation introduced an amendment to the broadcasting act to regulate local content in radiostreams. The Slovak content promoting policy was well-intended but not based on any impact assessment, and it reached its goal only partially.&lt;/p&gt;
+&lt;p&gt;The Slovak broadcasting quotas in comparison with other national quotas a very simple, and they are impossible to measure, which makes both compliance and enforcement very difficult. Radio editors do not get any help to find music that fits into the playlists and fulfil the quota obligations – in many cases, it is impossible for them to find out if a song actually meets the quota requirements. For the same reason, neither is enforcement possible.&lt;/p&gt;
+&lt;p&gt;Another deficiency of the broadcasting quotas is that because of its fuzzy target, it is not clear whom it tries to help, and it has few friends. It is unclear how performers, composers or Slovak music producers can benefit from the system. Furthermore, it only helps a few genres, and it decreases the chances of other Slovak music in instrumental and non-Slovak language genres (for example, classical, jazz, rock) to be heard.&lt;/p&gt;
+&lt;p&gt;And at last, radio is losing its importance in music discovery. New generation find the music during their music discovery age on YouTube and digital streaming platforms. A Slovak content promoting policy that does not work on digital streaming platforms will be obsolete when radio content providers will switch to digital streaming in the foreseeable future.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Feasibility Study follows the following logic:&lt;/strong&gt;
+In the first chapter we introduce various music recommendation systems in the context of local content promotion polices, like local mandatory content quota regulations.&lt;/p&gt;
+&lt;p&gt;In the second chapter, we consider the market-based or creative industry economy supporting policy goals, measurements, and potential support given to artists and producers.&lt;/p&gt;
+&lt;p&gt;We then turn in the third chapter to content-based local regulations promoting the use of the Slovak language or Slovak music content, irrespective of the performers and producers nationality, residence or ethnicity.&lt;/p&gt;
+&lt;p&gt;We introduce the idea of the &lt;strong&gt;Slovak Music Database&lt;/strong&gt;, a comprehensive, mainly opt-in, opt-out database that of Slovak artists and Slovak music that should be supported by the local content regulation and other policies. We also create a Demo Slovak Music Database to understand the problem and scope of the creation of the comprehensive version.&lt;/p&gt;
+&lt;p&gt;The project website contains the &lt;a href=&#34;https://listen-local.net/project/demo-sk-music-db/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Slovak Music Database&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We also created a &lt;a href=&#34;https://listen-local.net/project/demo-app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Recommendation System&lt;/a&gt;. We explain here &lt;a href=&#34;https://listen-local.net/post/2020-11-23-alternative-recommendations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;why&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;research-questions&#34;&gt;Research questions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets?&lt;/li&gt;
+&lt;li&gt;How can we measure the market share of the Slovak music in the domestic and foreign markets?&lt;/li&gt;
+&lt;li&gt;How can we measure the value gap between what some media platforms, most particularly the biggest YouTube, does not pay out to the Slovak stakeholders within Slovakia?&lt;/li&gt;
+&lt;li&gt;What is the interplay of the various definitions on market share and national quota targets?&lt;/li&gt;
+&lt;li&gt;How ‘shadow-markets’ of home copying and unlicensed media platforms, such as YouTube impact market shares directly and national quotas indirectly?&lt;/li&gt;
+&lt;li&gt;How can modern data science, predictive microeconomics and statistics help increase the market share of Slovak music in Slovakia and abroad?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks for the entire Reprex team who contributed to the English version:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Emily H. Clarke&lt;/strong&gt;, musicology&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stef Koenis&lt;/strong&gt;, musicologist, musician&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Andrés Garcia Molina&lt;/strong&gt;, data scientist, musicologist, editor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kátya Nagy&lt;/strong&gt;, music journalist, research assistant;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;and the Slovak version:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dominika Semaňáková&lt;/strong&gt;, musicologist, editor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dáša Bulíková&lt;/strong&gt;, musician, translator.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Listen Local</title>
+      <link>https://reprex.nl/project/listen-local/</link>
+      <pubDate>Tue, 29 Sep 2020 10:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/project/listen-local/</guid>
+      <description>&lt;p&gt;&lt;em&gt;“Big data creates injustice.”&lt;/em&gt; &amp;ndash; Cathy O&amp;rsquo;Neil, author of &lt;a href=&#34;https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weapons of Math Destruction&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Listen Local&lt;/code&gt; is a trustworthy, ethical AI-powered system that aims to help great artists in small organizations and small countries using big data. We want to make sure that audiences are not only recommended global superhits, but locally relevant music, too. At present, corporate algorithms fail to connect listeners in small countries with music from the local scene - with artists whom the listener can easily see perform live in local venues, who sing in the listener’s language and who connect with the listener’s feelings and experiences.&lt;/p&gt;
+&lt;p&gt;From the artist’s perspective, we want to understand why certain demographics of artists  only get partly paid, or not paid at all. We want to understand why some artists are never recommended by corporate AI algorithms. Every good music should be able to find its audience on streaming platforms; and, moreover,the global streaming platforms must give equal chances and fair remuneration to all musicians regardless of language, ethnicity, gender, race, or any other such factor.&lt;/p&gt;
+&lt;p&gt;Music streaming services seemingly make the entire world repertoire available to any audience – which requires an entirely new approach to music education and music discovery. Most people discover music and learn to like a certain style or genre in their teenage years. If the AI algorithms that make personalized playlists and recommendations do not include locally relevant music, young people will not be exposed to local discoveries in their taste formation processes. This influences the genres and styles of music that people are open to encountering at later life phases and in later social worlds, including the exposure that adults pass on to their children.&lt;/p&gt;
+&lt;p&gt;Listen Local wants to prevent global hits from colonizing local musical ecosystems and taking attention, visibility and listening time from local acts. Music is a social activity, and young people should have the opportunity to discover artists whom they can see performing live with their friends, with whom they can learn to play on the same stage, or behind the same turntable. Our goal is to connect young people as well as adults to  music from  their local communities, and to help artists from small countries gain fair access to audiences and opportunities in their communities and beyond.&lt;/p&gt;
+&lt;h2 id=&#34;what-do-we-do&#34;&gt;What do we do?&lt;/h2&gt;
+&lt;p&gt;We are building a recommendation system that allows the user – a radio DJ or music editor, an educator, or a music lover –- to control the recommendation algorithm: for example, to set language preferences or to find music in his or her town or country.&lt;/p&gt;
+&lt;p&gt;We are conducting statistical tests that measure biases in the way artists with different ethnic, national, country of origin, race, scene, genre, age or gender background are promoted and paid, or other biases of algorithms when they recommend music or sell it, to analyze how global hits colonize local music ecosystems and to determine how to prevent this from happening.&lt;/p&gt;
+&lt;p&gt;Through this, we are gaining understanding of why certain artists are never recommended, or never get paid.
+We are localizing AI. Because music for most artists is a local business, we are building tools that help artists connect to local audiences, target tour destinations that are within reach, and optimize domestic and foreign marketing efforts.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dataandlyrics.com/post/2020-12-15-alternative-recommendations/mind_map_recommendations_hu598e31fbda7e27fa2531c6d1d2d7129e_95495_2000x2000_fit_q90_lanczos.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;We are involved in various research and development activities. We are building prototype applications with our partners, and we are conducting impact analyses to detect AI and big data problems. We are collaborating with eminent competition law and copyright law practitioners to understand how independent artists and small labels, publishers, and small country collective management organizations can be protected from the adverse effects of big data and AI.&lt;/p&gt;
+&lt;h2 id=&#34;why-do-we-do-it&#34;&gt;Why do we do it?&lt;/h2&gt;
+&lt;p&gt;Currently more than half of global music sales is automated through AI algorithms.  YouTube, Spotify, Apple Music and other music and media streaming platforms use AI that compares the audience member’s preferences, biographical information about the creators and performers of the music, and the content and aesthetic qualities of the music to personalize recommendations from more than a hundred million recordings and videos. If the AI algorithm is biased or the supporting data and metadata is incomplete or faulty, some artists and performers will never connect  with new audiences, nor get paid. Further compounding this problem, bookings for festivals and clubs - the primary income source for most musicians and their technical and managerial support teams - are increasingly conducted through automated pre-selection by algorithms that monitor the recordings, sales, and fan bases of artists.&lt;/p&gt;
+&lt;p&gt;The severity of this problem is demonstrated by our pilot project, based on the rich, emerging local music market of Slovakia. Through our strong relationships with music stakeholders, we gained access to vast amounts of confidential data and insider expertise. Based on this pilot project, we estimate that 15% of small country artists are at risk of no exposure to a streaming audience, 50% are at risk of not getting properly paid, and up to 70% of the value of all payments are at risk of being delayed or lost. The numbers confirm it:  this system is broken.&lt;/p&gt;
+&lt;h2 id=&#34;how-do-we-do-it&#34;&gt;How do we do it?&lt;/h2&gt;
+&lt;p&gt;Reprex is an international start-up that utilizes open data, open-source software and the scientific method of open collaboration to create meaningful AI and data service products. Reprex is a member of the &lt;a href=&#34;post/2021-02-16-nlaic/&#34;&gt;Dutch AI Coalition&lt;/a&gt; and the European AI Alliance, which are public-private partnerships to promote human-centric, accountable, trustworthy AI. Open data means that we utilize taxpayer funded public sector data and open scientific data on the basis of the Open Data Directive of the European Union. Open data is free, but requires significant investment to be repurposed for different uses (in other words, to process government-sourced data for business or scientific research purposes, or scientific data for public or business purposes.)  Reprex is investing in open-source statistical software that helps the creative industries harness the power of data as an open,  public resource.&lt;/p&gt;
+&lt;p&gt;Our &lt;code&gt;Listen Local&lt;/code&gt; project is aiming to create better radio playlisting, personal playlisting and concert promotion in a local context: within Slovakia or at a more specific level, Flanders or even the city of Utrecht or Budapest. We aim to place our partner’s music in local radio lists, personal playlists, and grow their fan base during the COVID-19 pandemic so that in 2021 they can eventually meet in the venues again, and carry out longer, more successful tours than ever.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://listenlocal.community/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; and the &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt; grew out of a large, collaborative project of collective management societies, grant managers, music distributors, venues, and other music stakeholders who joined forces to collect more royalties from 2014 onwards starting with three, and eventually encompassing more than a dozen countries.&lt;/p&gt;
+&lt;h2 id=&#34;lets-do-this-together&#34;&gt;Let&amp;rsquo;s Do This Together!&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-10-19-listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local: Open Collaboration Experiment &amp;amp; Feasibility Study&lt;/a&gt; - how you can participate in the experiment.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Participation for artists and music venues is &lt;strong&gt;free&lt;/strong&gt; in the experiment. We are looking for a viable business model that keeps this tool a good value for money for anybody in the independent music scenes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We are asking labels, publishers, talent managers to contribute to our experimental budget on a crowdsourcing basis.  We ask for a nominal contribution from as little as 10-1000 euros on a voluntary basis.  In return. We hope to develop a tool that can make the work of independent labels and publishers easier. Any extra funding will be spent on the project at cost.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

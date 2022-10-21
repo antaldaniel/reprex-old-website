@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Policy Analysis | Reprex</title>
+    <link>https://reprex.nl/tag/open-policy-analysis/</link>
+      <atom:link href="https://reprex.nl/tag/open-policy-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Policy Analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Feb 2022 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>Open Policy Analysis</title>
+      <link>https://reprex.nl/tag/open-policy-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Open Policy Analysis</title>
+      <link>https://reprex.nl/project/opa/</link>
+      <pubDate>Sun, 06 Feb 2022 14:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/project/opa/</guid>
+      <description>&lt;p&gt;Our ambition is to truly maximize transparency, (re)usability, scientific, policy, and business impact while embracing the best practices laid out in the the recommendations of the &lt;em&gt;Reproducibility of scientific results scoping report&lt;/em&gt;, and the &lt;em&gt;Progress on Open Science: Towards a Shared Research Knowledge System&lt;/em&gt; policy documents of the European Commission&amp;rsquo;s DG Research &amp;amp; Innovation, as well as the best practices outlined  in the evidence-based &lt;em&gt;Knowledge4Policy&lt;/em&gt; &lt;a href=&#34;https://knowledge4policy.ec.europa.eu/home_en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;K4P&lt;/a&gt; platform of the European Commission.&lt;/p&gt;
+&lt;p&gt;For the first time in Europe, we will apply and contextualize the &lt;a href=&#34;http://www.bitss.org/wp-content/uploads/2019/03/OPA-Guidelines.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Policy Analysis Guidelines&lt;/a&gt; (OPA Guidelines) in our &lt;a href=&#34;https://reprex.nl/projects/openmuse&#34;&gt;OpenMuse&lt;/a&gt; project.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;Open Policy Analysis Guidelines&lt;/code&gt; grew out of several initiatives in research transparency with the aim of maximizing benefits in the context of the &lt;a href=&#34;https://www.congress.gov/bill/115th-congress/house-bill/4174&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Foundations for Evidence-based Policy Making Act of 2018&lt;/a&gt; initiative in the United States. We want to ensure that by relying not only on the best European practices, but considering trans-Atlantic experiences, we will make the most out of the opportunities offered by the European &lt;a href=&#34;%28https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019L1024%29&#34;&gt;Open Data Directive of 2019&lt;/a&gt;. This will not only mean rendering a dramatically increased data availability for our partners, as well as increased quality assurance and transparency in our work, but also immediate data access.&lt;/p&gt;
+&lt;p&gt;Our new software will continue to run in the cloud, depositing all of our findings&amp;mdash;&lt;em&gt;Findable&lt;/em&gt;, &lt;em&gt;Accessible&lt;/em&gt;, &lt;em&gt;Interoperable&lt;/em&gt; and &lt;em&gt;Reuseable&lt;/em&gt; digital assets, including our well-designed and user-tested indicators in 41 data gap fields&amp;mdash;into our &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt;, which already hosts a &lt;a href=&#34;https://api.music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;modern REST API&lt;/a&gt; similar to the Eurostat Rest API.&lt;/p&gt;
+&lt;table class=&#34;table table-hover table-condensed&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Layer
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Goal
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Target
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Example
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Output
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Ensure unified output
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+We comply with the level 3 requirements and we will create a showcase
+how to do this best following EU open science recommendations.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://zenodo.org/record/5917742#.YflAK-rMLIU&#34; style=&#34;     &#34;&gt;See
+our example.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Output
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Establish a clear link between input and output
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+We will produce more than 100 outputs, some only as indicators, and
+others in form of policy analysis, we will comply with level 1,2,3 as
+necessary.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://music.dataobservatory.eu/publication/listen_local_2020/&#34; style=&#34;     &#34;&gt;Our
+affiliated music industry partners will create cases studies with
+interactive tools (level 3). See our Slovak case study which came with a
+Shiny App that analyzed music recommendations.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Analysis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Provide clear accounts of all methodological procedures in a way that is
+easily interpreted by an informed reader.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+We accomplish level 3 with placing the code in clearly documented. into
+a dynamic document, or open notebook
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://music.dataobservatory.eu/post/2021-11-06-indicator_value_added/&#34; style=&#34;     &#34;&gt;See
+for example our blogpost on automatic forecasting for the music
+industry.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Analysis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Share raw (or analytic) data and materials in a way that the analysis is
+reproducible with minimal effort.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+We will accomplish level 3 through trusted repositories following EU
+recommendations. We will use the Zenodo repository developed by CERN and
+the EU’s OpenAIRE project.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://zenodo.org/communities/music_observatory/&#34; style=&#34;     &#34;&gt;See
+our solution on Zenodo.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Analysis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Share an open report that includes clear accounts of all methodological
+procedures, data, and assumptions.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+We would like to go beyond the level 3 requirements of the OPA with
+using standardized documentation languages, such as SDMX statistical
+metadata and its standardized codebooks, and comply with both Dublin
+Core and DataCite extended, recommended standarized reporing.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/&#34; style=&#34;     &#34;&gt;See
+our example An Empirical Analysis of Music Streaming Revenues and Their
+Distribution created for the UK Intellectual Property Office’s
+evidence-based policy effort in music streaming.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Materials
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Standardize the file structure so that materials are organized in a way
+that is accessible to an informed reader.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+We comply with the level 3 requirements. Our versioned controled output
+is on Github.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://github.com/dataobservatory-eu/music-competition&#34; style=&#34;     &#34;&gt;See
+an example on Github.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Materials
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Label and document each input, including data, research, and guesswork.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+We will go beyond level 3 requirements, because we want to make sure
+that our labelling and documentation is interopreable, and we apply
+various metadata standards for this purpose.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://music.dataobservatory.eu/post/2021-11-08-indicator_findable/&#34; style=&#34;     &#34;&gt;See
+our example explaining how we document our datasets in our API.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Materials
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Ensure that code/spreadsheets are reproducible.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+All our spreadsheets are machine generated for the convenience of the
+user who uses spreadsheet applications, but everything can be run with a
+click, which accomplishes level 3, and maintains the convenience of
+level 1-2 for the user. We go further with creating authoritative copies
+of each dataset and visualization with DOIs. We also produce an API
+which gives programatic or single table access to both the data and
+standardized codebooks.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://api.music.dataobservatory.eu/&#34; style=&#34;     &#34;&gt;See our
+API. All our datasets are described in detail on Zenodo and Figshare,
+too.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Open Materials
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Use a version control strategy.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+We use Git version control, and we employ various repositories and
+project documentation tools on Github. These are linked with the Zenodo
+EU open repository and our data API.
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/cap.html&#34; style=&#34;     &#34;&gt;See
+our example intergration.&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

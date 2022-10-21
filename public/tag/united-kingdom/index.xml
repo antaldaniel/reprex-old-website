@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>United Kingdom | Reprex</title>
+    <link>https://reprex.nl/tag/united-kingdom/</link>
+      <atom:link href="https://reprex.nl/tag/united-kingdom/index.xml" rel="self" type="application/rss+xml" />
+    <description>United Kingdom</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Sep 2021 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>United Kingdom</title>
+      <link>https://reprex.nl/tag/united-kingdom/</link>
+    </image>
+    
+    <item>
+      <title>An Empirical Analysis of Music Streaming Revenues and Their Distribution</title>
+      <link>https://reprex.nl/publication/mce_empirical_streaming_2021/</link>
+      <pubDate>Thu, 23 Sep 2021 10:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/publication/mce_empirical_streaming_2021/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Owing to the global nature of music earnings, the various currency translation and royalty payments applied, and because there is no global comprehensive database of rights-holders, works, and recordings, it is impossible to calculate average (mean) or typical (median) earnings with any accuracy. Even an estimate would require a very complex methodology. Understanding the earnings of an average rights-holder would require a careful disaggregation of volume, price, exchange rate, and distribution changes, and international data harmonisation.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Estimating average or typical income requires advanced empirical sampling or surveying methods. The &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt; (previously CEEMID) has worked on developing such methods, with the support of the state51 music group. We commissioned a report from the Digital Music Observatory on the earnings of UK rights-holders and this can be found here at &lt;a href=&#34;https://zenodo.org/record/5554089&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lt;the Digital Music Observatory&amp;rsquo;s Zenodo repository&amp;gt;&lt;/a&gt;  Among the Observatory’s findings are that use of streaming services is generally growing in terms of volume, but the price is diminishing, which leads to diminishing or flat earnings for a typical or average British rights-holder; that in the 2015-2019 period, falling prices were partly or fully compensated by favourable changes in the exchange rate of the British pound with major currencies used in the global music business (the US dollar, the euro and the Japanese yen), but since 2020 there may have been changes in the opposite direction; and that for various methodological reasons, without international data harmonisation, and survey harmonisation, it is impossible to take a fully representative, unbiased sample of music
+creator earnings in the United Kingdom alone.&amp;rdquo; &lt;em&gt;Music Creator&amp;rsquo;s Earnings in the Digital Era, p28.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;exectuive-summary-of-our-research-document&#34;&gt;Exectuive Summary of Our Research Document&lt;/h2&gt;
+&lt;p&gt;The research questions asked in this report are related to the &lt;a href=&#34;https://www.gov.uk/government/publications/music-creators-earnings-in-the-digital-era&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Creator Earnings&amp;rsquo; Project&lt;/a&gt; (MCE), exploring issues concerning equitable remuneration and earnings distributions. We were tasked with providing a longitudinal analysis of earnings development and relating our findings to equitable remuneration. The starting point of our work was centred around a very broadly defined problem: how much money music creators (rightsholders) earn from streaming, how these earnings are distributed, and how the earnings and their distribution have developed during the last decade.&lt;/p&gt;
+&lt;p&gt;The highly globalized music industry generates two important international reports, as well as several national reports, but these are not suitable for the analysis of the typical or average rightsholder, nor for small labels and publishers who do not represent a large and internationally diversified portfolio of music works or recordings. Copyright and neighboring right revenues are collected in national jurisdictions. Because British artists are almost never constrained by their use of language, and the UK Music Industry is highly competitive in the global music markets, even relatively less known rightsholders earn revenues from dozens of national markets. The lack of market information on music sales volumes, prices for each jurisdiction, and the unaccounted for national, domestic, and foreign revenues makes the analysis of the rightholder’s earnings, or the economics of a certain distribution channel like music streaming or media platforms, impossible.&lt;/p&gt;
+&lt;p&gt;While total earnings are reported by international and national organizations, they hide five important economic variables: changes in sales volumes, changes in prices, market share on various national jurisdictions (which have their own volume and price movements), the exchange rates applied, and the share of the repertoire exploited. Even worse, the global music industry has no comprehensive database of rightsholders, music works, and recordings. Many rights are represented by heirs or passive investors. And because of the enormous number of works and recordings, in any given royalty payment period, most works/recordings are not used and not compensated. The lack of a known population and distribution makes usual indicators as average or median earnings arithmetically impossible to compute, and the large number of disused works and recordings makes even the estimation of the typical (median) value useless for economic analysis. The estimation of the arithmetic mean is equally problematic, because it is distorted by the earnings of very few global stars. To understand the streaming economy from the perspective of a typical or average rightsholder, or from the perspective of a small independent label or music publisher, requires very challenging sampling techniques either in surveying or in empirically observing and aggregating data from royalty accounts. National and international music organizations are not equipped with the data processing and statistical capacity to do so.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-effect-of-international-diversification-on-revenues---a-combination-of-international-price-differences-and-exchange-rate-fluctuations&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/reports/mce/Effect_International_Diversification_Revenues_Coplot.png&#34; alt=&#34;The Effect of International Diversification on Revenues - a combination of international price differences and exchange rate fluctuations.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The Effect of International Diversification on Revenues - a combination of international price differences and exchange rate fluctuations.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;This is the problem that the Digital Music Observatory, a working demo of the European Music Observatory is solving. It grew out of the Central &amp;amp; Eastern European Music Industry Databases (CEEMID) initiative in 2014, in which righthsolders from three countries attempted to solve this problem. By 2019, CEEMID had collected information on 20 European markets, including the United Kingdom, and processed data on far more markets. The state51 music group, through its distribution arm, has been supporting the creation of the largest ever European market report, the &lt;a href=&#34;https://ceereport2020.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Market Report&lt;/a&gt;, and supported the creation of the CEEMID-CI indexes, which, for the first time provided a stock-index type of view from an individual rightsholder’s perspective on volume and price movements in the UK and in other countries. The state51 music group drew attention to the observatory approach and this work in the Digital, Culture, Media and Sport Committee (DCMS) Select Committee of the British House of Commons. The MCE project first individually contacted the Digital Music Observatory (successor of CEEMID) and state51, and eventually with the permission of state51, the project commissioned this report, which re-uses the CEEMID-CI indexes. The MCE project also committed to share data in the Digital Music Observatory.&lt;/p&gt;
+&lt;p&gt;The first chapter is divided into three subchapters: &lt;a href=&#34;https://mce.dataobservatory.eu/intro.html#theoretical-challenges&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1.1&lt;/a&gt; the theoretical problems imposed by copyright law and intellectual property valuation methods; &lt;a href=&#34;https://mce.dataobservatory.eu/intro.html#policy-issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1.2&lt;/a&gt; policy issues related to the copyright management problems that lead to large amounts of unpaid royalties and value transfer, as well as potential problems with AI distribution systems and royalty distribution rules; and &lt;a href=&#34;https://mce.dataobservatory.eu/intro.html#empirical-challenges&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1.3&lt;/a&gt; identifying and offering solutions for empirical problems in estimating the relevant earnings indicators for individual rightsholders.&lt;/p&gt;
+&lt;p&gt;The second chapter presents the CEEMID-CI indexes, and gives an explanation to the seemingly paradoxical situation of total market growth, and the feeling of individual righthsolders that their earnings remain flat or decreasing. We show in &lt;a href=&#34;https://mce.dataobservatory.eu/empirical.html#streaming-value&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2.1&lt;/a&gt; that revenues that are flat or slightly growing are caused by growing volumes and falling prices (See &lt;a href=&#34;https://mce.dataobservatory.eu/empirical.html#streaming-volume&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2.2 https://mce.dataobservatory.eu/empirical.html#streaming-volume&lt;/a&gt;; &lt;a href=&#34;https://mce.dataobservatory.eu/empirical.html#streaming-price&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2.3  CEEMID-CI Streaming Price Index&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;The third chapter, using computer simulations, gives a fuller picture. It shows that in the UK and many other markets, in the period of 2016-2019, the growth of streaming use hardly offset the diminishing price (value) of the streams. In many markets, rightsholders, expressed in British pounds, experienced flat earnings, which was by a large extent due to the benevolent USD/GBP, EUR/GBP, and CHF/GBP exchange rates. It is likely that the majority of individual rightsholders experienced flat or diminishing revenues, and later releases brought less and less revenue per a thousand streams. A less benevolent exchange rate environment could have brought very large losses of revenue (See &lt;a href=&#34;https://mce.dataobservatory.eu/simulation-results.html#exchange-rate-effects&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3.4&lt;/a&gt; for more details.)&lt;/p&gt;
+&lt;p&gt;Our computer simulations show that British rightsholders are experiencing a rather varied picture of music streaming. Because of the generally falling value of streams, short-lived hits are more impacted by value decline than perennial hits (See subchapters &lt;a href=&#34;https://mce.dataobservatory.eu/simulation-results.html#difference-popularity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3.1&lt;/a&gt; and &lt;a href=&#34;https://mce.dataobservatory.eu/simulation-results.html#release-time&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3.2&lt;/a&gt;.) Rightsholders with a diversified international audience are partly shielded by these effects (See &lt;a href=&#34;https://mce.dataobservatory.eu/simulation-results.html#difference-international&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3.3&lt;/a&gt;.) Younger stars and new genres generally experience a windfall from the pro-rata distribution system and older artists with more conventional genres such as rock or blues are experiencing headwinds. The publicly available market totals are hiding completely different market experiences.&lt;/p&gt;
+&lt;p&gt;The MCE project and its stakeholders did not provide us with any data. Our detailed data from other jurisdictions, however, shows that music streaming has been successfully competing with other sales/distribution formats of music partly because it was much cheaper, and generally devalued music-related rights. This is particularly the case with media platforms like YouTube. For the UK, which is not planning to adopt new EU regulations, closing the value gap is an important policy task. We also show on the example of other countries that current policy debate in the UK around the re-definition of equitable remuneration rigths, or on the pro-rata or user-centrique distribution schemes, are gaining excessive focus, and changes in these aspects of the streaming ecosystem will solve the problems of few, if any, rightsholders. We believe that the music industry must look beyond the current practices of streaming pricing and distribution, for example, to telecommunication services, and investigate the adoption of a more just system.&lt;/p&gt;
+&lt;p&gt;Our report highlights some important lessons. First, we show that in the era of global music sales platforms it is impossible to understand the economics of music streaming without international data harmonization and advanced surveying and sampling. Paradoxically, without careful adjustments for accruals, market shares in jurisdictions, and disaggregation of price and volume changes, the British industry cannot analyze its own economics because of its high level of integration to the global music economy. Furthermore, the replacement of former public performances, mechanical licensing, and private copying remunerations (which has been available for British rightsholders in their European markets for decades) with less valuable streaming licenses has left many rightsholders poorer. Making adjustments on the distribution system without modifying the definition of equitable remuneration rights or the pro-rata distribution scheme of streaming platforms opens up many conflicts while solving not enough fundamental problems.  Therefore, we suggest participation in international data harmonization and policy coordination to help regain the historical value of music.&lt;/p&gt;
+&lt;h2 id=&#34;related-work&#34;&gt;Related Work&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://music.dataobservatory.eu/publication/listen_local_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feasibility Study On Promoting Slovak Music In Slovakia &amp;amp; Abroad&lt;/a&gt;: Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets? How can we measure the market share of the Slovak music in the domestic and foreign markets? We offer some answers and solution based on empirical research and with the creation of a database and an AI application.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://music.dataobservatory.eu/publication/music_level_playing_field_2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Streaming: Is It a Level Playing Field?&lt;/a&gt;: Our paper argues that fair competition in music streaming is restricted by the nature of the remuneration arrangements between creators and the streaming platforms, the role of playlists, and the strong negotiating power of the major labels. It concludes that urgent consideration should be given to a user-centric payment system, as well as greater transparency of the factors underpinning playlist creation and of negotiated agreements.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://music.dataobservatory.eu/publication/european_visibilitiy_2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ensuring the Visibility and Accessibility of European Creative Content on the World Market: The Need for Copyright Data Improvement in the Light of New Technologies&lt;/a&gt;: While the US have already taken steps to provide an integrated data space for music as of 1 January 2021, the EU is facing major obstacles not only in the field of music but also in other creative industry sectors. Weighing costs and benefits, there can be little doubt that new data improvement initiatives and sufficient investment in a better copyright data infrastructure should play a central role in EU copyright policy. A trade-off between data harmonisation and interoperability on the one hand, and transparency and accountability of content recommender systems on the other, could pave the way for successful new initiatives.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://music.dataobservatory.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt;: The results of the first Hungarian, Slovak, Croatian and Czech music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;call-for-open-collaboration&#34;&gt;Call for Open Collaboration&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Do you need high-quality data for your music business or institution? Are you a music researcher? Join our open collaboration Digital Music Observatory team as a &lt;a href=&#34;https://reprex.nl/authors/curator&#34;&gt;data curator&lt;/a&gt;, &lt;a href=&#34;https://reprex.nl/authors/developer&#34;&gt;developer&lt;/a&gt; or &lt;a href=&#34;https://reprex.nl/authors/team&#34;&gt;business developer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research &amp; Analysis: Music Creators’ Earnings in the Digital Era</title>
+      <link>https://reprex.nl/post/2021-09-23-mce_reports/</link>
+      <pubDate>Thu, 23 Sep 2021 08:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/post/2021-09-23-mce_reports/</guid>
+      <description>&lt;p&gt;Reprex with its &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory team&lt;/a&gt; was commissioned to prepare an analysis on the justified and not justified differences in music creators’ earnings.  We have posted our most important findings in an earlier blogpost (&lt;a href=&#34;https://music.dataobservatory.eu/post/2021-06-18-mce/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Creators’ Earnings in the Streaming Era. United Kingdom Research Cooperation With the Digital Music Observatory&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The UK Intellectual Property Office has published the entire report on the music creators’ earnings, and we have made our detailed analysis available in a side-publication. Reprex also signed an agreement with the researchers of the Music Creators’ Earnings project to deposit all data published in the report in the Digital Music Observatory, and to promote the building of the observatory further.&lt;/p&gt;
+&lt;p&gt;The research questions asked in this report are related to the &lt;a href=&#34;https://www.gov.uk/government/publications/music-creators-earnings-in-the-digital-era&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Creator Earnings&amp;rsquo; Project&lt;/a&gt; (MCE), exploring issues concerning equitable remuneration and earnings distributions. We were tasked with providing a longitudinal analysis of earnings development and relating our findings to equitable remuneration. The starting point of our work was centred around a very broadly defined problem: how much money music creators (rightsholders) earn from streaming, how these earnings are distributed, and how the earnings and their distribution have developed during the last decade.&lt;/p&gt;
+&lt;p&gt;The highly globalized music industry generates two important international reports, as well as several national reports, but these are not suitable for the analysis of the typical or average rightsholder, nor for small labels and publishers who do not represent a large and internationally diversified portfolio of music works or recordings. Copyright and neighboring right revenues are collected in national jurisdictions. Because British artists are almost never constrained by their use of language, and the UK Music Industry is highly competitive in the global music markets, even relatively less known rightsholders earn revenues from dozens of national markets. The lack of market information on music sales volumes, prices for each jurisdiction, and the unaccounted for national, domestic, and foreign revenues makes the analysis of the rightholder’s earnings, or the economics of a certain distribution channel like music streaming or media platforms, impossible.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-effect-of-international-diversification-on-revenues---a-combination-of-international-price-differences-and-exchange-rate-fluctuations&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/reports/mce/Effect_International_Diversification_Revenues_Coplot.png&#34; alt=&#34;The Effect of International Diversification on Revenues - a combination of international price differences and exchange rate fluctuations.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      The Effect of International Diversification on Revenues - a combination of international price differences and exchange rate fluctuations.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;While total earnings are reported by international and national organizations, they hide five important economic variables: changes in sales volumes, changes in prices, market share on various national jurisdictions (which have their own volume and price movements), the exchange rates applied, and the share of the repertoire exploited. Even worse, the global music industry has no comprehensive database of rightsholders, music works, and recordings – this is the data gap that we would like fill with the Digital Music Observatory.&lt;/p&gt;
+&lt;p&gt;Our &lt;a href=&#34;https://mce.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;report&lt;/a&gt; highlights some important lessons. First, we show that in the era of global music sales platforms it is impossible to understand the economics of music streaming without international data harmonization and advanced surveying and sampling. Paradoxically, without careful adjustments for accruals, market shares in jurisdictions, and disaggregation of price and volume changes, the British industry cannot analyze its own economics because of its high level of integration to the global music economy. Furthermore, the replacement of former public performances, mechanical licensing, and private copying remunerations (which has been available for British rightsholders in their European markets for decades) with less valuable streaming licenses has left many rightsholders poorer. Making adjustments on the distribution system without modifying the definition of equitable remuneration rights or the pro-rata distribution scheme of streaming platforms opens up many conflicts while solving not enough fundamental problems.  Therefore, we suggest participation in international data harmonization and policy coordination to help regain the historical value of music.&lt;/p&gt;
+&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/blogposts_20121/dcms_economics_music_streaming.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;The idea of our Digital Music Observatory was brought to the UK policy debate on music streaming by the &lt;em&gt;Written evidence submitted by The state51 Music Group&lt;/em&gt; to the &lt;em&gt;Economics of music streaming review&lt;/em&gt; of the UK Parliaments&amp;rsquo; DCMS Committee&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;The music industry requires a permanent market monitoring facility to win fights in competition tribunals, because it is increasingly disputing revenues with the world’s biggest data owners. This was precisely the role of the former CEEMID&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; program, which was initiated by a group of collective management societies. Starting with three relatively data-poor countries, where data pooling allowed rightsholders to increase revenues, the CEEMID data collection program was extended in 2019 to 12 countries.The &lt;a href=&#34;https://ceereport2020.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;final regional report&lt;/a&gt;, after the release of the detailed &lt;a href=&#34;https://music.dataobservatory.eu/publication/hungary_music_industry_2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hungarian&lt;/a&gt;, &lt;a href=&#34;https://music.dataobservatory.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak&lt;/a&gt; and &lt;a href=&#34;https://music.dataobservatory.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Croatian reports&lt;/a&gt; of CEEMID was sponsored by Consolidated Independent (of the &lt;em&gt;state51 music group&lt;/em&gt;.)&lt;/p&gt;
+&lt;p&gt;CEEMID was eventually to formed into the &lt;em&gt;Demo Music Observatory&lt;/em&gt; in 2020&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, following the planned structure of the  &lt;a href=&#34;https://dataandlyrics.com/post/2020-11-16-european-music-observatory-feasibility/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Music Observatory&lt;/a&gt;, and validated in the world&amp;rsquo;s 2nd ranked university-backed incubator, the Yes!Delft AI+Blockchain Validation Lab. In 2021, under the final name &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt;, it became open for any rightsholder or stakeholder organization or music research institute, and it is being launched with the help of the &lt;a href=&#34;https://dataandlyrics.com/post/2021-03-04-jump-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JUMP European Music Market Accelerator Programme&lt;/a&gt; which is co-funded by the Creative Europe Programme of the European Union.&lt;/p&gt;
+&lt;p&gt;In December 2020, we started investigating how the music observatory concept could be introduced in the UK, and how our data and analytical skills could be used in the &lt;a href=&#34;https://digit-research.org/research/related-projects/music-creators-earnings-in-the-streaming-era/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Creators’ Earnings in the Streaming Era&lt;/a&gt; (in short: MCE) project, which is taking place paralell to the heated political debates around the DCMS inquiry. After the &lt;em&gt;state51 music group&lt;/em&gt; gave permission for the UK Intellectual Property Office to reuse the data that was originally published as the experimental &lt;a href=&#34;https://ceereport2020.ceemid.eu/market.html#recmarket&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID-CI Streaming Volume and Revenue Indexes&lt;/a&gt;, we came to a cooperation agreement between the MCE Project and the &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt;. We provided a detailed historical analysis and computer simulation for the MCE Project, and we will host all the data of the &lt;em&gt;Music Creators’ Earnings Report&lt;/em&gt; in our observatory, hopefully no later than early July 2021.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-digital-music-observatoryhttpsmusicdataobservatoryeu-contributes-to-the-music-creators-earnings-in-the-streaming-era-project-with-understanding-the-level-of-justified-and-unjustified-differences-in-rightsholder-earnings-and-putting-them-into-a-broader-music-economy-context&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/observatory_screenshots/dmo_opening_screen.png&#34; alt=&#34;The [Digital Music Observatory](https://music.dataobservatory.eu/) contributes to the Music Creators’ Earnings in the Streaming Era project with understanding the level of justified and unjustified differences in rightsholder earnings, and putting them into a broader music economy context.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      The &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt; contributes to the Music Creators’ Earnings in the Streaming Era project with understanding the level of justified and unjustified differences in rightsholder earnings, and putting them into a broader music economy context.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;We started our cooperation with the two  principal investigators of the project, &lt;a href=&#34;https://music.dataobservatory.eu/author/prof-david-hesmondhalgh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof David Hesmondhalgh&lt;/a&gt; and &lt;a href=&#34;https://music.dataobservatory.eu/author/hyojung-sun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Hyojugn Sun&lt;/a&gt; back in April and will start releasing the findings and the data in July 2021.&lt;/p&gt;
+&lt;h2 id=&#34;join-us&#34;&gt;Join us&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Do you need high-quality data for your music business or institution? Are you a music researcher? Join our open collaboration Digital Music Observatory team as a &lt;a href=&#34;https://reprex.nl/authors/curator&#34;&gt;data curator&lt;/a&gt;, &lt;a href=&#34;https://reprex.nl/authors/developer&#34;&gt;developer&lt;/a&gt; or &lt;a href=&#34;https://reprex.nl/authors/team&#34;&gt;business developer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;footnote-references&#34;&gt;Footnote References&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;state51 Music Group. 2020. “Written Evidence Submitted by The state51 Music Group. Economics of Music Streaming Review. Response to Call for Evidence.” UK Parliament website. &lt;a href=&#34;https://committees.parliament.uk/writtenevidence/15422/html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://committees.parliament.uk/writtenevidence/15422/html/&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Artisjus, HDS, SOZA, and Candole Partners. 2014. “Measuring and Reporting Regional Economic Value Added, National Income and Employment by the Music Industry in a Creative Industries Perspective. Memorandum of Understanding to Create a Regional Music Database to Support Professional National Reporting, Economic Valuation and a Regional Music Study.”&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Antal, Daniel. 2021. “Launching Our Demo Music Observatory.” &lt;em&gt;Data &amp;amp; Lyrics&lt;/em&gt;. Reprex. &lt;a href=&#34;https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Music Creators&#39; Earning Project</title>
+      <link>https://reprex.nl/project/mce/</link>
+      <pubDate>Tue, 29 Sep 2020 10:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/project/mce/</guid>
+      <description>&lt;p&gt;Reprex with its &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory team&lt;/a&gt; was commissioned to prepare an analysis on the justified and not justified differences in music creators’ earnings.  We have posted our most important findings in an earlier blogpost (&lt;a href=&#34;https://music.dataobservatory.eu/post/2021-06-18-mce/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Creators’ Earnings in the Streaming Era. United Kingdom Research Cooperation With the Digital Music Observatory&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The UK Intellectual Property Office has published the entire report on the music creators’ earnings, and we have made our detailed analysis available in a side-publication. Reprex also signed an agreement with the researchers of the Music Creators’ Earnings project to deposit all data published in the report in the Digital Music Observatory, and to promote the building of the observatory further.&lt;/p&gt;
+&lt;p&gt;The research questions asked in this report are related to the &lt;a href=&#34;https://www.gov.uk/government/publications/music-creators-earnings-in-the-digital-era&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Creator Earnings&amp;rsquo; Project&lt;/a&gt; (MCE), exploring issues concerning equitable remuneration and earnings distributions. We were tasked with providing a longitudinal analysis of earnings development and relating our findings to equitable remuneration. The starting point of our work was centred around a very broadly defined problem: how much money music creators (rightsholders) earn from streaming, how these earnings are distributed, and how the earnings and their distribution have developed during the last decade.&lt;/p&gt;
+&lt;p&gt;We have started to retrospectively harmonize the Music Creators Earnigs survey for the the Digital Music Observatory. The survey’s raw data is accessible on the website of the UKIPO &lt;a href=&#34;https://www.gov.uk/government/publications/music-creators-earnings-in-the-digital-era&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.
+Because of the bias of the survey, we did not include statistical indicators of the survey yet in our observatory, but we made the processed data available on our open repository space on Zenodo.
+Nevertheless, because of the relatively large sample size (n=708) we believe that important comparisons can be made with our &lt;a href=&#34;https://reprex.nl/project/ceemid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID surveys&lt;/a&gt;, and we can shed some light on the earnings distribution of UK artists, and the way they distribute and finance their recordings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;see our &lt;a href=&#34;https://reprex.nl/publication/mce_empirical_streaming_2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See our main findings in a &lt;a href=&#34;https://music.dataobservatory.eu/post/2021-06-18-mce/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogpost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See the first version of the processed, machine readable, partially cleaned &lt;a href=&#34;https://zenodo.org/record/5615530#.YXvMGJ5BzIU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;datafile&lt;/a&gt; of the Music Creators Earnings survey 2020.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

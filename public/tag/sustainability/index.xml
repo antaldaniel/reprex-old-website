@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sustainability | Reprex</title>
+    <link>https://reprex.nl/tag/sustainability/</link>
+      <atom:link href="https://reprex.nl/tag/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <description>sustainability</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jun 2022 09:40:00 +0100</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>sustainability</title>
+      <link>https://reprex.nl/tag/sustainability/</link>
+    </image>
+    
+    <item>
+      <title>Music Eviota</title>
+      <link>https://reprex.nl/project/musiceviota/</link>
+      <pubDate>Thu, 09 Jun 2022 09:40:00 +0100</pubDate>
+      <guid>https://reprex.nl/project/musiceviota/</guid>
+      <description>&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-reporting-the-impacts-of-the-entire-value-chain&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Reporting the impacts of the entire value chain.&#34; srcset=&#34;
+               /media/img/eviota/Scope3_chart_16x9_hu81c1fe0b93fa6721ab158b4e6fbc6f21_139223_43b52122e0051695682d67c8269be519.webp 400w,
+               /media/img/eviota/Scope3_chart_16x9_hu81c1fe0b93fa6721ab158b4e6fbc6f21_139223_524ddda7e3e6b2c781616a7a29cb6296.webp 760w,
+               /media/img/eviota/Scope3_chart_16x9_hu81c1fe0b93fa6721ab158b4e6fbc6f21_139223_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/eviota/Scope3_chart_16x9_hu81c1fe0b93fa6721ab158b4e6fbc6f21_139223_43b52122e0051695682d67c8269be519.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Reporting the impacts of the entire value chain.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;Our minimum viable product will create sustainability reports (or report components) for greenhouse gases and sustainable water use with applying the &lt;code&gt;Global GHG Accounting &amp;amp; Reporting Standard for the Financial Industry&lt;/code&gt; and EFRAG’s proposed concept on connecting European accounting standards and information with sustainability. We will help small music organizations in their sustainability reporting, where detail data and reporting standards are only available for greenhouse gas emissions. The &lt;code&gt;Music Eviota&lt;/code&gt; project is supported by the &lt;a href=&#34;#greenrecovery&#34;&gt;MusicAIRE&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;open-collaboration&#34;&gt;Open collaboration&lt;/h2&gt;
+&lt;p&gt;Our project is based on open collaboration.  Our proposal, if funded, will provide us with resources to supply further music businesses, music civil society organizations and researchers with high-quality data (during the duration of the project for free.)  We are already looking for interested parties to put our data and research projects into use and validate their usability and quality in real-life policy or business development scenarios.&lt;/p&gt;
+&lt;h2 id=&#34;why-are-we-developing-this-service&#34;&gt;Why are we developing this service?&lt;/h2&gt;
+&lt;p&gt;The European Green Deal, which includes the proposed Corporate Sustainability Reporting Directive, and the sustainable finance package, aims to set the European economy on a permanent decarbonization and sustainability increasing path with adjusting the rules how economic activities are financed by bank loans, insurance, investments, and direct subsidies. From 2023, it will be cheaper to get loans, insurance, and other types of funding for organizations that can prove that they follow the environmental, social and
+governance path set out in the Paris Agreement and other UN, OECD, and EU agreements.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-requirements-for-connecting-financial-and-sustainability-reporting&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Requirements for connecting financial and sustainability reporting.&#34; srcset=&#34;
+               /media/img/eviota/Eviota_EFRAG_requirements_hu3389cdfb13c4fd9efff0a2d75d3bc17d_231927_ba07bcb2cab6a041c8fa07a66f44c402.webp 400w,
+               /media/img/eviota/Eviota_EFRAG_requirements_hu3389cdfb13c4fd9efff0a2d75d3bc17d_231927_4a745162ba521fe0933b7f1e31de6032.webp 760w,
+               /media/img/eviota/Eviota_EFRAG_requirements_hu3389cdfb13c4fd9efff0a2d75d3bc17d_231927_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/eviota/Eviota_EFRAG_requirements_hu3389cdfb13c4fd9efff0a2d75d3bc17d_231927_ba07bcb2cab6a041c8fa07a66f44c402.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Requirements for connecting financial and sustainability reporting.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;Correct and reliable sustainability management will come with many financial advantages and increased responsibility. The &lt;a href=&#34;https://www.efrag.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Financial Reporting Advisory Board&lt;/a&gt; is currently preparing the new combined financial and sustainability reporting standard that will be used in banks, insurance, investment, granting, and the large companies of Europe in their entire supply and purchaser chain. The European Commission estimates that compliance costs until the end of 2023 will amount to 4 billion euros, with reporting and auditing costs mounting 10,000 euros per organization. While music small and medium sized organizations (MSMEs) and limited liability civil society organizations (CSOs) will be exempted from mandatory sustainability management and audited reporting, they can still comply in a non-audited and voluntary way.&lt;/p&gt;
+&lt;p&gt;Our solution benefits the music MSMEs and CSOs in several ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; It provides them with a size adequate sustainability management and reporting tool that helps first the management of greenhouse gas emissions, and later sustainable water use, pollutions, biodiversity, and recycling in their entire value chain (for example, it flags environmental risks in the supply base of a festival including equipment rentals, transport, security firms, catering facilities, etc.) by connecting standard accounting documents of the MSME with SNA and EEA science based benchmarks.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Our system will be extendible to management of social sustainability. Our previous research shows that particularly the live music industry that needs a large workforce, suffers from underuse of, and discrimination of female workers in various technical and even managerial roles. Our system will be able to flag risks of gender paygap and related issues in the entire value chain and of course, provide good benchmarks for internal activities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our review of the environmental, social and governance risk management (ESG sustainability management) suggests that complying with ESG standards is not only a pre-requisite to get cheaper loans (less important) and cheaper insurance (very important in live music), but also a requirement by corporate sponsors of events, and even a large part of the audience. While some music organizations already provide sustainability reporting, they are not standardized and are less factful as they are not connected to accounting information at every point. Our solution aims to give much credibility to both the sustainability
+reports and non-financial disclosures of the financial reports (which are not mandatory for MSMEs but increase their trustworthiness on an elective basis if they are included.)&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-growing-interest-for-esg-in-select-countries&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Growing interest for ESG in select countries.&#34; srcset=&#34;
+               /media/img/eviota/ESG_Google_Trends_16x9_huc3bd75ffb5daec299206cbea1c4b49e6_542409_0a59bfe887466112faad4bfbc9443a02.webp 400w,
+               /media/img/eviota/ESG_Google_Trends_16x9_huc3bd75ffb5daec299206cbea1c4b49e6_542409_a1272dfbaa30da4a4a48191780a56d5b.webp 760w,
+               /media/img/eviota/ESG_Google_Trends_16x9_huc3bd75ffb5daec299206cbea1c4b49e6_542409_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/eviota/ESG_Google_Trends_16x9_huc3bd75ffb5daec299206cbea1c4b49e6_542409_0a59bfe887466112faad4bfbc9443a02.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Growing interest for ESG in select countries.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;h2 id=&#34;greenrecovery&#34;&gt;Green Recovery in the Music Sector&lt;/h2&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-co-funded-by-the-european-union&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Co-funded by the European Union&#34; srcset=&#34;
+               /media/img/logos/MusicAIRE_logo_black_hu2c6e08479b5f3c62063661100bfb33ae_373549_f712046d9511936c522120741ad086db.webp 400w,
+               /media/img/logos/MusicAIRE_logo_black_hu2c6e08479b5f3c62063661100bfb33ae_373549_d0894d0df28d77d5af6bd1cb14df1097.webp 760w,
+               /media/img/logos/MusicAIRE_logo_black_hu2c6e08479b5f3c62063661100bfb33ae_373549_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/logos/MusicAIRE_logo_black_hu2c6e08479b5f3c62063661100bfb33ae_373549_f712046d9511936c522120741ad086db.webp&#34;
+               width=&#34;445&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Co-funded by the European Union
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;The objectives of the MusicAIRE GREEN recovery program is increasing the music sector’s environmental sustainability and ecological awareness with a view to greening the music industry, in particular live acts, festivals and touring, as well as supporting innovative start-ups aiming at decreasing the environmental footprint of online data storing and music distribution.&lt;/p&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-co-funded-by-the-european-union&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Co-funded by the European Union&#34; srcset=&#34;
+               /media/img/logos/EN_Co-Funded_by_the_EU_POS_hu56a7d8d0a185b66fdb582ea3263fa6a4_70600_7120502fec540e84fa8d4dc788eef5f8.webp 400w,
+               /media/img/logos/EN_Co-Funded_by_the_EU_POS_hu56a7d8d0a185b66fdb582ea3263fa6a4_70600_420e17c70cd589d75cdd2a643da84678.webp 760w,
+               /media/img/logos/EN_Co-Funded_by_the_EU_POS_hu56a7d8d0a185b66fdb582ea3263fa6a4_70600_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/logos/EN_Co-Funded_by_the_EU_POS_hu56a7d8d0a185b66fdb582ea3263fa6a4_70600_7120502fec540e84fa8d4dc788eef5f8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;160&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Co-funded by the European Union
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reproducible Economic Impact Assessment</title>
+      <link>https://reprex.nl/post/2021-12-20-environmental_impact/</link>
+      <pubDate>Sun, 19 Dec 2021 13:00:00 +0100</pubDate>
+      <guid>https://reprex.nl/post/2021-12-20-environmental_impact/</guid>
+      <description>&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-get-started-with--iotableshttpsiotablesdataobservatoryeuindexhtml&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://reprex.nl/media/img/blogposts_2021/iotables_0_4_7.png&#34; alt=&#34;Get started with  [iotables](https://iotables.dataobservatory.eu/index.html).&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Get started with  &lt;a href=&#34;https://iotables.dataobservatory.eu/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iotables&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;We made an important, peer-reviewed release of iotables in the last week as a preparation to increase the functionality of our open-source software. The official release of the iotables R package currently works with economic impact assessments, and can evaluate the likely employment, tax, wage, or gross value added direct, indirect and multiplied impacts of various policy changes in about 30 countries.&lt;/p&gt;
+&lt;p&gt;Originally the package was developed to calculate the economic impact of the Hungarian film tax shelter and the impact of the music sector on the Slovak economy. (See &lt;a href=&#34;https://music.dataobservatory.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak Music Industry Report&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;The new CRAN release improved the documentation of the function and removed most outdated dependencies.  The new, development version (which did not go through peer-review yet) is adding new functionality for environmental impact analysis with the following pollutants:  Carbon dioxide without emissions from biomass (&lt;code&gt;CO2&lt;/code&gt;), Carbon dioxide from biomass (&lt;code&gt;Biomass CO2&lt;/code&gt;), Nitroux oxide (&lt;code&gt;N2O&lt;/code&gt;), Methane (&lt;code&gt;CH4&lt;/code&gt;), Perfluorocarbons (&lt;code&gt;PFCs&lt;/code&gt;), Hydrofluorocarbons (&lt;code&gt;HFCs&lt;/code&gt;), Sulphur hexafluoride (SF6) including nitrogen trifluoride (&lt;code&gt;NF3&lt;/code&gt;), Nitrogen oxides (&lt;code&gt;NOx&lt;/code&gt;), Non-methane volatile organic compounds, (NMVOC), Carbon monoxide (&lt;code&gt;CO&lt;/code&gt;), Particulate matter &amp;lt; 10μm (&lt;code&gt;PM10&lt;/code&gt;), Particulate matter &amp;lt; 2,5μm (&lt;code&gt;PM2,5&lt;/code&gt;), Sulphur dioxide (&lt;code&gt;SO2&lt;/code&gt;), Ammonia (&lt;code&gt;NH3&lt;/code&gt;) and their combinations (see &lt;a href=&#34;https://ec.europa.eu/eurostat/cache/metadata/en/env_ac_ainah_r2_esms.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reference Metadata in Euro SDMX Metadata Structure (ESMS)&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Our aim is to develop new sustainable finance applications, and understand the sustainability impacts of bank’s lending activities and insurer’s underwriting activities on climate change mitigation and adoption, biodiversity, preservation of water reservers, preventing pollution, and promoting the circular economy.&lt;/p&gt;
+&lt;h2 id=&#34;eu-taxonomy-on-sustainable-activities&#34;&gt;EU Taxonomy on Sustainable Activities&lt;/h2&gt;
+&lt;p&gt;The European Commission created an created an &lt;a href=&#34;https://ec.europa.eu/sustainable-finance-taxonomy/tool/index_en.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EU Taxonomy Compass&lt;/a&gt;, which provides a visual representation of the contents of the EU Taxonomy, starting with the Delegated Act on the climate objectives, as adopted on 4 June 2021. Whilst you can download the EU Taxonomy in &lt;code&gt;xlsx&lt;/code&gt; or &lt;code&gt;json&lt;/code&gt; format, they are not tidy datasets, and they are not particularly well-suited for calculations, filtering, or inclusion in applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://reprex.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reprex&lt;/a&gt; created a tidy version of the EU Taxonomy for developing better sustainability indicators into the &lt;a href=&#34;https://greendeal.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Deal Data Observatory&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;open-data&#34;&gt;Open Data&lt;/h2&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-eu-taxonomy-on-sustainable-activities-tidy-downloadhttpszenodoorgrecord5791921yb9un2jmliu&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;EU Taxonomy on Sustainable Activities (Tidy) [download](https://zenodo.org/record/5791921#.Yb9UN2jMLIU).&#34; srcset=&#34;
+               /media/img/blogposts_2021/tidy_eu_taxonomy_on_zenodo_huc44c1a1ba6df93a8d236ece24ac631bf_205462_b833f168c2c83ac62651705c602098e9.webp 400w,
+               /media/img/blogposts_2021/tidy_eu_taxonomy_on_zenodo_huc44c1a1ba6df93a8d236ece24ac631bf_205462_26dcc2483d83ed1843846dbbd7ae2829.webp 760w,
+               /media/img/blogposts_2021/tidy_eu_taxonomy_on_zenodo_huc44c1a1ba6df93a8d236ece24ac631bf_205462_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://reprex.nl/media/img/blogposts_2021/tidy_eu_taxonomy_on_zenodo_huc44c1a1ba6df93a8d236ece24ac631bf_205462_b833f168c2c83ac62651705c602098e9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      EU Taxonomy on Sustainable Activities (Tidy) &lt;a href=&#34;https://zenodo.org/record/5791921#.Yb9UN2jMLIU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;download&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;p&gt;Using our &lt;code&gt;iotables&lt;/code&gt; is not for the faint heart.  It is a scientific software, and it requires a good command of national accounts, input-output economics and sustainability to work with.  Our Green Deal Data Observaotry is designed to be an API of scientific software, and produce clean, ready to use data for researchers, policy-makers and business planners who do not have the skills to work with scientific software. We are planning to release well-designed datasets that go through dozens of checks to make sure they have the best data quality.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Do you want to develop input-output models for any European country to measure the direct and indirect green house gas impacts of policy actions?  Do you need well-formatted data on interindustry linkages or other relevant topics for sustainable economy or susitainable finance research?  Get in touch with us – we are happy to help and test our new software tool with data you need, and create high-quality, open datasets that are ready to use.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reprex introduction in IVIR</title>
+      <link>https://reprex.nl/talk/reprex-introduction-in-ivir/</link>
+      <pubDate>Tue, 02 Feb 2021 10:10:00 +0000</pubDate>
+      <guid>https://reprex.nl/talk/reprex-introduction-in-ivir/</guid>
+      <description>&lt;p&gt;IViRtual 9 April 2021&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

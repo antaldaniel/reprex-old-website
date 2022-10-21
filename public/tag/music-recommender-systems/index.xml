@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music recommender systems | Reprex</title>
+    <link>https://reprex.nl/tag/music-recommender-systems/</link>
+      <atom:link href="https://reprex.nl/tag/music-recommender-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Music recommender systems</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Dec 2020 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reprex.nl/media/icon_hub9491570ac57158c0eeecc95c95b13e5_20247_512x512_fill_lanczos_center_3.png</url>
+      <title>Music recommender systems</title>
+      <link>https://reprex.nl/tag/music-recommender-systems/</link>
+    </image>
+    
+    <item>
+      <title>Feasibility Study On Promoting Slovak Music In Slovakia &amp; Abroad</title>
+      <link>https://reprex.nl/publication/listen_local_2020/</link>
+      <pubDate>Sun, 27 Dec 2020 11:00:00 +0000</pubDate>
+      <guid>https://reprex.nl/publication/listen_local_2020/</guid>
+      <description>&lt;p&gt;Download the study &lt;a href=&#34;https://zenodo.org/record/6427556/files/Listen_Local_Feasibility_Study_2020_SK.pdf?download=1&#34; target=&#34;_blank&#34;&gt;in Slovak&lt;/a&gt; or &lt;a href=&#34;https://zenodo.org/record/6427514/files/Listen_Local_Feasibility_Study_2020_EN.pdf?download=1&#34; target=&#34;_blank&#34;&gt;in English&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In 2015, realizing the low visibility and income-generating potential of Slovak music, the legislation introduced an amendment to the broadcasting act to regulate local content in radiostreams. The Slovak content promoting policy was well-intended but not based on any impact assessment, and it reached its goal only partially.&lt;/p&gt;
+&lt;p&gt;The Slovak broadcasting quotas in comparison with other national quotas a very simple, and they are impossible to measure, which makes both compliance and enforcement very difficult. Radio editors do not get any help to find music that fits into the playlists and fulfil the quota obligations – in many cases, it is impossible for them to find out if a song actually meets the quota requirements. For the same reason, neither is enforcement possible.&lt;/p&gt;
+&lt;p&gt;Another deficiency of the broadcasting quotas is that because of its fuzzy target, it is not clear whom it tries to help, and it has few friends. It is unclear how performers, composers or Slovak music producers can benefit from the system. Furthermore, it only helps a few genres, and it decreases the chances of other Slovak music in instrumental and non-Slovak language genres (for example, classical, jazz, rock) to be heard.&lt;/p&gt;
+&lt;p&gt;And at last, radio is losing its importance in music discovery. New generation find the music during their music discovery age on YouTube and digital streaming platforms. A Slovak content promoting policy that does not work on digital streaming platforms will be obsolete when radio content providers will switch to digital streaming in the foreseeable future.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Feasibility Study follows the following logic:&lt;/strong&gt;
+In the first chapter we introduce various music recommendation systems in the context of local content promotion polices, like local mandatory content quota regulations.&lt;/p&gt;
+&lt;p&gt;In the second chapter, we consider the market-based or creative industry economy supporting policy goals, measurements, and potential support given to artists and producers.&lt;/p&gt;
+&lt;p&gt;We then turn in the third chapter to content-based local regulations promoting the use of the Slovak language or Slovak music content, irrespective of the performers and producers nationality, residence or ethnicity.&lt;/p&gt;
+&lt;p&gt;We introduce the idea of the &lt;strong&gt;Slovak Music Database&lt;/strong&gt;, a comprehensive, mainly opt-in, opt-out database that of Slovak artists and Slovak music that should be supported by the local content regulation and other policies. We also create a Demo Slovak Music Database to understand the problem and scope of the creation of the comprehensive version.&lt;/p&gt;
+&lt;p&gt;The project website contains the &lt;a href=&#34;https://listen-local.net/project/demo-sk-music-db/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Slovak Music Database&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We also created a &lt;a href=&#34;https://listen-local.net/project/demo-app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Recommendation System&lt;/a&gt;. We explain here &lt;a href=&#34;https://listen-local.net/post/2020-11-23-alternative-recommendations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;why&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;research-questions&#34;&gt;Research questions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets?&lt;/li&gt;
+&lt;li&gt;How can we measure the market share of the Slovak music in the domestic and foreign markets?&lt;/li&gt;
+&lt;li&gt;How can we measure the value gap between what some media platforms, most particularly the biggest YouTube, does not pay out to the Slovak stakeholders within Slovakia?&lt;/li&gt;
+&lt;li&gt;What is the interplay of the various definitions on market share and national quota targets?&lt;/li&gt;
+&lt;li&gt;How ‘shadow-markets’ of home copying and unlicensed media platforms, such as YouTube impact market shares directly and national quotas indirectly?&lt;/li&gt;
+&lt;li&gt;How can modern data science, predictive microeconomics and statistics help increase the market share of Slovak music in Slovakia and abroad?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks for the entire Reprex team who contributed to the English version:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Emily H. Clarke&lt;/strong&gt;, musicology&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stef Koenis&lt;/strong&gt;, musicologist, musician&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Andrés Garcia Molina&lt;/strong&gt;, data scientist, musicologist, editor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kátya Nagy&lt;/strong&gt;, music journalist, research assistant;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;and the Slovak version:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dominika Semaňáková&lt;/strong&gt;, musicologist, editor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dáša Bulíková&lt;/strong&gt;, musician, translator.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

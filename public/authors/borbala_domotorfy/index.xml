@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Borbála Dömötörfy | Reprex</title>
+    <link>https://reprex.nl/authors/borbala_domotorfy/</link>
+      <atom:link href="https://reprex.nl/authors/borbala_domotorfy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Borbála Dömötörfy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://reprex.nl/authors/borbala_domotorfy/avatar_hu658825551b8d0aa19744a1707cf28ad2_216929_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Borbála Dömötörfy</title>
+      <link>https://reprex.nl/authors/borbala_domotorfy/</link>
+    </image>
+    
+  </channel>
+</rss>
